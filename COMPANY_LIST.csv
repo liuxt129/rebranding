@@ -1,0 +1,3954 @@
+,cik,companyName,stockSymbol,with10K
+0,886475,"'mktg, inc.'",cmkg,1
+1,0000038723,1st FRANKLIN FINANCIAL CORP,ffhs,1
+2,0001118974,"30Dc, Inc.",tdch,1
+3,0000910638,3D Systems Corp,ddd,1
+4,0001375195,3Dicon Corp,tdcp,1
+5,0001023731,8X8 Inc /DE/,eght,1
+6,0001011290,99 CENTS ONLY STORES LLC,ndn,1
+7,0001413898,A. H. Belo CORP,ahc,1
+8,0001580808,"A10 Networks, Inc.",aten,1
+9,0001002388,"ACCELRYS, INC.",accl,1
+10,0000712034,ACCO BRANDS Corp,acco,1
+11,0001680062,"ACM Research, Inc.",ACMR,1
+12,0001163932,ACTIVE NETWORK INC,actv,1
+13,0001062478,ACTUATE CORP,birt,1
+14,0001400482,ACUCELA INC.,aucl,1
+15,0001223112,ADA-ES INC,,1
+16,0001059763,ADAMS GOLF INC,,1
+17,0001004724,"ADCARE HEALTH SYSTEMS, INC",adk,1
+18,0000849401,"ADM TRONICS UNLIMITED, INC.",admt,1
+19,0001076167,ADOLOR CORP,,1
+20,0001546640,ADT Corp,adt,1
+21,0001435049,"ADURO BIOTECH, INC.",adro,1
+22,0001604028,"ADVANCED DRAINAGE SYSTEMS, INC.",wms,1
+23,0000849706,ADVANCED ENVIRONMENTAL RECYCLING TECHNOLOGIES INC,aert,1
+24,0001122411,ADVANCED SEMICONDUCTOR ENGINEERING INC,asx,0
+25,0001158838,ADVANTEST CORP,ate,0
+26,0000868857,AECOM,acm,1
+27,0000769218,AEGON NV,aeb,0
+28,0001702494,"AEP Transmission Company, LLC",,1
+29,0000040888,"AEROJET ROCKETDYNE HOLDINGS, INC.",gy,1
+30,0000109471,AEROSONIC CORP /DE/,aim,1
+31,0001004434,"AFFILIATED MANAGERS GROUP, INC.",amg,1
+32,0001282543,AFFIRMATIVE INSURANCE HOLDINGS INC,affm,1
+33,0001158223,AFFYMAX INC,affy,1
+34,0000836809,"AFTERMASTER, INC.",aftm,1
+35,0001261249,AGILE THERAPEUTICS INC,agrx,1
+36,0000943003,AGRIUM INC,agu,0
+37,0000926660,AIMCO PROPERTIES L.P.,aiv_priv1,1
+38,0001272842,AIRGAIN INC,airg,1
+39,0000948846,AIRTRAN HOLDINGS INC,aai,1
+40,0000766421,"ALASKA AIR GROUP, INC.",alk,1
+41,0000886125,ALCATEL LUCENT,alu,0
+42,0000004281,ALCOA INC.,arnc,1
+43,0001167379,ALCON INC,,0
+44,0001423824,ALDER BIOPHARMACEUTICALS INC,aldr,1
+45,0000874663,ALKERMES INC,,1
+46,0000889156,ALLBRITTON COMMUNICATIONS CO,,1
+47,0000003673,"ALLEGHENY ENERGY, INC",,1
+48,0001109448,ALLIANCEBERNSTEIN L.P.,ab,1
+49,0000072499,ALLIANZ LIFE INSURANCE CO OF NORTH AMERICA,azsey,0
+50,0000874710,ALLIED HEALTHCARE PRODUCTS INC,ahpi,1
+51,0001097264,ALLOS THERAPEUTICS INC,alth,1
+52,0000352736,ALLSTATE LIFE INSURANCE CO,all_priv1,1
+53,0001387467,ALPHA & OMEGA SEMICONDUCTOR Ltd,aosl,1
+54,900278,"ALPS ALPINE CO., LTD.",,0
+55,0001108332,ALVARION LTD,alvrq,0
+56,0000874501,AMBAC FINANCIAL GROUP INC,ambc,1
+57,0001621697,AMBER GROUP INC,ambg,1
+58,0001565025,AMBEV S.A.,abev,0
+59,0001047919,AMBIENT CORP /NY,ambtq,1
+60,0001131543,AMBIT BIOSCIENCES CORP,ambi,1
+61,0000813621,AMCOL INTERNATIONAL CORP,aco,1
+62,0001269026,AMEDICA Corp,amda,1
+63,0001129137,AMERICA MOVIL SAB DE CV/,amx,0
+64,0000004611,AMERICAN BILTRITE INC,ablt,1
+65,0001468679,AMERICAN CRYOSTEM Corp,cryo,1
+66,0001073146,AMERICAN INTERNATIONAL INDUSTRIES INC,amin,1
+67,0000774517,AMERICAN LEARNING Corp,alrn,1
+68,0000880555,AMERICAN MEDIA INC,amerm_priv,1
+69,0000700721,AMERICAN MEDICAL ALERT CORP,,1
+70,0001114200,AMERICAN MEDICAL SYSTEMS HOLDINGS INC,ammd,1
+71,0000780392,"AMERICAN MULTI-CINEMA, INC.",,0
+72,0000350832,AMERICAN PACIFIC CORP,apfc,1
+73,0001114605,AMERICAN SCIENTIFIC RESOURCES INC,asfx,1
+74,0001005214,AMERICAN WAGERING INC,,1
+75,0000799850,AMERICAS CARMART INC,crmt,1
+76,0001455863,AMERICOLD REALTY TRUST,cold,1
+77,0001064863,AMERIGROUP CORP,amgp,1
+78,0000912145,AMERISTAR CASINOS INC,asca,1
+79,0000790730,AMERON INTERNATIONAL CORP,,1
+80,0001457757,"AMFM Broadcasting, Inc.",,0
+81,0001047127,"AMKOR TECHNOLOGY, INC.",amkr,1
+82,0001024729,AMSCAN HOLDINGS INC,amsn,1
+83,0000881464,AMYLIN PHARMACEUTICALS INC,amln,1
+84,0000006292,ANALYSTS INTERNATIONAL CORP,anly,1
+85,0001370053,ANAPTYSBIO INC,anab,1
+86,0000006494,ANDREA ELECTRONICS CORP,andr,1
+87,0001096481,ANGIOTECH PHARMACEUTICALS INC,anpmf,1
+88,0001023024,ANI PHARMACEUTICALS INC,anip,1
+89,0001016169,"ANTARES PHARMA, INC.",atrs,1
+90,0001468516,AOL Inc.,aol,1
+91,0000949297,"APAC CUSTOMER SERVICES, INC",,1
+92,0001081078,API Technologies Corp.,atny,1
+93,0000929887,APOLLO EDUCATION GROUP INC,apol,1
+94,0001433195,APPFOLIO INC,appf,1
+95,0001441683,APPIAN CORP,appn,1
+96,0001144326,APPLETON PAPERS INC/WI,,1
+97,0000882289,APRIA HEALTHCARE GROUP INC,ahg,1
+98,0000109758,ARBITRON INC,arb,1
+99,0001305168,"ARC DOCUMENT SOLUTIONS, INC.",arc,1
+100,0000826326,"ARC Group Worldwide, Inc.",arcw,1
+101,0001452872,"ARC Group, Inc.",arck,1
+102,0000907654,"ARCA biopharma, Inc.",abio,1
+103,0001072343,ARCH CHEMICALS INC,arj,1
+104,0001437402,"ARDELYX, INC.",ardx,1
+105,0001176948,ARES MANAGEMENT LP,ares,1
+106,0001105533,ARGOS THERAPEUTICS INC,args,1
+107,0001084755,ARIBA INC,arba,1
+108,0001645494,ARRIS International plc,arrs,1
+109,0001086195,ART TECHNOLOGY GROUP INC,,1
+110,0001005010,ARTHROCARE CORP,artc,1
+111,0001070361,ARTIFICIAL LIFE INC,alif,1
+112,0001655759,"ARVINAS, INC.",arvn,1
+113,0001100969,"ASIAINFO-LINKAGE, INC",asia,1
+114,0001426800,"ASSEMBLY BIOSCIENCES, INC.",asmb,1
+115,0000802967,"ASSOCIATED MATERIALS, LLC",side,1
+116,0000008497,ASSURANCEAMERICA CORP,asam,1
+117,0001690881,"ASV HOLDINGS, INC.",asv,1
+118,0000732717,AT&T INC.,t,1
+119,0001140486,ATHEROS COMMUNICATIONS INC,,1
+120,0000893821,ATTUNITY LTD,attu,0
+121,0001172494,AU OPTRONICS CORP,auo,0
+122,0001138830,AUTHENTEC INC,auth,1
+123,0001182129,AUXILIUM PHARMACEUTICALS INC,auxl,1
+124,0001348036,"AVALARA, INC.",avlr,1
+125,0000858803,"AVANIR PHARMACEUTICALS, INC.",avnr,1
+126,0001116521,AVAYA INC,av,1
+127,0001343304,AVEDRO INC,avdr,1
+128,0001644963,"AVENUE THERAPEUTICS, INC.",atxi,1
+129,0001528903,AVG Technologies N.V.,avg,0
+130,0001111632,AVISTAR COMMUNICATIONS CORP,avsr,1
+131,0001431888,"AVT, Inc.",avtcq,1
+132,0000859163,AVX Corp,avx,1
+133,0000727920,AXA EQUITABLE LIFE INSURANCE CO,axa_priv,1
+134,0001092492,AXESSTEL INC,axst,1
+135,0001514946,"AXIM BIOTECHNOLOGIES, INC.",axim,1
+136,0001566265,AXIOM CORP.,axmm,1
+137,0000001750,Aar Corp,air,1
+138,0000881890,Abaxis Inc,abax,1
+139,0001091587,Abb Ltd,abb,0
+140,0001551152,AbbVie Inc.,abbv,1
+141,0000001800,Abbott Laboratories,abt,1
+142,0001018840,Abercrombie & Fitch Co /DE/,anf,1
+143,0000815094,Abiomed Inc,abmd,1
+144,0000771497,Abm Industries Inc /DE/,abm,1
+145,0001070494,Acadia Pharmaceuticals Inc,acad,1
+146,0000727207,"Accelerate Diagnostics, Inc",axdx,1
+147,0001280600,Acceleron Pharma Inc,xlrn,1
+148,0001176316,Access National Corp,ancx,1
+149,0000749254,"Access to Money, Inc.",,1
+150,0001138723,Accuray Inc,aray,1
+151,0000817979,Accuride Corp,acw,1
+152,0001301501,Achaogen Inc,akao,1
+153,0000935036,"Aci Worldwide, Inc.",aciw,1
+154,0001557746,"Aclaris Therapeutics, Inc.",acrs,1
+155,0000002098,Acme United Corp,acu,1
+156,0001008848,Acorda Therapeutics Inc,acor,1
+157,0000884629,"Actavis, Inc.",agn,1
+158,0001044435,Active Power Inc,acpw,1
+159,0001429896,"Activecare, Inc.",acar,1
+160,0000006955,Actuant Corp,atu,1
+161,0001144215,Acuity Brands Inc,ayi,1
+162,0000786947,"Acura Pharmaceuticals, Inc",acur,1
+163,0000733269,Acxiom Corp,acxm,1
+164,0001328143,Adamas Pharmaceuticals Inc,adms,1
+165,0000865415,Adept Technology Inc,adep,1
+166,0000796343,Adobe Systems Inc,adbe,1
+167,0000926282,Adtran Inc,adtn,1
+168,0001011060,AdvanSource Biomaterials Corp,asnb,1
+169,0001669792,"AdvancePierre Foods Holdings, Inc.",apfh,1
+170,0000927003,Advanced Energy Industries Inc,aeis,1
+171,0000002488,Advanced Micro Devices Inc,amd,1
+172,0000352991,Advanced Oxygen Technologies Inc,aoxy,1
+173,0000869986,Advanced Photonix Inc,api,1
+174,0001002225,Advent Software Inc /DE/,advs,1
+175,0001338042,"Aegerion Pharmaceuticals, Inc.",aegr,1
+176,0000785787,Aep Industries Inc,aepi,1
+177,0001337553,Aerie Pharmaceuticals Inc,aeri,1
+178,0001316644,"AeroGrow International, Inc.",aero,1
+179,0001368622,AeroVironment Inc,avav,1
+180,0001036848,Aerocentury Corp,acy,1
+181,0001168213,Aeropostale Inc,aro,1
+182,0000874761,Aes Corp,aes,1
+183,0001113423,Aeterna Zentaris Inc.,aezs,0
+184,0001122304,Aetna Inc /PA/,aet,1
+185,0001499268,Affinity Gaming,afft_priv,1
+186,0000913077,Affymetrix Inc,affx,1
+187,0000880266,Agco Corp /DE,agco,1
+188,0001708599,"AgeX Therapeutics, Inc.",,1
+189,0001098972,Agenus Inc,agen,1
+190,0001090872,Agilent Technologies Inc,a,1
+191,0001439222,Agios Pharmaceuticals Inc,agio,1
+192,0001631650,"Aimmune Therapeutics, Inc.",aimt,1
+193,0000816159,Air Methods Corp,airm,1
+194,0000002969,Air Products & Chemicals Inc /DE/,apd,1
+195,0001403720,"AirTouch Communications, Inc.",atch,1
+196,0000804212,Airgas Inc,arg,1
+197,0001311523,Ajax Tocco Magnethermic CORP,,0
+198,0001086222,Akamai Technologies Inc,akam,1
+199,0001321834,Akers Biosciences Inc,aker,1
+200,0000003116,Akorn Inc,akrx,1
+201,0000897077,Alamo Group Inc,alg,1
+202,0000819793,Albany International Corp /DE/,ain,1
+203,0001065087,Albany Molecular Research Inc,amri,1
+204,0000915913,Albemarle Corp,alb,1
+205,0001368457,Alberto-Culver CO,,1
+206,0001145460,Alere Inc.,alr,1
+207,0001545654,"Alexander & Baldwin, Inc.",alex,1
+208,0000003499,Alexanders Inc,alx,1
+209,0001035443,Alexandria Real Estate Equities Inc,are,1
+210,0000899866,Alexion Pharmaceuticals Inc,alxn,1
+211,0000003545,Alico Inc,alco,1
+212,0001097149,Align Technology Inc,algn,1
+213,0001267602,Alimera Sciences Inc,alim,1
+214,1734520,Alithya Group Inc,,0
+215,0001362468,Allegiant Travel CO,algt,1
+216,0000850693,Allergan Inc,agn,1
+217,0000066756,Allete Inc,ale,1
+218,0001101215,Alliance Data Systems Corp,ads,1
+219,0000817135,"Alliance HealthCare Services, Inc",aiq,1
+220,0000352541,Alliant Energy Corp,lnt,1
+221,0001054274,"Alliqua BioMedical, Inc.",alqa,1
+222,0000003982,Allis Chalmers Energy Inc.,aly,1
+223,0001411207,Allison Transmission Holdings Inc,alsn,1
+224,0001124804,"Allscripts Healthcare Solutions, Inc.",mdrx,1
+225,0000040729,Ally Financial Inc.,ally,1
+226,0000799231,Almost Family Inc,afam,1
+227,0001178670,"Alnylam Pharmaceuticals, Inc.",alny,1
+228,0001301063,"Alpha Natural Resources, Inc.",anr,1
+229,0000884269,Alpha Pro Tech Ltd,apt,1
+230,1652044,Alphabet Inc.,goog,1
+231,0001518403,"Alta Mesa Holdings, LP",altamh,1
+232,0001695519,AltaGas Ltd.,,0
+233,0001701732,Altair Engineering Inc.,ALTR,1
+234,0000768251,Altera Corp,altr,1
+235,0000104777,"Alteva, Inc.",altv,1
+236,0000764180,"Altria Group, Inc.",mo,1
+237,0000792977,Amag Pharmaceuticals Inc.,amag,1
+238,0000897448,Amarin Corp Plc\Uk,amrn,1
+239,0000020639,Ambase Corp,abcp,1
+240,0001162315,Ambassadors Group Inc,epax,1
+241,0001002910,Ameren Corp,aee,1
+242,0001488139,"Ameresco, Inc.",amrc,1
+243,0000006201,American Airlines Group Inc.,aal,1
+244,0001336545,"American Apparel, Inc",app,1
+245,0001062231,American Axle & Manufacturing Holdings Inc,axl,1
+246,0000896747,American Bio Medica Corp,abmc,1
+247,0001579823,"American Brewing Company, Inc.",abrw,1
+248,0001297735,American Casino & Entertainment Properties LLC,amece_priv,1
+249,0000919012,American Eagle Outfitters Inc,aeo,1
+250,0000004904,American Electric Power Co Inc,aep,1
+251,0000004962,American Express Co,axp,1
+252,0001042046,American Financial Group Inc,afg,1
+253,0000005133,American Greetings Corp,am_priv,1
+254,0001562401,American Homes 4 Rent,amh,1
+255,0000005272,American International Group Inc,aig,1
+256,0001344596,"American Railcar Industries, Inc.",arii,1
+257,0001410997,"American Realty Capital Trust, Inc.",arct,1
+258,0001614106,"American Renaissance Capital, Inc.",arcp_priv,1
+259,0001498068,"American Renal Associates Holdings, Inc.",ara,1
+260,0001525040,"American Renal Associates Holdings, Inc.",,1
+261,0000277905,"American Retail Group, Inc.",argb,1
+262,cr54973,"American Savings Bank, FSB",,0
+263,0000005768,"American Science & Engineering, Inc.",asei,1
+264,0000744825,American Shared Hospital Services,ams,1
+265,0000713425,American Software Inc,amswa,1
+266,0000880807,American Superconductor Corp /DE/,amsc,1
+267,0001323891,"American Tire Distributors Holdings, Inc.",atd.n,1
+268,0001053507,American Tower Corp /MA/,amt,1
+269,0001410636,"American Water Works Company, Inc.",awk,1
+270,0000794619,American Woodmark Corp,amwd,1
+271,0000820027,Ameriprise Financial Inc,amp,1
+272,0000351569,Ameris Bancorp,abcb,1
+273,0001018979,Amerisafe Inc,amsf,1
+274,0000707605,Ameriserv Financial Inc /PA/,asrv,1
+275,0001140859,Amerisourcebergen Corp,abc,1
+276,0001037868,Ametek Inc/,ame,1
+277,0000318154,Amgen Inc,amgn,1
+278,0001178879,Amicus Therapeutics Inc,fold,1
+279,0001167905,"Amincor, Inc.",amncb,1
+280,0001723128,"Amneal Pharmaceuticals, Inc.",amrx,1
+281,0000006176,Ampco Pittsburgh Corp,ap,1
+282,0001297184,"Amphastar Pharmaceuticals, Inc.",amph,1
+283,0000820313,Amphenol Corp /DE/,aph,1
+284,0001640313,"Amplify Snack Brands, INC",betr,1
+285,0000006207,Amrep Corp.,axr,1
+286,0000895930,Amsurg Corp,amsg,1
+287,0000720500,Amtech Systems Inc,asys,1
+288,0001365555,"Amtrust Financial Services, Inc.",afsi,1
+289,0001365916,"Amyris, Inc.",amrs,1
+290,0001411158,"Anacor Pharmaceuticals, Inc.",anac,1
+291,0000773910,Anadarko Petroleum Corp,apc,1
+292,0000940332,Anadigics Inc,anad,1
+293,0000006281,Analog Devices Inc,adi,1
+294,0000006284,Analogic Corp,alog,1
+295,0001540755,"Anaplan, Inc.",plan,1
+296,0001448301,Anchor Bancorp,ancb,1
+297,0000821026,"Andersons, Inc.",ande,1
+298,0001491778,"Angie's List, Inc.",angi,1
+299,0001275187,Angiodynamics Inc,ango,1
+300,0001668717,Anheuser-Busch InBev SA/NV,bud,0
+301,0000898437,"Anika Therapeutics, Inc.",anik,1
+302,0001043219,Annaly Capital Management Inc,nly,1
+303,0001431897,"Annie's, Inc.",bnny,1
+304,0001013462,Ansys Inc,anss,1
+305,0001156039,"Anthem, Inc.",antm,1
+306,0001316175,Anthera Pharmaceuticals Inc,anth,1
+307,8271,Apacer Technology Inc. (宇瞻科技),,0
+308,0000006769,Apache Corp,apa,1
+309,1733418,Aphria Inc.,,0
+310,0001324772,Apigee Corp,apic,1
+311,0000006845,"Apogee Enterprises, Inc.",apog,1
+312,0000320193,Apple Inc,aapl,1
+313,0000862861,Appliance Recycling Centers Of America Inc /MN,arci,1
+314,0000744452,Applied Dna Sciences Inc,apdn,1
+315,0000109563,Applied Industrial Technologies Inc,ait,1
+316,0000006951,Applied Materials Inc /DE,amat,1
+317,0000711065,Applied Micro Circuits Corp,amcc,1
+318,0001158114,"Applied Optoelectronics, Inc.",aaoi,1
+319,0001419625,Apptio Inc,apti,1
+320,0001444570,Aptalis Pharma Inc,,1
+321,0000896622,Aptargroup Inc,atr,1
+322,0001603978,"AquaBounty Technologies, Inc.",aqb,1
+323,0001422841,AquaVenture Holdings Ltd,waas,1
+324,0001398733,"Aquestive Therapeutics, Inc.",aqst,1
+325,0001013238,Aradigm Corp,ardm,1
+326,0001584509,Aramark,armk,1
+327,0001509190,"Aratana Therapeutics, Inc.",petx,1
+328,0001469443,"Arcadia Biosciences, Inc.",rkda,1
+329,0001243429,ArcelorMittal,mt,0
+330,0001037676,Arch Coal Inc,aci,1
+331,0000007084,Archer Daniels Midland Co,adm,1
+332,0001470699,"Archipelago Learning, Inc.",,1
+333,0000719866,Arctic Cat Inc,acat,1
+334,0001080709,Arena Pharmaceuticals Inc,arna,1
+335,0001091748,"Argo Group International Holdings, Ltd.",agii,1
+336,0000879796,Ari Network Services Inc /Wi,aris,1
+337,0000884731,Ariad Pharmaceuticals Inc,aria,1
+338,0001596532,"Arista Networks, Inc.",anet,1
+339,0001736946,"Arlo Technologies, Inc.",arlo,1
+340,0001655075,"Armstrong Flooring, Inc.",afi,1
+341,0000007431,Armstrong World Industries Inc,awi,1
+342,0001019695,Arqule Inc,arql,1
+343,0001100412,Array Biopharma Inc,arry,1
+344,0000819689,Arrhythmia Research Technology Inc /DE/,hrt,1
+345,0001141107,Arris Group Inc,arrs,1
+346,0000007536,Arrow Electronics Inc,arw,1
+347,0000879407,Arrowhead Research Corp,arwr,1
+348,0001419178,Artio Global Investors Inc.,art,1
+349,0001173752,"Aruba Networks, Inc.",arun,1
+350,0001432967,"As Seen On TV, Inc.",astv,1
+351,0001144980,Asbury Automotive Group Inc,abg,1
+352,0001350102,"Ascent Solar Technologies, Inc.",asti,1
+353,0001604738,Ashford Inc,ainc,1
+354,0001305014,Ashland Inc.,ash,1
+355,0001506545,"Aspect Software Parent, Inc.",aspt,1
+356,0000929940,Aspen Technology Inc /DE/,azpn,1
+357,0000007789,Associated Banc-Corp,asb,1
+358,cr917742,"Associated Bank, N.A.",,0
+359,0000911635,Associated Estates Realty Corp,aec,1
+360,0001267238,Assurant Inc,aiz,1
+361,0001273813,Assured Guaranty Ltd,ago,1
+362,0000945989,Astea International Inc,atea,1
+363,0000792987,Astec Industries Inc,aste,1
+364,0000919722,"Astex Pharmaceuticals, Inc",astx,1
+365,0000008063,Astronics Corp,atro,1
+366,0000884144,Asure Software Inc,asur,1
+367,0001131096,Athenahealth Inc,athn,1
+368,0000008177,Atlantic American Corp,aame,1
+369,0001135185,Atlas Air Worldwide Holdings Inc,aaww,1
+370,0000872448,Atmel Corp,atml,1
+371,0000731802,Atmos Energy Corp,ato,1
+372,0001323885,"AtriCure, Inc.",atrc,1
+373,0000008411,Atwood Oceanics Inc,atw,1
+374,0001201663,Audience Inc,adnc,1
+375,0001086434,Audiocodes Ltd,audc,0
+376,0000826253,Aura Systems Inc,ausi,1
+377,0000810208,"AuraSound, Inc.",aruzq,1
+378,0001624517,Aureus Inc,arsn,1
+379,0001507858,"Austin Acquisitions, Inc",,1
+380,0000885074,Authentidate Holding Corp,adat,1
+381,0001023364,Autobytel Inc,abtl,1
+382,0000769397,Autodesk Inc,adsk,1
+383,0000008670,Automatic Data Processing Inc,adp,1
+384,0000350698,"Autonation, Inc.",an,1
+385,0000866787,Autozone Inc,azo,1
+386,0000915912,Avalonbay Communities Inc,avb,1
+387,0001303849,"Avantair, Inc",aair,1
+388,0001325879,Aveo Pharmaceuticals Inc,aveo,1
+389,0000008818,Avery Dennison Corp,avy,1
+390,0000896841,"Avid Technology, Inc.",avid,1
+391,0000104918,Avista Corp,ava,1
+392,0000008858,Avnet Inc,avt,1
+393,0000008868,Avon Products Inc,avp,1
+394,0001015739,Aware Inc /MA/,awre,1
+395,0000753048,"Axion International Holdings, Inc.",axih,1
+396,0001028153,"Axion Power International, Inc.",axpw,1
+397,0000805928,"AxoGen, Inc.",axgn,1
+398,0001603756,"Axonics Modulation Technologies, Inc.",axnx,1
+399,0001051627,Axt Inc,axti,1
+400,0000008947,Azz Inc,azz,1
+401,0001278027,"B&G Foods, Inc.",bgs,1
+402,0001341878,"B-Scada, Inc.",scda,1
+403,0000861361,B/E AEROSPACE INC,beav,1
+404,0001123596,"BAB, INC.",babb,1
+405,0001171032,BAKERS FOOTWEAR GROUP INC,bkrsq,1
+406,0000009342,BALDOR ELECTRIC CO,,1
+407,0000805792,BALDWIN TECHNOLOGY CO INC,,1
+408,0001591565,"BALLY, CORP.",blyq,1
+409,0001169770,"BANC OF CALIFORNIA, INC.",banc,1
+410,0000842180,"BANCO BILBAO VIZCAYA ARGENTARIA, S.A.",bbva,0
+411,0001071371,BANCOLOMBIA SA,cib,0
+412,0001109525,BANCORP RHODE ISLAND INC,,1
+413,0000927971,BANK OF MONTREAL /CAN/,,1
+414,0000009631,BANK OF NOVA SCOTIA,bns,1
+415,0000312070,BARCLAYS BANK PLC,cape,0
+416,0000312069,BARCLAYS PLC,bcs,0
+417,0000756894,BARRICK GOLD CORP,abx,0
+418,0001230355,"BAXANO SURGICAL, INC.",baxsq,1
+419,0001409775,"BBVA COMPASS BANCSHARES, INC",bbva,1
+420,0000921768,BBX CAPITAL CORP,bbx,1
+421,0000718940,BCE INC,bce,0
+422,0000789073,BEAM INC,beam,1
+423,0001409477,"BEAUTY BRANDS GROUP, INC.",bbgr,1
+424,0000840467,BECKMAN COULTER INC,bec,1
+425,0001051771,BELK INC,blkib,1
+426,0000759718,BERKSHIRE BANCORP INC /DE/,berk,1
+427,0001081316,BERKSHIRE HATHAWAY ENERGY CO,brk.b,1
+428,0000919465,BERRY PLASTICS CORP,,1
+429,0001709505,BEST Inc.,best,0
+430,0001655210,"BEYOND MEAT, INC.",bynd,1
+431,0001407038,"BG Medicine, Inc.",bgmd,1
+432,0001094831,"BGC Partners, Inc.",bgcp,1
+433,0001259045,BIG HEART PET BRANDS,sjm_priv1,1
+434,0001385228,"BIND Therapeutics, Inc",bind,1
+435,0000842023,BIO-TECHNE Corp,tech,1
+436,0001044378,BIOCEPT INC,bioc,1
+437,0000822418,BIOCLINICA INC,,1
+438,0001310488,"BIOFORCE NANOSCIENCES HOLDINGS, INC.",BFNH,1
+439,0001590383,"BIOHITECH GLOBAL, INC.",bhtg,1
+440,0000811240,"BIOLASE, INC",biol,1
+441,0001443062,BIOMEDICAL TECHNOLOGY SOLUTIONS HOLDINGS INC,bmtl,1
+442,0001138400,"BIOMIMETIC THERAPEUTICS, INC.",bmti,1
+443,0000704384,BIOVEST INTERNATIONAL INC,bvtiq,1
+444,0001179821,BIRKS GROUP INC.,bgi,0
+445,0000864328,BJ SERVICES CO,,1
+446,0001037461,BJS WHOLESALE CLUB INC,,1
+447,0001013488,BJs RESTAURANTS INC,bjri,1
+448,0001106942,BLACKBOARD INC,bbbb,1
+449,0001068875,"BLUCORA, INC.",bcor,1
+450,0001095600,BLUE COAT SYSTEMS INC,,1
+451,0000704870,BLUE DIAMOND COAL CO,,1
+452,0000012779,BLUE RIDGE REAL ESTATE CO,brre,1
+453,0001511863,BLUEDATA Corp,,1
+454,0001030896,BLUEFLY INC,bfly,1
+455,0000778946,BLUEGREEN VACATIONS CORP,bxg,1
+456,0000835729,BMC SOFTWARE INC,bmc,1
+457,0001574815,"BMC STOCK HOLDINGS, INC.",stck,1
+458,y91245415,BMO Financial Corp.,,0
+459,cr75633,BMO Harris Bank National Association,,0
+460,0000015511,BNSF RAILWAY CO,bnsf_priv,1
+461,cr934329,BNY Mellon National Association,,0
+462,0000033769,BOB EVANS FARMS INC,bobe,1
+463,0001379246,BODY CENTRAL CORP,body,1
+464,0001328581,BOISE CASCADE Co,bcc,1
+465,cr339858,"BOKF, NA",,0
+466,0000354655,BOLT TECHNOLOGY CORP,bolt,1
+467,0001331301,"BOULDER BRANDS, INC.",bdbd,1
+468,0000013573,BOWL AMERICA INC,bwl.a,1
+469,0000013610,BOWNE & CO INC,bne,1
+470,0001372612,BOX INC,box,1
+471,0000313807,BP PLC,bp,0
+472,1071438,BRASKEM SA,BRKM3,0
+473,0000918946,BRIGHTPOINT INC,cell,1
+474,0000820534,BRITISH TELECOMMUNICATIONS PLC /ADR,,0
+475,0001104358,BROADVIEW NETWORKS HOLDINGS INC,bvwn,1
+476,0000899597,BUCKEYE TECHNOLOGIES INC,bki,1
+477,0000740761,BUCYRUS INTERNATIONAL INC,bucy,1
+478,0000015393,BUREAU OF NATIONAL AFFAIRS INC,,1
+479,0000718916,BURLINGTON COAT FACTORY WAREHOUSE CORP,,1
+480,0000934612,"BURLINGTON NORTHERN SANTA FE, LLC",brlt_priv,1
+481,0000015847,BUTLER NATIONAL CORP,buks,1
+482,0000009092,Badger Meter Inc,bmi,1
+483,0000808362,Baker Hughes Inc,bhi,1
+484,0001701605,Baker Hughes a GE Co,bhge,1
+485,0000009326,Balchem Corp,bcpc,1
+486,0000009346,Baldwin & Lyons Inc,bwinb,1
+487,0000009389,Ball Corp,bll,1
+488,0000946454,"Ballantyne Strong, Inc.",btn,1
+489,0001453015,Ballard Power Systems Inc.,bldpd,0
+490,0000760498,Bancfirst Corp /Ok/,banf,1
+491,cr940311,Banco Popular de Puerto Rico,,0
+492,0000891478,"Banco Santander, S.A.",san,0
+493,cr606046,BancorpSouth Bank,,0
+494,0001514416,Bandwidth Inc.,band,1
+495,0001632323,Bang Holdings Corp.,bxng,1
+496,0001123270,Bank Mutual Corp,bkmu,1
+497,0000070858,Bank Of America Corp /DE/,bac,1
+498,0000046195,Bank Of Hawaii Corp,boh,1
+499,0001038205,Bank Of The Ozarks Inc,ozrk,1
+500,cr480228,"Bank of America, N.A.",,0
+501,0001403475,Bank of Marin Bancorp,bmrc,1
+502,0001390777,Bank of New York Mellon CORP,bk,1
+503,cr804963,Bank of the West,,0
+504,0001504008,"BankUnited, Inc.",bku,1
+505,0001518222,"Bankrate, Inc.",rate,1
+506,0001341470,"Banks.com, Inc.",bnnx,1
+507,0001505732,"Bankwell Financial Group, Inc.",bwfg,1
+508,0000009892,Bard C R Inc /Nj/,bcr,1
+509,0000890491,Barnes & Noble Inc,bks,1
+510,0000009984,Barnes Group Inc,b,1
+511,0001348334,Barracuda Networks Inc,cuda,1
+512,0001109189,Basic Energy Services Inc,bas,1
+513,0000010329,Bassett Furniture Industries Inc,bset,1
+514,0001659228,"Bats Global Markets, Inc.",bats,0
+515,0001620546,Baxalta Inc,bxlt,1
+516,0000010456,Baxter International Inc,bax,1
+517,0001330421,Bazaarvoice Inc,bv,1
+518,0000092230,Bb&T Corp,bbt,1
+519,0001128361,Bbcn Bancorp Inc,bbcn,1
+520,0001124941,Beacon Roofing Supply Inc,becn,1
+521,0001423357,Beamz Interactive Inc,bzic,1
+522,0000915840,Beazer Homes Usa Inc,bzh,1
+523,0000010795,Becton Dickinson & Co,bdx,1
+524,0000886158,Bed Bath & Beyond Inc,bbby,1
+525,0000729580,Bel Fuse Inc /Nj,belfb,1
+526,0000913142,Belden Inc.,bdc,1
+527,0000863436,Benchmark Electronics Inc,bhe,1
+528,0001431074,"Bergio International, Inc.",brgo,1
+529,0001067983,Berkshire Hathaway Inc,brk.a,1
+530,0001108134,Berkshire Hills Bancorp Inc,bhlb,1
+531,0000764478,Best Buy Co Inc,bby,1
+532,0000315858,Bfc Financial Corp,bfcf,1
+533,0001324105,"Bidz.com, Inc.",,1
+534,0001728599,"Big Time Holdings, Inc.",,0
+535,0001381325,"BigBand Networks, Inc.",,1
+536,0001275477,"Bimini Capital Management, Inc.",bmnm,1
+537,0000792641,Bio Reference Laboratories Inc,brli,1
+538,0001534287,BioAmber Inc.,bioa,1
+539,0001289236,BioMed Realty Trust Inc,bmr,1
+540,0001504167,BioPharmX Corp,bpmx,1
+541,0001014739,"BioScrip, Inc.",bios,1
+542,0001371128,BioSolar Inc,bsrc,1
+543,0001574774,"BioTelemetry, Inc.",beat,1
+544,0000720154,Bioanalytical Systems Inc,basi,1
+545,0000882796,Biocryst Pharmaceuticals Inc,bcrx,1
+546,0001103021,Biodelivery Sciences International Inc,bdsi,1
+547,0001712641,Biofrontera AG,bfra,0
+548,0000875045,Biogen Idec Inc.,biib,1
+549,0000834365,Biolife Solutions Inc,blfs,1
+550,0001048477,Biomarin Pharmaceutical Inc,bmrn,1
+551,0000073290,Biomerica Inc,bmra,1
+552,0001411690,"Bionano Genomics, Inc",bngow,1
+553,0000072444,"Biota Pharmaceuticals, Inc.",bota,1
+554,0000876343,Biotime Inc,btx,1
+555,0000818813,Bitstream Inc.,,1
+556,0000849547,Black Box Corp,bbox,1
+557,0000913277,"Black Diamond, Inc.",bde,1
+558,0001130464,Black Hills Corp /Sd/,bkh,1
+559,0001364742,BlackRock Inc.,blk,1
+560,0001280058,Blackbaud Inc,blkb,1
+561,0001411488,"Blackhawk Network Holdings, Inc",hawk,1
+562,0001102358,Blastgard International Inc,blga,1
+563,0001000683,Blonder Tongue Laboratories Inc,bdr,1
+564,0001664703,Bloom Energy Corp,be,1
+565,0001589526,Blue Bird Corp,blbd,1
+566,0001601545,"Blue Hills Bancorp, Inc.",bhbk,1
+567,0001091171,Blue Nile Inc,nile,1
+568,0001730773,Blue Star Foods Corp.,,1
+569,0001392091,"Blueknight Energy Partners, L.P.",bkep,1
+570,0000012927,Boeing Co,ba,1
+571,0001169988,Boingo Wireless Inc,wifi,1
+572,0000875357,Bok Financial Corp Et Al,bokf,1
+573,0001443646,Booz Allen Hamilton Holding Corp,bah,1
+574,0001277141,"Borderfree, Inc.",brdr,1
+575,0000908255,Borgwarner Inc,bwa,1
+576,0000949870,Boston Beer Co Inc,sam,1
+577,0000821127,Boston Private Financial Holdings Inc,bpfh,1
+578,0000885725,Boston Scientific Corp,bsx,1
+579,0001073349,Bottomline Technologies Inc /DE/,epay,1
+580,0000719135,Bovie Medical Corp,bvx,1
+581,0001624512,Boxlight Corp,boxl,1
+582,0000906553,Boyd Gaming Corp,byd,1
+583,0000746598,Brady Corp,brc,1
+584,cr852320,Branch Banking and Trust Company,,0
+585,0001495479,"Bravo Brio Restaurant Group, Inc.",bbrg,1
+586,0001357371,Breitburn Energy Partners LP,bbep,1
+587,0001378590,"Bridgeline Digital, Inc.",blin,1
+588,0001305323,Bridgepoint Education Inc,bpi,1
+589,0000014177,Bridgford Foods Corp,brid,1
+590,0000014195,Briggs & Stratton Corp,bgg,1
+591,0001437578,Bright Horizons Family Solutions Inc.,bfam,1
+592,0001313275,Brightcove Inc,bcov,1
+593,0000703351,Brinker International Inc,eat,1
+594,0000073887,Bristow Group Inc,brs,1
+595,0001581068,Brixmor Property Group Inc.,brx,1
+596,0001054374,Broadcom Corp,brcm,1
+597,0001383312,"Broadridge Financial Solutions, Inc.",br,1
+598,0001086909,"Broadsoft, Inc.",bsft,1
+599,0000073048,Broadview Institute Inc,bvii,1
+600,0000920448,Broadvision Inc,bvsn,1
+601,0001120370,"Broadwind Energy, Inc.",bwen,1
+602,0001009626,Brocade Communications Systems Inc,brcd,1
+603,0001332349,Brookdale Senior Living Inc.,bkd,1
+604,0001049782,Brookline Bancorp Inc,brkl,1
+605,0000933974,Brooks Automation Inc,brks,1
+606,0000079282,Brown & Brown Inc,bro,1
+607,0000014930,Brunswick Corp,bc,1
+608,0000802681,Bryn Mawr Bank Corp,bmtc,1
+609,0001054721,Bsquare Corp /WA,bsqr,1
+610,0000885245,Buckle Inc,bke,1
+611,0001062449,Buffalo Wild Wings Inc,bwld,1
+612,0001448597,Bullfrog Gold Corp.,bfgc,1
+613,0001144519,Bunge LTD,bg,1
+614,0001043277,C H Robinson Worldwide Inc,chrw,1
+615,0000808064,C&D TECHNOLOGIES INC,chhp,1
+616,831609,C21 Investments Inc.,,0
+617,0000350199,CACHE INC,cach,1
+618,0001173382,CAE INC,cae,0
+619,0000016104,CAGLES INC,cagaq,1
+620,0001388430,"CAI International, Inc.",cap,1
+621,0000014707,CALERES INC,bws,1
+622,0000812701,CALGON CARBON Corp,ccc,1
+623,0001014672,CALIPER LIFE SCIENCES INC,,1
+624,0000899426,CALYPTE BIOMEDICAL CORP,cbmc,1
+625,0000913443,CAMBRIDGE HEART INC,camh,1
+626,0001009001,CAMECO CORP,ccj,0
+627,0001045520,CANADIAN IMPERIAL BANK OF COMMERCE /CAN/,,0
+628,0001071992,CAPITAL BANK CORP,cbkn,1
+629,0000017313,CAPITAL SOUTHWEST CORP,cswc,1
+630,0000840264,CAPITOL BANCORP LTD,cbcrq,1
+631,0001009759,CAPSTONE TURBINE Corp,cpst,1
+632,0000937252,CAREADVANTAGE INC,cadv,1
+633,0001457543,CAREFUSION Corp,cfn,1
+634,0001125259,CARNIVAL PLC,cuk,1
+635,0000017927,CARROLS CORP,,1
+636,0000018061,CASCADE CORP,casc,1
+637,0001225525,CASCADES INC,cas,0
+638,0001433714,"CASTLIGHT HEALTH, INC.",cslt,1
+639,0001090403,"CATALYST HEALTH SOLUTIONS, INC.",chsi,1
+640,0001144906,CATALYST PAPER CORP,cystf,0
+641,0001175609,"CAVIUM, INC.",cavm,1
+642,0000944148,"CBIZ, Inc.",cbz,1
+643,0001609702,"CDK Global, Inc.",cdk,1
+644,0001402057,CDW Corp,cdw,1
+645,0001066104,CEB Inc.,ceb,1
+646,0000018429,CEDAR POINT INC,,0
+647,0001030894,CELESTICA INC,cls,0
+648,0001325279,CELLCYTE GENETICS CORP,ccyg,1
+649,0001076378,CEMEX SAB DE CV,cx,0
+650,0001475260,CENOVUS ENERGY INC.,cve,0
+651,0000048732,CENTERPOINT ENERGY HOUSTON ELECTRIC LLC,cnpp_priv,1
+652,0001042773,CENTERPOINT ENERGY RESOURCES CORP,cnp_priv,1
+653,0000018808,CENTRAL VERMONT PUBLIC SERVICE CORP,,1
+654,0001019650,CENTRUE FINANCIAL CORP,cfcb,1
+655,0001065059,CENTRUS ENERGY CORP,leu,1
+656,0000873364,CEPHALON INC,ceph,1
+657,0000018937,CERADYNE INC,crdn,1
+658,0001037962,CGG,cgg,0
+659,0001061574,CGI GROUP INC,gib,0
+660,0000777491,CH2M HILL COMPANIES LTD,ch2m_priv,1
+661,0000019353,CHARMING SHOPPES INC,,1
+662,0001364954,"CHEGG, INC",chgg,1
+663,0001123134,CHIPMOS TECHNOLOGIES INC,,0
+664,0001058090,CHIPOTLE MEXICAN GRILL INC,cmg,1
+665,0000884130,CHROMCRAFT REVINGTON INC,crcv,1
+666,0001132924,CHUNGHWA TELECOM CO LTD,cht,0
+667,0001008595,CIMATRON LTD,cimt,0
+668,0000786620,CIMETRIX INC,cmxx,1
+669,0000885975,CINEMARK USA INC /TX,cnk_priv1,1
+670,0001022505,CIPHERLOC Corp,clok,1
+671,0000813716,CIRTRAN CORP,circ,1
+672,0000858877,"CISCO SYSTEMS, INC.",csco,1
+673,cr3918898,"CIT Bank, N.A.",,0
+674,0001174527,CITADEL BROADCASTING CORP,cddgw,1
+675,0000759944,CITIZENS FINANCIAL GROUP INC/RI,cfg,1
+676,0000351077,"CITIZENS REPUBLIC BANCORP, INC.",crbc,1
+677,0000919628,CKE RESTAURANTS INC,ckr,1
+678,0000020740,CLARCOR INC.,clc,1
+679,0000840715,CLEARONE INC,clro,1
+680,0001089819,CLECO CORP,cnl,1
+681,0000811156,CMS ENERGY CORP,cms,1
+682,0001567094,CNH Industrial N.V.,cnhi,0
+683,0001093897,COASTAL BANKING CO INC,cbco,1
+684,0000030828,COBRA ELECTRONICS CORP,cobr,1
+685,0001491675,"COCA-COLA ENTERPRISES, INC.",cce,1
+686,0001158324,"COGENT COMMUNICATIONS HOLDINGS, INC.",ccoi,1
+687,0000894237,COGENTIX MEDICAL INC /DE/,cgnt,1
+688,0001018005,COLDWATER CREEK INC,cwtrq,1
+689,0001267565,"COLLEGIUM PHARMACEUTICAL, INC",coll,1
+690,0000909111,COLONIAL PROPERTIES TRUST,clp,1
+691,0001013844,COLONIAL REALTY LIMITED PARTNERSHIP,,1
+692,0001282607,COLONY RESORTS LVH ACQUISITIONS LLC,,1
+693,0001324482,COMMERCIAL BARGE LINE CO,,1
+694,0001035884,COMMSCOPE INC,,1
+695,0001361103,COMPLETE GENOMICS INC,gnom,1
+696,0000022872,COMPREHENSIVE CARE CORP,chcr,1
+697,0001372664,"COMVERGE, INC.",,1
+698,0000803014,COMVERSE TECHNOLOGY INC/NY/,,1
+699,0000896778,CONCEPTUS INC,cpts,1
+700,0001367920,"CONCERT PHARMACEUTICALS, INC.",cnce,1
+701,0000740112,CONCORD EFS INC,,1
+702,0001069353,CONEXANT SYSTEMS INC,cnxt,1
+703,0001211759,CONNECTURE INC,cnxr,1
+704,0001710366,CONSOL Energy Inc.,ceix,1
+705,0001047862,CONSOLIDATED EDISON INC,ed,1
+706,0000921500,CONSOLIDATED GRAPHICS INC /TX/,cgx,1
+707,0000732834,"CONTINENTAL RESOURCES, INC",clr,1
+708,0001080034,"CONVERSANT, INC.",cnvr,1
+709,0000934306,CONVERSION SERVICES INTERNATIONAL INC,cvnsq,1
+710,0001383154,"COPsync, Inc.",coyn,1
+711,0001066134,CORINTHIAN COLLEGES INC,coco,1
+712,0001145404,CORNERSTONE THERAPEUTICS INC,crtx,1
+713,0000718096,COSMO COMMUNICATIONS CORP,csmo,1
+714,0000798955,COST PLUS INC/CA/,cpwm,1
+715,0001054833,COVENTRY HEALTH CARE INC,cvh,1
+716,0000025354,CPI CORP,cpicq,1
+717,0001641614,CPI Card Group Inc.,pmts,1
+718,0000892222,"CRAFT BREW ALLIANCE, INC.",brew,1
+719,0000025475,CRAWFORD & CO,crd.b,1
+720,0001360474,CRC Health CORP,,1
+721,0001394638,CREATIVE LEARNING Corp,clcn,1
+722,0001356093,"CREATIVE REALITIES, INC.",crex,1
+723,0000882537,CREATOR CAPITAL LTD,ctorf,1
+724,0000277924,CREDO PETROLEUM CORP,cred,1
+725,0001674416,CRISPR Therapeutics AG,crsp,1
+726,0001449488,CSI Compressco LP,cclp,1
+727,0001646383,CSRA Inc.,csra,1
+728,0000891293,CTI BIOPHARMA CORP,ctic,1
+729,0001108967,"CUI Global, Inc.",cui,1
+730,0000039263,"CULLEN/FROST BANKERS, INC.",cfr,1
+731,0001510964,"CV Sciences, Inc.",canv,1
+732,0001377720,CYBERDEFENDER CORP,cydeq,1
+733,0000060876,CYBEX INTERNATIONAL INC,cybi,1
+734,0001365832,CYBRA CORP,cyrp,1
+735,0000897067,CYMER INC,cymi,1
+736,0001267130,Cabelas Inc,cab,1
+737,0001632127,"Cable One, Inc.",cabo,1
+738,0001053112,Cablevision Systems Corp /NY,cvc,1
+739,0000016040,Cabot Corp,cbt,1
+740,0001102934,Cabot Microelectronics Corp,ccmp,1
+741,0000016058,Caci International Inc /DE/,caci,1
+742,0001699136,"Cactus, Inc.",WHD,1
+743,0000813672,Cadence Design Systems Inc,cdns,1
+744,0001504379,CaesarStone Sdot-Yam Ltd.,cste,0
+745,0000858339,Caesars Entertainment Corp,czr,1
+746,0001117733,Cafepress Inc.,prss,1
+747,0000878560,"CalAtlantic Group, Inc.",spf,1
+748,0000320017,"Caladrius Biosciences, Inc.",nbs,1
+749,0001133470,Calavo Growers Inc,cvgw,1
+750,0001406666,"Calix, Inc",calx,1
+751,0000837465,Callaway Golf Co,ely,1
+752,0001035748,Callidus Software Inc,cald,1
+753,0001414628,"Calpian, Inc.",clpi,1
+754,0000916457,Calpine Corp,cpn,1
+755,0001466815,"Cambium Learning Group, Inc.",abcd,1
+756,0000750686,Camden National Corp,cac,1
+757,0000906345,Camden Property Trust,cpt,1
+758,0000941548,Cameron International Corp,cam,1
+759,0000016732,Campbell Soup Co,cpb,1
+760,0001669779,"Camping World Holdings, Inc.",cwh,1
+761,0001690511,Canada Goose Holdings Inc.,goos,0
+762,0000016868,Canadian National Railway Co,cni,0
+763,0000016875,Canadian Pacific Railway Ltd/Cn,cp,1
+764,0001349929,"Cancer Genetics, Inc",cgix,1
+765,0001737927,Canopy Growth Corp,,0
+766,0000019446,Cantel Medical Corp,cmn,1
+767,0001672909,Canterbury Park Holding Corp,cphc,1
+768,0000926761,Canterbury Park Holding Corp,cphc,1
+769,0001104349,Capella Education Co,cpla,1
+770,0000726601,Capital City Bank Group Inc,ccbg,1
+771,0000927628,Capital One Financial Corp,cof,1
+772,0001043000,Capital Senior Living Corp,csu,1
+773,0001494259,"CarGurus, Inc.",carg,1
+774,0001009672,Carbo Ceramics Inc,crr,1
+775,0001366527,"Carbon Black, Inc.",cblk,1
+776,0001340127,Carbonite Inc,carb,1
+777,0001178104,Cardica Inc,crdc,1
+778,0000721371,Cardinal Health Inc,cah,1
+779,0001036141,Cardiome Pharma Corp,crme,0
+780,0001180145,Cardiovascular Systems Inc,csii,1
+781,0001666071,"Cardlytics, Inc.",cdlx,1
+782,0001412270,Care.com Inc,crcm,1
+783,0001217234,"CareDx, Inc.",cdna,1
+784,0001142406,"CarePayment Technologies, Inc.",cpyt,1
+785,0001377149,CareView Communications Inc,crvw,1
+786,0001046568,Career Education Corp,ceco,1
+787,0001332602,"Caribou Coffee Company, Inc.",,1
+788,0000799088,Carmike Cinemas Inc,ckec,1
+789,1024095,"Carnegie Development, Inc",ESCU,1
+790,0000815097,Carnival Corp,ccl,1
+791,0000017843,Carpenter Technology Corp,crs,1
+792,0001094814,"Cartesian, Inc.",crtn,1
+793,0000764579,Cas Medical Systems Inc,casm,1
+794,0000864559,Cascade Microtech Inc,cscd,1
+795,0000911177,Casella Waste Systems Inc,cwst,1
+796,0000726958,Caseys General Stores Inc,casy,1
+797,0000807884,Cash America International Inc,csh,1
+798,0000708781,Cass Information Systems Inc,cass,1
+799,0001311538,Castle Brands Inc,rox,1
+800,0001416083,"Catalent Pharma Solutions, Inc.",,1
+801,0001363851,Catamaran Corp,ctrx,1
+802,0000018230,Caterpillar Inc,cat,1
+803,0000861842,Cathay General Bancorp,caty,1
+804,0000018255,Cato Corp,cato,1
+805,0000278166,Cavco Industries Inc,cvco,1
+806,0000813828,Cbs Corp,cbs,1
+807,0000721447,Cca Industries Inc,caw,1
+808,0000018396,Cdi Corp,cdi,1
+809,0000003197,Ceco Environmental Corp,cece,1
+810,0000811532,Cedar Fair L P,fun,1
+811,0001421766,Ceelox Inc.,celo,1
+812,0001306830,Celanese CORP,ce,1
+813,0001327467,Celator Pharmaceuticals Inc,cpxx,1
+814,0000816284,Celgene Corp /DE/,celg,1
+815,0001470512,Cell-nique Corp,,1
+816,0001305253,Celladon Corp,cldn,1
+817,0000744218,"Celldex Therapeutics, Inc.",cldx,1
+818,0000749647,Celsion CORP,clsn,1
+819,0001071739,Centene Corp,cnc,1
+820,0001130310,Centerpoint Energy Inc,cnp,1
+821,0000887733,Central Garden & Pet Co,cent,1
+822,0000701347,Central Pacific Financial Corp,cpf,1
+823,0000812348,Century Bancorp Inc,cnbka,1
+824,0000911147,Century Casinos Inc /CO/,cnty,1
+825,0000018926,"Centurylink, Inc",ctl,1
+826,0000920321,"Cenveo, Inc",cvo,1
+827,0001037760,Cepheid,cphd,1
+828,0001119769,Ceragon Networks Ltd,crnt,0
+829,0001324759,Cereplast Inc,cerpq,1
+830,0000767884,"Ceres, Inc.",cere,1
+831,0000804753,Cerner Corp /MO/,cern,1
+832,0001401914,Cerulean Pharma Inc.,ceru,1
+833,0001020214,Cerus Corp,cers,1
+834,0001173489,Ceva Inc,ceva,1
+835,0000019149,Champion Industries Inc,chmp,1
+836,0001444598,"Change Healthcare Holdings, Inc.",em,1
+837,0001169652,Channeladvisor Corp,ecom,1
+838,0001346980,"Chaparral Energy, Inc.",cpr,1
+839,0001015155,Charles & Colvard Ltd,cthr,1
+840,0001100682,Charles River Laboratories International Inc,crl,1
+841,0000892553,Chart Industries Inc,gtls,1
+842,0001091667,"Charter Communications, Inc. /MO/",chtr,1
+843,0001478726,Charter Financial Corp,chfn,1
+844,0000830524,Chase Corp,ccf,1
+845,0001025771,Chase Packaging Corp,cpka,1
+846,0001015922,Check Point Software Technologies Ltd,chkp,0
+847,0000215419,Checkpoint Systems Inc,ckp,1
+848,0000887596,Cheesecake Factory Inc,cake,1
+849,0001597835,Cheetah Mobile Inc.,cmcm,0
+850,0001517175,"Chefs' Warehouse, Inc.",chef,1
+851,0001092662,"Chembio Diagnostics, Inc.",cemi,1
+852,0000019584,Chemed Corp,che,1
+853,0000019612,Chemical Financial Corp,chfc,1
+854,0001340652,"ChemoCentryx, Inc.",ccxi,1
+855,0001091862,Chemtura CORP,chmt,1
+856,0000003570,Cheniere Energy Inc,lng,1
+857,0000844161,Cherokee Inc,chke,1
+858,0000895126,Chesapeake Energy Corp,chk,1
+859,0000019745,Chesapeake Utilities Corp,cpk,1
+860,0000093410,Chevron Corp,cvx,1
+861,0000897429,Chicos Fas Inc,chs,1
+862,0001041859,"Childrens Place, Inc.",plce,1
+863,0001409493,Chimera Investment Corp,cim,1
+864,0001445474,China Construction Bank Corp,cichy,0
+865,1723980,"China SXT Pharmaceuticals, Inc.",SXTC,0
+866,0001046311,Choice Hotels International Inc /DE,chh,1
+867,0000883943,Christopher & Banks Corp,cbk,1
+868,0001386570,ChromaDex Corp.,cdxc,1
+869,0000823277,Chs Inc,chscl,1
+870,0000020171,Chubb Corp,cb,1
+871,0000313927,Church & Dwight Co Inc /DE/,chd,1
+872,0001744895,Churchill Capital Corp,ccc.u,1
+873,0000020212,Churchill Downs Inc,chdn,1
+874,0000020232,ChyronHego Corp,chyr,1
+875,0000918581,Ciber Inc,cbr,1
+876,0000945384,Cicero Inc,cicn,1
+877,0000936395,Ciena Corp,cien,1
+878,0001739940,Cigna Corp,ci,1
+879,0000716133,Cincinnati Bell Inc,cbb,1
+880,0000020286,Cincinnati Financial Corp,cinf,1
+881,0000723254,Cintas Corp,ctas,1
+882,0000772406,Cirrus Logic Inc,crus,1
+883,0001171825,Cit Group Inc,cit,1
+884,0001318484,Citi Trends Inc,ctrn,1
+885,cr476810,"Citibank, N.A.",,0
+886,0000831001,Citigroup Inc,c,1
+887,cr3041974,Citizens Bank of Pennsylvania,,0
+888,cr3303298,"Citizens Bank, N.A.",,0
+889,0000877890,Citrix Systems Inc,ctxs,1
+890,cr63069,City National Bank,,0
+891,0000949428,Clean Diesel Technologies Inc,cdti,1
+892,0001334978,"Clear Channel Outdoor Holdings, Inc.",cco,1
+893,0001402857,"Clear Skies Solar, Inc",cskh,1
+894,0001539029,"Clearside Biomedical, Inc.",clsd,1
+895,0001434524,Clearsign Combustion Corp,clir,1
+896,0001441236,Clearwater Paper Corp,clw,1
+897,0001442505,Clearwire Corp /DE,clwr,1
+898,0001535379,"Cloudera, Inc.",cldr,1
+899,0000021175,Cna Financial Corp,cna,1
+900,0000736772,Cnb Financial Corp/PA,ccne,1
+901,0001116132,Coach Inc,coh,1
+902,0000728303,Coast Distribution System Inc,crv,1
+903,0001437213,"Coastal Carolina Bancshares, Inc.",ccnb,1
+904,0001471261,"Cobalt International Energy, Inc.",cie,1
+905,0001028734,Cobiz Financial Inc,cobz,1
+906,0001334325,"Coda Octopus Group, Inc.",cdoc,1
+907,0001200375,Codexis Inc,cdxs,1
+908,0000215466,"Coeur Mining, Inc.",cde,1
+909,0000851205,Cognex Corp,cgnx,1
+910,0001058290,Cognizant Technology Solutions Corp,ctsh,1
+911,0000021510,Coherent Inc,cohr,1
+912,0001323653,"Coleman Cable, Inc.",ccix,1
+913,0001420800,Colfax CORP,cfx,1
+914,0000021665,Colgate Palmolive Co,cl,1
+915,0001089143,Collectors Universe Inc,clct,1
+916,0001508677,Colt Defense LLC,,1
+917,0001050797,Columbia Sportswear Co,colm,1
+918,0001005229,Columbus Mckinnon Corp,cmco,1
+919,0001383183,CombiMatrix Corp,cbmx,1
+920,0001166691,Comcast Corp,cmcsa,1
+921,cr60143,Comerica Bank,,0
+922,0000028412,Comerica Inc /New/,cma,1
+923,0001035983,Comfort Systems Usa Inc,fix,1
+924,0001140102,"Command Center, Inc.",ccni,1
+925,0000864509,Command Security Corp,moc,1
+926,0000022356,Commerce Bancshares Inc /MO/,cbsh,1
+927,cr601050,Commerce Bank,,0
+928,0000022444,Commercial Metals Co,cmc,1
+929,0001290900,"Commercial Vehicle Group, Inc.",cvgi,1
+930,0000022701,Communications Systems Inc,jcs,1
+931,0000350852,Community Trust Bancorp Inc /Ky/,ctbi,1
+932,0001169561,Commvault Systems Inc,cvlt,1
+933,cr697633,Compass Bank,,0
+934,0001227654,Compass Minerals International Inc,cmp,1
+935,0001119774,Compugen Ltd,cgen,0
+936,0001242513,Computer Graphics International Inc.,cgii,1
+937,0001169445,Computer Programs & Systems Inc,cpsi,1
+938,0000023082,Computer Sciences Corp,csc,1
+939,0001109879,"Computer Software Innovations, Inc.",cswi,1
+940,0000023111,Computer Task Group Inc,ctg,1
+941,0000859014,Compuware Corp,cpwr,1
+942,0001049606,Compx International Inc,cix,1
+943,0001158172,"Comscore, Inc.",scor,1
+944,0000023197,Comtech Telecommunications Corp /DE/,cmtl,1
+945,0000023675,Con-way Inc.,cnw,1
+946,0000023217,Conagra Foods Inc /DE/,cag,1
+947,0001005101,Concierge Technologies Inc,cncg,1
+948,0001066026,Concur Technologies Inc,cnqr,1
+949,0000749038,Concurrent Computer Corp/DE,ccur,1
+950,0001346346,"Confederate Motors, Inc.",cfed,1
+951,0001305773,ConforMIS Inc,cfms,1
+952,0001502292,"Conifer Holdings, Inc.",cnfr,1
+953,0000816956,Conmed Corp,cnmd,1
+954,0000712771,"ConnectOne Bancorp, Inc.",cnob,1
+955,0001462694,"ConnectOne Bancorp, Inc.",,1
+956,0001223389,Conns Inc,conn,1
+957,0001304421,"Consolidated Communications Holdings, Inc.",cnsl,1
+958,0001405277,"Constant Contact, Inc.",ctct,1
+959,0000016918,"Constellation Brands, Inc.",stz,1
+960,0001411688,"Container Store Group, Inc.",tcs,1
+961,0001259515,Control4 Corp,ctrl,1
+962,0001704715,"Contura Energy, Inc.",cnte,1
+963,0001062047,Convergys Corp,cvg,1
+964,0001407450,"Convio, Inc.",,1
+965,0000711404,Cooper Companies Inc,coo,1
+966,0001141982,Cooper Industries plc,cbe,1
+967,0000024491,Cooper Tire & Rubber Co,ctb,1
+968,0001297067,"Copano Energy, L.L.C.",cpno,1
+969,0000900075,Copart Inc,cprt,1
+970,0001595097,"Corbus Pharmaceuticals Holdings, Inc.",crbp,1
+971,0001088856,Corcept Therapeutics Inc,cort,1
+972,0001026655,Core Molding Technologies Inc,cmt,1
+973,0000036047,"Corelogic, Inc.",clgx,1
+974,0001401680,Cornerstone OnDemand Inc,csod,1
+975,0000024741,Corning Inc /NY,glw,1
+976,0000860546,Corporate Office Properties Trust,ofc,1
+977,0001070985,Corrections Corp Of America,cxw,1
+978,0000874866,Corvel Corp,crvl,1
+979,0001171014,Cosi Inc,cosi,1
+980,0000909832,Costco Wholesale Corp /New,cost,1
+981,0000884713,Cott Corp /Cn/,cot,1
+982,0001024305,Coty Inc.,coty,1
+983,0000025232,Cousins Properties Inc,cuz,1
+984,0001023131,Covance Inc,cvd,1
+985,0001722287,Covia Holdings Corp,cvia,1
+986,0001563699,Covisint Corp,covs,1
+987,0001466538,"Cowen Group, Inc.",cown,1
+988,0001053706,"Cra International, Inc.",crai,1
+989,0001067294,"Cracker Barrel Old Country Store, Inc",cbrl,1
+990,0000949158,Cray Inc,cray,1
+991,0000885550,Credit Acceptance Corp,cacc,1
+992,0001201135,Credit One Financial Inc,cofi,1
+993,0001159510,Credit Suisse Group Ag,cs,0
+994,0000315958,Creditriskmonitor Com Inc,crmz,1
+995,0000895419,Cree Inc,cree,1
+996,0001075736,"Crexendo, Inc.",exe,1
+997,0001334036,"Crocs, Inc.",crox,1
+998,0001141103,Cross Country Healthcare Inc,ccrn,1
+999,0001093207,Crossroads Systems Inc,crds,1
+1000,0001328670,"CrowdGather, Inc.",crwg,1
+1001,0001051470,Crown Castle International Corp,cci,1
+1002,0000025895,Crown Crafts Inc,crws,1
+1003,0001219601,Crown Holdings Inc,cck,1
+1004,0000784199,Cryolife Inc,cry,1
+1005,0001124524,"Cryoport, Inc.",cyrx,1
+1006,0001688126,Crypto Co,crcw,1
+1007,0000356037,Csp Inc /MA/,cspi,1
+1008,0000020629,Css Industries Inc,css,1
+1009,0000277948,Csx Corp,csx,1
+1010,0001042187,Cti Industries Corp,ctib,1
+1011,0001439199,Ctpartners Executive Search Inc.,ctp,1
+1012,0000026058,Cts Corp,cts,1
+1013,0001298675,CubeSmart,cube,1
+1014,0000026076,Cubic Corp /DE/,cub,1
+1015,0000912183,Cubist Pharmaceuticals Inc,cbst,1
+1016,0000723603,Culp Inc,cfi,1
+1017,0001087294,Cumberland Pharmaceuticals Inc,cpix,1
+1018,0000026172,Cummins Inc,cmi,1
+1019,0001058623,Cumulus Media Inc,cmls,1
+1020,0001108205,Curis Inc,cris,1
+1021,0001628369,Cushman & Wakefield plc,cwk,1
+1022,0001162461,Cutera Inc,cutr,1
+1023,0001122897,Cvent Inc,cvt,1
+1024,0001376139,Cvr Energy Inc,cvi,1
+1025,0001335293,"Cyalume Technologies Holdings, Inc.",cylu,1
+1026,0001391636,Cyan Inc,cyni,1
+1027,0000768408,Cyanotech Corp,cyan,1
+1028,0001598110,CyberArk Software Ltd.,cybr,0
+1029,0000864683,Cyberonics Inc,cybx,1
+1030,0000768411,Cyberoptics Corp,cybe,1
+1031,0000885306,Cynosure Inc,cyno,1
+1032,0000791915,Cypress Semiconductor Corp /DE/,cy,1
+1033,0000912513,Cytec Industries Inc/DE/,cyt,1
+1034,0001061983,Cytokinetics Inc,cytk,1
+1035,0001501989,"CytomX Therapeutics, Inc.",ctmx,1
+1036,0001095981,"Cytori Therapeutics, Inc.",cytx,1
+1037,0000916540,DARLING INGREDIENTS INC.,dar,1
+1038,0000943823,DAVE & BUSTERS INC,,1
+1039,0000277638,DAVEY TREE EXPERT CO,davt_priv,1
+1040,0001450552,"DAVI LUXURY BRAND GROUP, INC.",mdav,1
+1041,0001627606,DAVIDsTEA Inc.,dtea,1
+1042,0000927066,DAVITA HEALTHCARE PARTNERS INC.,dva,1
+1043,0000799165,DAWSON GEOPHYSICAL CO,dwsn,1
+1044,0000027367,DAXOR CORP,dxr,1
+1045,0001613780,DBV Technologies S.A.,dbvt,0
+1046,0001393463,DC BRANDS INTERNATIONAL INC,hrdn,1
+1047,0001361025,DCP Holding CO,dcp_priv,1
+1048,0001170991,DCT Industrial Trust Inc.,dct,1
+1049,0001104252,DDI CORP,,1
+1050,0000894315,DDR CORP,ddr,1
+1051,0000866873,DEL MONTE FOODS CO,dlm,1
+1052,0000872912,"DELCATH SYSTEMS, INC.",dcth,1
+1053,0000826083,DELL INC,dell,1
+1054,0000859139,DELPHI FINANCIAL GROUP INC/DE,dfg,1
+1055,0001029299,"DELTEK, INC",proj,1
+1056,0001107332,DENDREON CORP,dndn,1
+1057,0000813298,"DESTINATION XL GROUP, INC.",dxlg,1
+1058,0001090908,"DETERMINE, INC.",sltc,1
+1059,0001159508,DEUTSCHE BANK AKTIENGESELLSCHAFT,db,0
+1060,0000730464,DEVRY EDUCATION GROUP INC.,dv,1
+1061,0001556739,"DEX MEDIA, INC.",dxm,1
+1062,0001490186,DHX Media Ltd.,dhxm,0
+1063,0000835403,DIAGEO PLC,deo,0
+1064,0000771950,"DIAL GLOBAL, INC. /DE/",dial,1
+1065,0000707388,DIGIRAD CORP,drad,1
+1066,0001208208,"DIGITALGLOBE, INC.",dgi,1
+1067,0000708850,DIONEX CORP /DE,,1
+1068,0001465112,DIRECTV,dtv,1
+1069,0001080667,DITECH NETWORKS INC,ditc,1
+1070,0001175757,"DIVERSEY, INC.",,1
+1071,0000918387,DIVERSINET CORP,,0
+1072,0001419995,DNA BRANDS INC,dnax,1
+1073,0001261333,"DOCUSIGN, INC.",docu,1
+1074,0001505952,"DOMO, INC.",domo,1
+1075,0001135951,DR REDDYS LABORATORIES LTD,rdy,0
+1076,0001294157,"DR. TATTOFF, INC.",tatt_priv,1
+1077,0000717724,DRESS BARN INC,,1
+1078,0001467623,"DROPBOX, INC.",dbx,1
+1079,0001463959,"DS HEALTHCARE GROUP, INC.",dskx,1
+1080,0001319947,DSW Inc.,dsw,1
+1081,0001649744,DULUTH HOLDINGS INC.,dlth,1
+1082,0001396536,"DUOS TECHNOLOGIES GROUP, INC.",duot,1
+1083,0000879993,DUSA PHARMACEUTICALS INC,dusa,1
+1084,0001213809,DYADIC INTERNATIONAL INC,dyai,1
+1085,0000030822,DYNAMICS RESEARCH CORP,drco,1
+1086,0000783412,Daily Journal Corp,djco,1
+1087,0000915779,Daktronics Inc /Sd/,dakt,1
+1088,0000313616,Danaher Corp /DE/,dhr,1
+1089,0000351998,Data I/O Corp,daio,1
+1090,0001056923,Datalink Corp,dtlk,1
+1091,0000792130,Datawatch Corp,dwch,1
+1092,0000910521,Deckers Outdoor Corp,deck,1
+1093,0001110607,"Deep Down, Inc.",dpdw,1
+1094,0001585583,"Del Taco Restaurants, Inc.",taco,1
+1095,0001694426,"Delek US Holdings, Inc.",,1
+1096,0001707092,Delphi Technologies PLC,dlph,1
+1097,0000027904,Delta Air Lines Inc /DE/,dal,1
+1098,0001101396,"Delta Apparel, Inc",dla,1
+1099,0001086740,Deltathree Inc,dddc,1
+1100,0001022469,Deltic Timber Corp,del,1
+1101,0000027996,Deluxe Corp,dlx,1
+1102,0001365038,Demand Media Inc.,dmd,1
+1103,0001400400,"DemandTec, Inc.",,1
+1104,0001301031,Demandware Inc,dwre,1
+1105,0000852772,Dennys Corp,denn,1
+1106,0000818479,Dentsply International Inc /DE/,xray,1
+1107,0001005201,Depomed Inc,depo,1
+1108,0000892160,"Derma Sciences, Inc.",dsci,1
+1109,0001050140,Descartes Systems Group Inc,dsgx,0
+1110,0000896985,Destination Maternity Corp,dest,1
+1111,0001090012,Devon Energy Corp/DE,dvn,1
+1112,0001093557,Dexcom Inc,dxcm,1
+1113,0001036968,"Diadexus, Inc.",ddxs,1
+1114,0001366649,Dialogic Inc.,dlgc,1
+1115,0001320947,Diamond Foods Inc,dmnd,1
+1116,0000909108,Diamond Hill Investment Group Inc,dhil,1
+1117,0000949039,Diamond Offshore Drilling Inc,do,1
+1118,0001514608,Diamond Resorts Corp,,1
+1119,0001089063,Dicks Sporting Goods Inc,dks,1
+1120,0000028823,Diebold Inc,dbd,1
+1121,0001053691,Diffusion Pharmaceuticals Inc.,dffn,1
+1122,0000854775,Digi International Inc,dgii,1
+1123,0001438231,Digimarc CORP,dmrc,1
+1124,0001342958,Digital Ally Inc,dgly,1
+1125,0000934448,"Digital Generation, Inc.",dgit,1
+1126,0001297996,"Digital Realty Trust, Inc.",dlr,1
+1127,0001062530,Digital River Inc /DE,driv,1
+1128,0000317788,"Digital Turbine, Inc.",apps,1
+1129,0001433269,Diligent Corp,dil,1
+1130,0000028917,Dillards Inc,dds,1
+1131,0001592288,"Dimension Therapeutics, Inc.",dmtx,1
+1132,0000049754,"DineEquity, Inc",din,1
+1133,0001610092,"Diplomat Pharmacy, Inc.",dplo,1
+1134,0000879703,Direct Insite Corp,diri,1
+1135,0001393612,Discover Financial Services,dfs,1
+1136,0001437107,"Discovery Communications, Inc.",disca,1
+1137,0000946486,Discovery Laboratories Inc /DE/,dsco,1
+1138,0000029332,Dixie Group Inc,dxyn,1
+1139,0000771999,Document Security Systems Inc,dss,1
+1140,0001308547,"Dolby Laboratories, Inc.",dlb,1
+1141,0000029534,Dollar General Corp,dg,1
+1142,0000715957,Dominion Resources Inc /VA/,d,1
+1143,0001286681,Dominos Pizza Inc,dpz,1
+1144,0001381531,Domtar CORP,ufs,1
+1145,0000868780,"Dorman Products, Inc.",dorm,1
+1146,0001080029,"Dougherty's Pharmacy, Inc.",mydp,1
+1147,0001287213,"Douglas Dynamics, Inc",plow,1
+1148,0000029905,Dover Corp,dov,1
+1149,0001162556,Dover Downs Gaming & Entertainment Inc,dde,1
+1150,0001017673,Dover Motorsports Inc,dvd,1
+1151,0001178946,Dragonwave Inc,drwi,0
+1152,0001042893,Dril-Quip Inc,drq,1
+1153,0000915778,Dsp Group Inc /DE/,dspg,1
+1154,0000714603,Dst Systems Inc,dst,1
+1155,0001226308,"Dts, Inc.",dtsi,1
+1156,0000030305,Ducommun Inc /DE/,dco,1
+1157,0001326160,Duke Energy CORP,duk,1
+1158,0000783280,Duke Realty Corp,dre,1
+1159,0001115222,Dun & Bradstreet Corp/Nw,dnb,1
+1160,0001082038,Durect Corp,drrx,1
+1161,0001020710,Dxp Enterprises Inc,dxpe,1
+1162,0000907562,Dyax Corp,dyax,1
+1163,0000067215,Dycom Industries Inc,dy,1
+1164,0000034067,Dynamic Materials Corp,boom,1
+1165,0000720875,Dynatronics Corp,dynt,1
+1166,0001029142,Dynavax Technologies Corp,dvax,1
+1167,0001379895,Dynegy Inc.,dyn,1
+1168,y93412583,E*Trade Financial Corp,,0
+1169,0000031235,EASTMAN KODAK CO,kodk,1
+1170,0000894738,EASYLINK SERVICES INTERNATIONAL CORP,esic,1
+1171,0001034088,ECLIPSYS CORP,,1
+1172,0000031462,ECOLAB INC.,ecl,1
+1173,0001444406,ECOPETROL S.A.,ec,0
+1174,0001071760,ECOSPHERE TECHNOLOGIES INC,esph,1
+1175,0001301206,"ECOTALITY, INC.",ectyq,1
+1176,0001083866,EDEN ENERGY CORP,edne,1
+1177,0001080224,EDGAR ONLINE INC,edgr,1
+1178,0001717556,"EDISON NATION, INC.",ednt,1
+1179,0000880059,EDUCATION MANAGEMENT CORPORATION,edmc,1
+1180,0000949373,EINSTEIN NOAH RESTAURANT GROUP INC,bagl,1
+1181,0001549084,"EKSO BIONICS HOLDINGS, INC.",ekso,1
+1182,0001066107,EL PASO CORP/DE,ep,1
+1183,0000031986,EL PASO NATURAL GAS CO,,1
+1184,0000737572,ELAN CORP PLC,,0
+1185,2458,ELAN MICROELECTRONICS CORP (義隆電子),elan,0
+1186,0000712515,ELECTRONIC ARTS INC.,ea,1
+1187,0001355444,EMBRAER S.A.,erj,0
+1188,0001001604,EMERITUS CORP\WA\,,1
+1189,0000805326,EMISPHERE TECHNOLOGIES INC,emis,1
+1190,0000317032,EMPI INC,,1
+1191,0000005117,EMTEC INC/NJ,etec,1
+1192,0000277595,ENERGEN CORP,egn,1
+1193,0001632790,"ENERGIZER HOLDINGS, INC.",enr,1
+1194,0000032878,ENERGY CONVERSION DEVICES INC,enerq,1
+1195,0001002242,ENI SPA,e,0
+1196,0000922237,ENOVA SYSTEMS INC,envs,1
+1197,0000811271,"ENTECH SOLAR, INC.",ensl,1
+1198,0000033113,ENVIRONMENTAL TECTONICS CORP,etcc,1
+1199,0001555082,EP Energy LLC,epe_priv,1
+1200,0001352010,"EPAM Systems, Inc.",epam,1
+1201,0001096738,EPOCRATES INC,epoc,1
+1202,0001045450,EPR PROPERTIES,epr,1
+1203,0001026650,ERESEARCHTECHNOLOGY INC /DE/,ert,1
+1204,0001490165,ERICKSON INC.,eac,1
+1205,0001358254,"ES Bancshares, Inc.",esbs,1
+1206,0000355999,ESSENDANT INC,ustr,1
+1207,0001370637,ETSY INC,etsy,1
+1208,0001437352,"EVERBRIDGE, INC.",evbg,1
+1209,0000896400,EVERI GAMES HOLDING INC.,evri_priv1,1
+1210,0001517783,"EVERTEC Group, LLC",evtc,1
+1211,0001559865,"EVERTEC, Inc.",evtc,1
+1212,0000870826,EVINE Live Inc.,evlv,1
+1213,0000939767,"EXELIXIS, INC.",exel,1
+1214,0001116284,EXFO INC.,exfo,0
+1215,0001186362,EXOPACK HOLDING CORP,,1
+1216,0000918646,Eagle Materials Inc,exp,1
+1217,0001364541,Eagle Rock Energy Partners L P,eroc,1
+1218,0001069157,East West Bancorp Inc,ewbc,1
+1219,0001321268,"Eastern Insurance Holdings, Inc.",eihi,1
+1220,0001047170,Eastern Virginia Bankshares Inc,evbs,1
+1221,0000915389,Eastman Chemical Co,emn,1
+1222,0001551182,Eaton Corp plc,etn,1
+1223,0000350797,Eaton Vance Corp,ev,1
+1224,0001170816,"Eau Technologies, Inc.",eaui,1
+1225,0001065088,Ebay Inc,ebay,1
+1226,0000814549,Ebix Inc,ebix,1
+1227,0000031347,Echelon Corp,elon,1
+1228,0001453420,"Echo Automotive, Inc.",ecau,1
+1229,0001426945,"Echo Global Logistics, Inc.",echo,1
+1230,0001031927,"Echo Therapeutics, Inc.",ecte,1
+1231,0001415404,EchoStar CORP,sats,1
+1232,0001041934,Edap Tms Sa,edap,0
+1233,0001472091,"Edge Therapeutics, Inc.",edge,1
+1234,0001487544,"Edgen Murray II, L.P.",,1
+1235,0001017968,Edgewater Technology Inc/DE/,edgw,1
+1236,0000827052,Edison International,eix,1
+1237,0001650664,"Editas Medicine, Inc.",edit,1
+1238,0001302343,"Education Realty Trust, Inc.",edr,1
+1239,0000031667,Educational Development Corp,educ,1
+1240,0001099800,Edwards Lifesciences Corp,ew,1
+1241,0001606366,"El Pollo Loco Holdings, Inc.",loco,1
+1242,0001027664,Elbit Systems Ltd,eslt,0
+1243,0000796124,Eldorado Artesian Springs Inc,eldo,1
+1244,0001590895,"Eldorado Resorts, Inc.",eri,1
+1245,0000726514,Electro Scientific Industries Inc,esio,1
+1246,0000351789,Electro Sensors Inc,else,1
+1247,0001488917,"Electromed, Inc.",elmd,1
+1248,0000867374,Electronics For Imaging Inc,efii,1
+1249,0001485003,"Eleven Biotherapeutics, Inc.",ebio,1
+1250,0000095052,Elizabeth Arden Inc,rden,1
+1251,0001122388,Ellie Mae Inc,elli,1
+1252,0001375271,"Eloqua, Inc.",eloq,0
+1253,0001492261,Elster Group SE,,0
+1254,0000790070,Emc Corp,emc,1
+1255,0000105634,Emcor Group Inc,eme,1
+1256,0000808326,Emcore Corp,emkr,1
+1257,0001555177,Emerge Energy Services LP,emes,1
+1258,0001334544,Emergency Medical Services L.P.,,1
+1259,0001367644,Emergent BioSolutions Inc.,ebs,1
+1260,0001505363,Emerging Acquisition Corp,,1
+1261,0000032604,Emerson Electric Co,emr,1
+1262,0000032621,Emerson Radio Corp,msn,1
+1263,0000906780,Empire Resorts Inc,nyny,1
+1264,0001553079,"Empire State Realty OP, L.P.",esba,1
+1265,0001483935,"Empowered Products, Inc.",empo,1
+1266,0000350917,Emulex Corp /DE/,elx,1
+1267,0001140310,"EnSync, Inc.",zbb,1
+1268,0001591763,"Enable Midstream Partners, LP",enbl,1
+1269,0000895728,Enbridge Inc,enb,1
+1270,0001157806,Encana Corp,eca,1
+1271,0000850460,Encore Wire Corp,wire,1
+1272,0001623919,"EndoChoice Holdings, Inc.",gi,1
+1273,0001235007,Endocyte Inc,ecyt,1
+1274,0001013606,Endologix Inc /DE/,elgx,1
+1275,0001179755,Endurance Specialty Holdings Ltd,enh,1
+1276,0001575793,Energous Corp,watt,1
+1277,0000924168,"Energy Focus, Inc/DE",efoi,1
+1278,0001421517,"Energy Recovery, Inc.",erii,1
+1279,0001393744,"EnergySolutions, Inc.",3iq1,1
+1280,0001244937,Enernoc Inc,enoc,1
+1281,0000933738,Englobal Corp,eng,1
+1282,0000033002,"Ennis, Inc.",ebf,1
+1283,0001529864,"Enova International, Inc.",enva,1
+1284,0001463101,"Enphase Energy, Inc.",enph,1
+1285,0001363829,Enstar Group LTD,esgr,1
+1286,0001101302,Entegris Inc,entg,1
+1287,0001067837,Entercom Communications Corp,etm,1
+1288,0000065984,Entergy Corp /DE/,etr,1
+1289,0001371217,EnteroMedics Inc,etrm,1
+1290,0001018399,Enterprise Bancorp Inc /MA/,ebtc,1
+1291,0001025835,Enterprise Financial Services Corp,efsc,1
+1292,0001061219,Enterprise Products Partners L P,epd,1
+1293,0001408299,"Entia Biosciences, Inc.",ergo,1
+1294,0001109116,Entravision Communications Corp,evc,1
+1295,0001227930,Entropic Communications Inc,entr,1
+1296,0000766561,Enventis Corp,enve,1
+1297,0001337619,"Envestnet, Inc.",env,1
+1298,0001344154,Envision Healthcare Corp,ems,1
+1299,0001678531,Envision Healthcare Corp,evhc,1
+1300,0001578318,"Envision Healthcare Holdings, Inc.",evhc,1
+1301,0001174266,Envivio Inc,envi,1
+1302,0001083706,Enxnet Inc,exnt,1
+1303,0000316253,Enzo Biochem Inc,enz,1
+1304,0000727510,Enzon Pharmaceuticals Inc,enzn,1
+1305,0001578809,Enzymotec Ltd.,enzy,0
+1306,0000821189,Eog Resources Inc,eog,1
+1307,0001517393,Epicor Software Corp,epic,1
+1308,0001027207,Epiq Systems Inc,epiq,1
+1309,0001022408,Eplus Inc,plus,1
+1310,0000033185,Equifax Inc,efx,1
+1311,0001101239,Equinix Inc,eqix,1
+1312,0000803649,Equity Commonwealth,eqc,1
+1313,0000895417,Equity Lifestyle Properties Inc,els,1
+1314,0001042810,"Equity One, Inc.",eqy,1
+1315,0001525221,Era Group Inc.,era,1
+1316,0000922621,Erie Indemnity Co,erie,1
+1317,0001110361,Eroomsystem Technologies Inc,erms,1
+1318,0001624422,Erytech Pharma S.A.,eryp,0
+1319,0000862668,Escalon Medical Corp,esmc,1
+1320,0000866706,Esco Technologies Inc,ese,1
+1321,0001434868,"Esperion Therapeutics, Inc.",espr,1
+1322,0001448893,Essent Group Ltd.,esnt,1
+1323,0000033619,Esterline Technologies Corp,esl,1
+1324,0001029199,Euronet Worldwide Inc,eeft,1
+1325,0000276283,Evans & Sutherland Computer Corp,escc,1
+1326,0001475115,"Eventbrite, Inc.",eb,1
+1327,0001358483,"Everyday Health, Inc.",evdy,1
+1328,0001570562,"Evolus, Inc.",,1
+1329,0001052054,Evolving Systems Inc,evol,1
+1330,0001604643,Evoqua Water Technologies Corp.,aqua,1
+1331,0000890264,Exa Corp,exa,1
+1332,0001124140,Exact Sciences Corp,exas,1
+1333,0001420850,"ExactTarget, Inc.",,1
+1334,0000913165,Exactech Inc,exac,1
+1335,0001498021,"ExamWorks Group, Inc.",exam,1
+1336,0000753568,Exar Corp,exar,1
+1337,0001512890,Excel Corp,excc,1
+1338,0001524471,Exelis Inc.,xls,1
+1339,0001109357,Exelon Corp,exc,1
+1340,0000813781,Exide Technologies,xide,1
+1341,0001297989,"ExlService Holdings, Inc.",exls,1
+1342,0001324424,"Expedia, Inc.",expe,1
+1343,0000746515,Expeditors International Of Washington Inc,expd,1
+1344,0000851520,Exponent Inc,expo,1
+1345,0000885721,Express Scripts Inc,esrx_priv1,1
+1346,0001483510,"Express, Inc.",expr,1
+1347,0001627469,"Exquisite Acquisition, Inc.",exqa_priv,1
+1348,0001581164,"Extended Stay America, Inc.",stay,1
+1349,0001635881,Exterran Corp,extn,1
+1350,0001289490,Extra Space Storage Inc.,exr,1
+1351,0001078271,Extreme Networks Inc,extr,1
+1352,0000034088,Exxon Mobil Corp,xom,1
+1353,0000892534,Ezchip Semiconductor Ltd,ezch,0
+1354,0000876523,Ezcorp Inc,ezpw,1
+1355,0001048695,F5 Networks Inc,ffiv,1
+1356,0000915191,FAIRFAX FINANCIAL HOLDINGS LTD/ CAN,ffh.pr.f,0
+1357,0001010858,FAIRMOUNT SANTROL HOLDINGS INC.,fmsa,1
+1358,3035,FARADAY TECHNOLOGY CORP. (智原科技),faraday,0
+1359,0001513153,FCA US LLC,fcau,1
+1360,0000230211,FEDERAL EXPRESS CORP,fdx_priv1,1
+1361,0001026214,FEDERAL HOME LOAN MORTGAGE CORP,fmcc,1
+1362,0000310522,FEDERAL NATIONAL MORTGAGE ASSOCIATION FANNIE MAE,fnma,1
+1363,0000921299,FIBROGEN INC,fgen,1
+1364,0001366340,"FINJAN HOLDINGS, INC.",fnjn,1
+1365,0001387054,FIRMA HOLDINGS CORP.,frma,1
+1366,0000710507,"FIRST BANKS, INC",fbs.pra,1
+1367,0000883980,FIRST DATA CORP,fdc,1
+1368,0000787075,FIRST FINANCIAL HOLDINGS INC /DE/,ffch,1
+1369,0001389772,FIRST PRIORITY FINANCIAL CORP.,fpbk,1
+1370,0000828678,FIRSTCITY FINANCIAL CORP,fcfc,1
+1371,0001034669,FISHER COMMUNICATIONS INC,fsci,1
+1372,0001447599,FITBIT INC,fit,1
+1373,0001374328,"FITLIFE BRANDS, INC.",ftlf,1
+1374,0000713002,FLOW INTERNATIONAL CORP,flow,1
+1375,0001011308,FOOTSTAR INC,,1
+1376,0001145057,"FORESCOUT TECHNOLOGIES, INC",fsct,1
+1377,0000038074,FOREST LABORATORIES INC,frx,1
+1378,0001023313,"FORRESTER RESEARCH, INC.",forr,1
+1379,0001130385,FOSTER WHEELER AG,fwlt,1
+1380,0001010247,FPIC INSURANCE GROUP INC,,1
+1381,0000093631,FREDERICK'S OF HOLLYWOOD GROUP INC /NY/,fohl,1
+1382,0000841692,FSI INTERNATIONAL INC,fsii,1
+1383,0000050957,FURNITURE BRANDS INTERNATIONAL INC,fbniq,1
+1384,0001071411,FUSION TELECOMMUNICATIONS INTERNATIONAL INC,fsnn,1
+1385,0001383729,"FUSION-IO, INC.",fio,1
+1386,0001529979,FX Alliance Inc.,fxai,1
+1387,0001326801,Facebook Inc,fb,1
+1388,0001013237,Factset Research Systems Inc,fds,1
+1389,0000814547,Fair Isaac Corp,fico,1
+1390,0001036960,Fairchild Semiconductor International Inc,fcs,1
+1391,0001062613,Fairpoint Communications Inc,frp,1
+1392,0000034408,Family Dollar Stores Inc,fdo,1
+1393,0001021270,"Famous Dave's of America, Inc.",dave,1
+1394,0000917491,Faro Technologies Inc,faro,1
+1395,0001434316,Fate Therapeutics Inc,fate,1
+1396,0001012771,Fbl Financial Group Inc,ffg,1
+1397,0000845877,Federal Agricultural Mortgage Corp,agm,1
+1398,0001331465,Federal Home Loan Bank of Atlanta,fhlba_priv,1
+1399,0001331451,Federal Home Loan Bank of Chicago,fhlbch_priv,1
+1400,0001331757,Federal Home Loan Bank of Dallas,fhlbd_priv,1
+1401,0001329842,Federal Home Loan Bank of New York,fhlbny_priv,1
+1402,0001330399,Federal Home Loan Bank of Pittsburgh,fhlbp_priv,1
+1403,0000034903,Federal Realty Investment Trust,frt,1
+1404,0000277509,Federal Signal Corp /DE/,fss,1
+1405,0001419581,Federal-Mogul Holdings Corp,fdml,1
+1406,0001056288,Federated Investors Inc /PA/,fii,1
+1407,0000863894,Female Health Co,fhco,1
+1408,0000922358,Ferrellgas Partners L P,fgp,1
+1409,0000035214,Ferro Corp,foe,1
+1410,0001110649,Fibria Celulose S.A.,fbr,0
+1411,0000357097,"Fibrocell Science, Inc.",fcsc,1
+1412,0001136893,"Fidelity National Information Services, Inc.",fis,1
+1413,0000822662,Fidelity Southern Corp,lion,1
+1414,0001534992,"Fiesta Restaurant Group, Inc.",frgi,1
+1415,0000035527,Fifth Third Bancorp,fitb,1
+1416,0001430592,"Financial Engines, Inc.",fngn,1
+1417,0001094739,Finisar Corp,fnsr,1
+1418,0000886137,Finish Line Inc /IN/,finl,1
+1419,0001370880,"FireEye, Inc.",feye,1
+1420,0001017907,First Acceptance Corp /DE/,fac,1
+1421,0001404306,First Advantage Bancorp,fabk,1
+1422,0001472787,First American Financial Corp,faf,1
+1423,0000314489,First Busey Corp /NV/,buse,1
+1424,0001521951,"First Business Financial Services, Inc.",fbiz,1
+1425,0000840489,First Cash Financial Services Inc,fcfs,1
+1426,0000798941,First Citizens Bancshares Inc /DE/,fcnca,1
+1427,0000712537,First Commonwealth Financial Corp /PA/,fcf,1
+1428,0000714562,First Financial Corp /IN/,thff,1
+1429,0001413837,First Foundation Inc.,ffwm,1
+1430,cr980661,First Hawaiian Bank,,0
+1431,0000036966,First Horizon National Corp,fhn,1
+1432,0000921825,First Industrial Realty Trust Inc,fr,1
+1433,0001262279,First Marblehead Corp,fmd,1
+1434,0000712534,First Merchants Corp,frme,1
+1435,0000702325,First Midwest Bancorp Inc,fmbi,1
+1436,cr527954,First National Bank of Omaha,,0
+1437,cr379920,First National Bank of Pennsylvania,,0
+1438,0001035976,First National Community Bancorp Inc,fncb,1
+1439,y91020902,"First National of Nebraska, Inc.",,0
+1440,0001051741,First Niagara Financial Group Inc,fnfg,1
+1441,cr4114567,First Republic Bank,,0
+1442,0001138817,First Security Group Inc/Tn,fsgi,1
+1443,0001274494,"First Solar, Inc.",fslr,1
+1444,0001027183,First South Bancorp Inc /VA/,fsbk,1
+1445,cr485559,"First Tennessee Bank, National Association",,0
+1446,0001327607,First Western Financial Inc,myfw,1
+1447,cr491224,First-Citizens Bank & Trust Company,,0
+1448,0001637810,FirstService Corp,fsv,0
+1449,0001031296,Firstenergy Corp,fe,1
+1450,0000354869,Firstmerit Corp /OH/,fmer,1
+1451,0000798354,Fiserv Inc,fisv,1
+1452,0001177609,"Five Below, Inc",five,1
+1453,0001175505,Five Prime Therapeutics Inc,fprx,1
+1454,0001159281,Five Star Quality Care Inc,fve,1
+1455,0001288847,"Five9, Inc.",fivn,1
+1456,cr146672,"Flagstar Bank, FSB",,0
+1457,0001012477,Flamel Technologies Sa,flml,1
+1458,0000012040,Flanigans Enterprises Inc,bdl,1
+1459,0001175454,Fleetcor Technologies Inc,flt,1
+1460,0001615219,"Flex Pharma, Inc.",flks,1
+1461,0001069394,Flexible Solutions International Inc,fsi,1
+1462,0001419600,Flexion Therapeutics Inc,flxn,1
+1463,0000037472,Flexsteel Industries Inc,flxs,1
+1464,0000866374,Flextronics International Ltd.,flex,1
+1465,0000354908,Flir Systems Inc,flir,1
+1466,0001370914,"Florida Bank Group, Inc.",,1
+1467,0001519628,Florida East Coast Railway Corp.,,0
+1468,0000928054,Flotek Industries Inc/Cn/,ftk,1
+1469,0001128928,Flowers Foods Inc,flo,1
+1470,0000030625,Flowserve Corp,fls,1
+1471,0001162194,Fluidigm Corp,fldm,1
+1472,0001124198,Fluor Corp,flr,1
+1473,0001083743,"Flux Power Holdings, Inc.",flux,1
+1474,0000037785,Fmc Corp,fmc,1
+1475,0001135152,Fmc Technologies Inc,fti,1
+1476,0000037808,Fnb Corp/FL/,fnb,1
+1477,0001651052,Focus Financial Partners Inc.,focs,1
+1478,0000355019,Fonar Corp,fonr,1
+1479,0001406587,Forestar Group Inc.,for,1
+1480,0001039399,Formfactor Inc,form,1
+1481,0001495925,Fortegra Financial Corp,frf,1
+1482,0001262039,Fortinet Inc,ftnt,1
+1483,0001666175,Fortis Inc.,fts,0
+1484,0001590364,Fortress Transportation & Infrastructure Investors LLC,ftai,1
+1485,0001667633,"Forty Seven, Inc.",ftsv,1
+1486,0001401257,"Forum Energy Technologies, Inc.",fet,1
+1487,0000038264,Forward Industries Inc,ford,1
+1488,0000883569,"Fossil Group, Inc.",fosl,1
+1489,0001688941,"Foundation Building Materials, Inc.",fbm,1
+1490,0001272597,"Foundation Healthcare, Inc.",fdnh,1
+1491,0001488613,"Foundation Medicine, Inc.",fmi,1
+1492,0001485176,Fox Chase Bancorp Inc,fxcb,1
+1493,0001754301,Fox Corp,,1
+1494,0001424929,Fox Factory Holding Corp,foxf,1
+1495,0001575828,Frank's International N.V.,fi,1
+1496,0000886206,Franklin Covey Co,fc,1
+1497,0000038725,Franklin Electric Co Inc,fele,1
+1498,0001407067,Franklin Financial Network Inc.,fsb,1
+1499,0000038777,Franklin Resources Inc,ben,1
+1500,0000724571,Freds Inc,fred,1
+1501,0001581545,Freedom Leaf Inc.,frlf,1
+1502,0001392522,"Freescale Semiconductor, Ltd.",fsl,1
+1503,0001320854,"FreightCar America, Inc.",rail,1
+1504,0001331612,"Fresh Harvest Products, Inc.",frhv,1
+1505,0001489979,"Fresh Market, Inc.",tfm,1
+1506,0001611647,"Freshpet, Inc.",frpt,1
+1507,0000039047,Frischs Restaurants Inc,frs,1
+1508,0000020520,Frontier Communications Corp,ftr,1
+1509,0000887936,Fti Consulting Inc,fcn,1
+1510,0000846913,"Fuel Tech, Inc.",ftek,1
+1511,0000886128,Fuelcell Energy Inc,fcel,1
+1512,0000891482,Full House Resorts Inc,fll,1
+1513,0000700564,Fulton Financial Corp,fult,1
+1514,0001704711,"Funko, Inc.",fnko,1
+1515,0001484478,"Furiex Pharmaceuticals, Inc.",furx,1
+1516,0000842722,"Fuse Science, Inc.",drop,1
+1517,0001337298,FutureFuel Corp.,ff,1
+1518,0000821002,G Iii Apparel Group Ltd /DE/,giii,1
+1519,0000039648,G&K SERVICES INC,gk,1
+1520,0001421876,GALAPAGOS NV,glpg,0
+1521,0001045014,GAMETECH INTERNATIONAL INC,gmtcq,1
+1522,0000916459,GARDNER DENVER INC,gdi,1
+1523,0001413754,GBS Enterprises Inc,gbsx,1
+1524,0000075679,GCI INC,gncma_priv,1
+1525,0001644440,GCP Applied Technologies Inc.,gcp,1
+1526,0001526125,GDS Holdings Ltd,gds,0
+1527,sub40545,GE Capital Corp LLC,ge,0
+1528,0000941020,GENELINK INC,gnlkq,1
+1529,0000040554,GENERAL ELECTRIC CAPITAL CORP,geb,1
+1530,0001457612,"GENOCEA BIOSCIENCES, INC.",gnca,1
+1531,0000880643,GENTA INC DE/,gnta,1
+1532,0000903129,GENTHERM Inc,thrm,1
+1533,0000732485,GENZYME CORP,genz,1
+1534,0001073404,GERDAU S.A.,ggb,0
+1535,0001292426,GFI Group Inc.,gfig,1
+1536,0001245791,"GI DYNAMICS, INC.",gid,1
+1537,0001126140,GIVEN IMAGING LTD,givn,0
+1538,0001192448,GLAUKOS Corp,gkos,1
+1539,0001131399,GLAXOSMITHKLINE PLC,gsk,0
+1540,0000852570,GLOBAL AXCESS CORP,gaxcq,1
+1541,0001522724,GLOBAL GREEN INC.,gogc,1
+1542,0000895663,GLOBAL INDUSTRIES LTD,,1
+1543,0001630212,GLOBAL TECHNOLOGIES CORP,gthcd,1
+1544,0001031028,GLOBECOMM SYSTEMS INC,gcom,1
+1545,0001245104,GLOBEIMMUNE INC,gbim,1
+1546,0001528188,"GOFF, CORP",goff,1
+1547,0001500122,GOLD UNION INC.,golu,1
+1548,0000919239,GOLDCORP INC,gg,0
+1549,0001202273,GOLFSMITH INTERNATIONAL HOLDINGS INC,golf,1
+1550,0000910560,"GOOD SAM ENTERPRISES, LLC",,1
+1551,0000042542,GOODRICH CORP,gr,1
+1552,0001048620,GRANITE CITY FOOD & BREWERY LTD.,gcfb,1
+1553,0001005011,"GRAPHIC PACKAGING INTERNATIONAL, LLC",,1
+1554,0001313310,"GRAVITY Co., Ltd.",grvy,0
+1555,0000205402,GRAYBAR ELECTRIC CO INC,gryba_priv,1
+1556,0000723258,GREAT AMERICAN LIFE INSURANCE CO,gtamr_priv,0
+1557,0000043300,GREAT ATLANTIC & PACIFIC TEA CO INC,gaptq,1
+1558,0001284808,GREAT LAKES WINDOW INC,,0
+1559,0000744455,GREAT WEST LIFE & ANNUITY INSURANCE CO,gtwla_priv,1
+1560,887153,GROUP SIMEC SA DE CV,GSEBF,0
+1561,0001161582,"GROWLIFE, INC.",phot,1
+1562,0000216039,GRUBB & ELLIS CO,gbezq,1
+1563,0000912892,"GRUPO TELEVISA, S.A.B.",tv,0
+1564,0001262751,GRYPHON GOLD CORP,gyphq,1
+1565,0000850483,GTSI CORP,gtsi,1
+1566,0001058867,GUARANTY BANCSHARES INC /TX/,gnty,1
+1567,0001021113,"GUITAR CENTER, INC.",gtrc,1
+1568,0001522690,"GWG Holdings, Inc.",gwgh,1
+1569,0000786110,GYMBOREE CORP,gymb,1
+1570,0001089872,"Gaiam, Inc",gaia,1
+1571,0000013156,"Galaxy Gaming, Inc.",glxz,1
+1572,0001060349,"Gamco Investors, Inc. Et Al",gbl,1
+1573,0001326380,GameStop Corp.,gme,1
+1574,0000918580,Gaming Partners International CORP,gpic,1
+1575,0001635718,"Gannett Co., Inc.",gci,1
+1576,0000039911,Gap Inc,gps,1
+1577,0001121788,Garmin Ltd,grmn,1
+1578,0000749251,Gartner Inc,it,1
+1579,0001368900,"GateHouse Media, Inc.",ghseq,1
+1580,0000040211,Gatx Corp,gmt,1
+1581,0001379009,Gazit-Globe Ltd,gzt,0
+1582,0001096199,"Geeknet, Inc",gknt,1
+1583,0001487371,"GenMark Diagnostics, Inc.",gnmk,1
+1584,0000064472,Gencor Industries Inc,genc,1
+1585,0001519894,General Agriculture Corp,gelt,1
+1586,0000886035,General Cable Corp /DE/,bgc,1
+1587,0000808461,General Communication Inc,gncma,1
+1588,0000040533,General Dynamics Corp,gd,1
+1589,0000040545,General Electric Co,ge,1
+1590,0000040570,General Employment Enterprises Inc,job,1
+1591,0001342287,General Finance CORP,gfn,1
+1592,0001496048,"General Growth Properties, Inc.",ggp,1
+1593,0000040704,General Mills Inc,gis,1
+1594,0001467858,General Motors Co,gm,1
+1595,0000804269,"General Motors Financial Company, Inc.",acf,1
+1596,0000018498,Genesco Inc,gco,1
+1597,0001351051,"Genesis Healthcare, Inc.",gen,1
+1598,0001355848,"Genius Brands International, Inc.",gnus,1
+1599,0001131324,Genomic Health Inc,ghdx,1
+1600,0000355811,Gentex Corp,gntx,1
+1601,0001314755,Gentium S.p.A.,,0
+1602,0001096142,Gentiva Health Services Inc,gtiv,1
+1603,0000040987,Genuine Parts Co,gpc,1
+1604,0001276520,Genworth Financial Inc,gnw,1
+1605,0001572983,"Genworth Holdings, Inc.",,0
+1606,0001352302,"GeoMet, Inc.",gmet,1
+1607,0000714395,"German American Bancorp, Inc.",gabc,1
+1608,0000886744,Geron Corp,gern,1
+1609,0001052752,Getty Realty Corp /MD/,gty,1
+1610,0001392380,"Gevo, Inc.",gevo,1
+1611,0001484504,Gigamon Inc.,gimo,1
+1612,0000897322,Gilat Satellite Networks Ltd,gilt,0
+1613,0001061894,Gildan Activewear Inc.,gil,0
+1614,0000882095,Gilead Sciences Inc,gild,1
+1615,0001629137,"Global Blood Therapeutics, Inc.",gbt,1
+1616,0000748790,"Global Clean Energy Holdings, Inc.",gceh,1
+1617,0001512077,Global Eagle Entertainment Inc.,ent,1
+1618,0001142488,"Global Entertainment Holdings, Inc.",,1
+1619,0000319671,Global Gold Corp,gbgd,1
+1620,0001494904,Global Indemnity plc,gbli,1
+1621,0001123360,Global Payments Inc,gpn,1
+1622,0001136294,Global Power Equipment Group Inc.,glpw,1
+1623,3443,Global Unichip Corp. (創意電子),,0
+1624,0001361540,"Globalink, Ltd.",gobk,1
+1625,0001112920,Globalscape Inc,gsb,1
+1626,0001366868,"Globalstar, Inc.",gsat,1
+1627,0001237831,Globus Medical Inc,gmed,1
+1628,0000746210,"Glowpoint, Inc.",glow,1
+1629,0001366246,Glu Mobile Inc,gluu,1
+1630,0000931799,"GlyEco, Inc.",glye,1
+1631,0001500435,"GoPro, Inc.",gpro,1
+1632,0000886982,Goldman Sachs Group Inc,gs,1
+1633,0001335982,Goodman Networks Inc,gnet,1
+1634,0000042582,Goodyear Tire & Rubber Co /OH/,gt,1
+1635,0000070415,Gp Strategies Corp,gpx,1
+1636,0000042888,Graco Inc,ggg,1
+1637,0000931148,Graftech International Ltd,gti,1
+1638,0000716314,Graham Corp,ghm,1
+1639,0001478085,Graham Packaging Co Inc.,grm,1
+1640,0001434588,"Grand Canyon Education, Inc.",lope,1
+1641,0001020475,"Grandparents.Com, Inc.",gpcm,1
+1642,0000043196,Gray Television Inc,gtn,1
+1643,0001372020,Great Lakes Dredge & Dock CORP,gldd,1
+1644,0001613665,"Great Western Bancorp, Inc.",gwb,1
+1645,0001114483,"Greatbatch, Inc.",gb,1
+1646,0001386278,Green Dot Corp,gdot,1
+1647,0001433966,"Green Earth Technologies, Inc",getg,1
+1648,0001443388,Green Hygienics Holdings Inc.,gryn,1
+1649,0001269127,Greenshift Corp,gers,1
+1650,0000050725,Griffon Corp,gff,1
+1651,0001438569,Grifols SA,grfs,0
+1652,0001490281,"Groupon, Inc.",grpn,1
+1653,0001594109,GrubHub Inc.,grub,1
+1654,0001504764,Grupo Aval Acciones Y Valores S.A.,aval,0
+1655,0000944480,Gse Systems Inc,gvp,1
+1656,0001076930,Gsi Group Inc,gsig,1
+1657,0001375793,Gtx Corp,gtxo,1
+1658,0001576280,"Guardant Health, Inc.",gh,1
+1659,0001429592,Guardian 8 Holdings,grdh,1
+1660,0001642375,"Guardion Health Sciences, Inc.",ghsi,1
+1661,0000912463,Guess Inc,ges,1
+1662,0001375557,"Guidance Software, Inc.",guid,1
+1663,0001528396,"Guidewire Software, Inc.",gwre,1
+1664,0001339605,"H&E Equipment Services, Inc.",hees,1
+1665,0000812906,HANCOCK FABRICS INC,hkfi,1
+1666,0001354752,HARLAND CLARKE HOLDINGS CORP,,1
+1667,0001094238,HARRIS INTERACTIVE INC,hpol,1
+1668,0000085704,"HARRIS TEETER SUPERMARKETS, INC.",htsi,1
+1669,0000045947,HARTFORD LIFE INSURANCE CO,hig_priv,1
+1670,0001054579,HASTINGS ENTERTAINMENT INC,hast,1
+1671,0001006837,"HC2 Holdings, Inc.",hchc,1
+1672,0000792985,"HEALTH MANAGEMENT ASSOCIATES, INC",hma,1
+1673,0001084415,"HEARTLAND, INC.",htlj,1
+1674,0000801748,HEMACARE CORP /CA/,hema,1
+1675,0000047129,HERTZ CORP,htz_priv1,1
+1676,0000013239,HEXION INC.,hxn,1
+1677,0001585101,"HINES GLOBAL REIT II, INC.",hirt_priv1,1
+1678,0001262959,HINES REAL ESTATE INVESTMENT TRUST INC,hirt,1
+1679,0001137204,"HIPCRICKET, INC.",hippq,1
+1680,0000047710,HITACHI LTD,,0
+1681,0001130866,HITTITE MICROWAVE CORP,hitt,1
+1682,0000912544,HOLLYWOOD MEDIA CORP,holl,1
+1683,0000715153,HONDA MOTOR CO LTD,hmc,0
+1684,0001017712,HOT TOPIC INC /CA/,hott,1
+1685,0001302215,"HOULIHAN LOKEY, INC.",hli,1
+1686,0000354964,HSBC Finance Corp,hsfc.prb,1
+1687,0001089113,HSBC HOLDINGS PLC,hsbc,0
+1688,0000083246,HSBC USA INC /MD/,husi,1
+1689,0000048898,HUBBELL INC,hub.b,1
+1690,0001404655,HUBSPOT INC,hubs,1
+1691,0001410240,"HUGHES Telematics, Inc.",hutc,1
+1692,0000901219,HUMAN GENOME SCIENCES INC,hgsi,1
+1693,0000878616,HUMAN PHEROMONE SCIENCES INC,erox,1
+1694,0001396118,"HW Holdings, Inc.",hhww,1
+1695,0000704432,HYDROMER INC,hydi,1
+1696,,Habib American Bank,hbb_priv,1
+1697,0001057379,"Hackett Group, Inc.",hckt,1
+1698,0000313143,Haemonetics Corp,hae,1
+1699,0000910406,Hain Celestial Group Inc,hain,1
+1700,0000045012,Halliburton Co,hal,1
+1701,0000106618,Handy & Harman Ltd.,hnh,1
+1702,0000722723,"Hanger, Inc.",hgr,1
+1703,0001388132,Hangover Joe's Holding Corp,hjoe,1
+1704,0001561894,"Hannon Armstrong Sustainable Infrastructure Capital, Inc.",hasi,1
+1705,0000944695,"Hanover Insurance Group, Inc.",thg,1
+1706,0001276591,Hansen Medical Inc,hnsn,1
+1707,0001371541,"Hanwha Q CELLS Co., Ltd.",hqcl,0
+1708,1751876,Happiness Biotech Group Ltd,HAPP,0
+1709,0000313716,Hardinge Inc,hdng,1
+1710,0000793952,Harley Davidson Inc,hog,1
+1711,0000800459,Harman International Industries Inc /DE/,har,1
+1712,0000851310,Harmonic Inc,hlit,1
+1713,0000202058,Harris Corp /DE/,hrs,1
+1714,0000045876,Harsco Corp,hsc,1
+1715,0000045919,Harte Hanks Inc,hhs,1
+1716,0001123494,Harvard Bioscience Inc,hbio,1
+1717,0000046080,Hasbro Inc,has,1
+1718,0000216085,Haverty Furniture Companies Inc,hvt,1
+1719,0000046250,Hawkins Inc,hwkn,1
+1720,0000858655,Haynes International Inc,hayn,1
+1721,0000888919,Hcc Insurance Holdings Inc/DE/,hcc,1
+1722,0001003344,Headwaters Inc,hw,1
+1723,0000916085,Health Net Inc,hnt,1
+1724,0000773660,"HealthMarkets, Inc.",uci,1
+1725,0001339553,"HealthSpring, Inc.",,1
+1726,0000754813,"HealthWarehouse.com, Inc.",hewa,1
+1727,0001514682,Healthcare Corp of America,hccaw,1
+1728,0000899749,Healthcare Realty Trust Inc,hr,1
+1729,0000844856,Healthier Choices Management Corp.,vpco,1
+1730,0000785161,Healthsouth Corp,hls,1
+1731,0001095565,Healthstream Inc,hstm,1
+1732,0000704415,"Healthways, Inc",hway,1
+1733,0000920112,Heartland Financial Usa Inc,htlf,1
+1734,0001144354,Heartland Payment Systems Inc,hpy,1
+1735,0000046619,Heico Corp,hei,1
+1736,0001066605,Heidrick & Struggles International Inc,hsii,1
+1737,0001040792,Helios & Matheson Analytics Inc.,hmny,1
+1738,0000046765,"Helmerich & Payne, Inc.",hp,1
+1739,0000946644,Hemispherx Biopharma Inc,heb,1
+1740,0001000228,Henry Schein Inc,hsic,1
+1741,0001330849,"Hercules Offshore, Inc.",hero,1
+1742,0001038133,Heska Corp,hska,1
+1743,0000004447,Hess Corp,hes,1
+1744,0000717605,Hexcel Corp /DE/,hxl,1
+1745,0001549848,Hi-Crush Partners LP,hclp,1
+1746,0001287808,"Hill International, Inc.",hil,1
+1747,0000878520,Hilltop Securities Holdings LLC,sws,1
+1748,0001342338,"Himax Technologies, Inc.",himx,0
+1749,0001196501,Hms Holdings Corp,hmsy,1
+1750,0001178336,Hoku Corp,hokuq,1
+1751,0001283140,Holly Energy Partners Lp,hep,1
+1752,0000048039,HollyFrontier Corp,hfc,1
+1753,0000859737,Hologic Inc,holx,1
+1754,0000354950,Home Depot Inc,hd,1
+1755,0000923118,Home Properties Inc,hme,1
+1756,0001518715,"HomeStreet, Inc.",hmst,1
+1757,0001366684,Homeaway Inc,away,1
+1758,0000773840,Honeywell International Inc,hon,1
+1759,0001077688,Hooker Furniture Corp,hoft,1
+1760,0000741815,Hooper Holmes Inc,hh,1
+1761,0000850141,Horace Mann Educators Corp /DE/,hmn,1
+1762,0001492426,Horizon Pharma plc,hznp,1
+1763,0000048465,Hormel Foods Corp /DE/,hrl,1
+1764,0001274057,Hospira Inc,hsp,1
+1765,0001356949,Houston Wire & Cable CO,hwcc,1
+1766,0000357294,Hovnanian Enterprises Inc,hov,1
+1767,0001498828,Howard Hughes Corp,hhc,1
+1768,0000940942,Hub Group Inc,hubg,1
+1769,0001322422,Hudbay Minerals Inc.,hbm,0
+1770,0000921847,Hudson City Bancorp Inc,hcbk,1
+1771,0001210708,"Hudson Global, Inc.",hson,1
+1772,0000925528,Hudson Technologies Inc /NY,hdsn,1
+1773,0000049071,Humana Inc,hum,1
+1774,0000049196,Huntington Bancshares Inc/MD,hban,1
+1775,cr12311,Huntington National Bank,,0
+1776,0001307954,Huntsman CORP,hun,1
+1777,0000315374,Hurco Companies Inc,hurc,1
+1778,0001289848,Huron Consulting Group Inc.,hurn,1
+1779,0000772897,Hutchinson Technology Inc,htch,1
+1780,0001093082,Huttig Building Products Inc,hbp,1
+1781,0001203464,IAMGOLD CORP,iag,0
+1782,0001362004,"ICF International, Inc.",icfi,1
+1783,0001076522,ICTV Brands Inc.,ictv,1
+1784,0001093649,IDENIX PHARMACEUTICALS INC,idix,1
+1785,0001627811,IEG Holdings Corp,iegh,1
+1786,0001219210,"IKANOS COMMUNICATIONS, INC.",ikan,1
+1787,0000216324,IMAGE ENTERTAINMENT INC,disk,1
+1788,0000839441,IMAGENETIX INC /NV/,iagx,1
+1789,0000790652,IMAGING DIAGNOSTIC SYSTEMS INC /FL/,imds,1
+1790,0001587063,"IMC Holdings, Inc.",imch_priv,1
+1791,0000736822,IMMUCOR INC,blud,1
+1792,0001208261,IMMUNE PHARMACEUTICALS INC,imnp,1
+1793,0001114995,IMPINJ INC,pi,1
+1794,0001489161,IMRIS Inc.,imrs,0
+1795,0001080099,INFORMATICA LLC,infa,1
+1796,0001018336,INFORMATION ARCHITECTS CORP,iach,1
+1797,0001039765,ING GROEP NV,ind,0
+1798,0001274913,"INHIBITEX, INC.",,1
+1799,0000903651,INNODATA INC,inod,1
+1800,0001051114,INNOTRAC CORP,inoc,1
+1801,0001000753,"INSPERITY, INC.",nsp,1
+1802,0000885988,INTEGRAMED AMERICA INC,inmd,1
+1803,0000916863,"INTEGRYS HOLDING, INC.",teg,1
+1804,0001156871,INTELSAT INVESTMENTS S.A.,,1
+1805,0000888165,INTERACTIVE DATA CORP/MA/,,1
+1806,,INTERAUDI BANK,inta_priv,1
+1807,0000858446,INTERCONTINENTAL HOTELS GROUP PLC /NEW/,ihg,0
+1808,0001174746,INTERCONTINENTALEXCHANGE INC,ice,1
+1809,0000828146,INTERLINK ELECTRONICS INC,link,1
+1810,0001087432,INTERMUNE INC,itmn,1
+1811,0000890543,INTERNATIONAL BARRIER TECHNOLOGY INC,ibh,1
+1812,0000714311,INTERNATIONAL LEASE FINANCE CORP,aer4665697,1
+1813,0000354813,INTERNATIONAL LOTTERY & TOTALIZATOR SYSTEMS INC,itsi,1
+1814,0000880224,INTERTAPE POLYMER GROUP INC,itp,0
+1815,y91064278,INTRUST Financial Corporation,,0
+1816,0001089473,INVENTIV HEALTH INC,vtiv,1
+1817,0000920424,"INVESTMENT TECHNOLOGY GROUP, INC.",itg,1
+1818,0000319240,IRIS INTERNATIONAL INC,iris,1
+1819,0001301712,IRONCLAD PERFORMANCE WEAR CORP,icpw,1
+1820,0001088120,ISECURETRAC CORP,tmsg,1
+1821,0000941221,ISRAEL CHEMICALS LTD,icl,0
+1822,0000930553,ISTA PHARMACEUTICALS INC,,1
+1823,0001095651,ISTAR INC.,star,1
+1824,0001639992,"IT Management, Inc.",itmgt_priv,0
+1825,0001041954,ITC DELTACOM INC,,1
+1826,0001317630,ITC Holdings Corp.,itc,1
+1827,0001495231,"IZEA, Inc.",izea,1
+1828,0000891103,Iac/INteractivecorp,iaci,1
+1829,0000933141,Iberiabank Corp,ibkc,1
+1830,0000749660,Icad Inc,icad,1
+1831,0001518520,"Icagen, Inc.",icgn,1
+1832,0000857737,"Iconix Brand Group, Inc.",icon,1
+1833,0000883984,Icu Medical Inc/DE,icui,1
+1834,0000049615,Id Systems Inc,idsy,1
+1835,0000861838,"Idera Pharmaceuticals, Inc.",idra,1
+1836,0000832101,Idex Corp /DE/,iex,1
+1837,0000874716,Idexx Laboratories Inc /DE,idxx,1
+1838,0001451520,"Idle Media, Inc.",idlm,1
+1839,0001005731,Idt Corp,idt,1
+1840,0000049728,Iec Electronics Corp,iec,1
+1841,0001526796,"Ignite Restaurant Group, Inc.",irg,1
+1842,0001557421,"Ignyta, Inc.",rxdx,1
+1843,0000820318,Ii-Vi Inc,iivi,1
+1844,0001083301,Ikonics Corp,iknx,1
+1845,0000049826,Illinois Tool Works Inc,itw,1
+1846,0001110803,Illumina Inc,ilmn,1
+1847,0000943034,Image Sensing Systems Inc,isns,1
+1848,0000941685,Imageware Systems Inc,iwsy,1
+1849,0001014111,Imation Corp,imn,1
+1850,0000921582,Imax Corp,imax,1
+1851,0001058811,Immersion Corp,immr,1
+1852,0000811641,Immucell Corp /DE/,iccc,1
+1853,0000948320,"Immudyne, Inc.",immd,1
+1854,0000855654,Immunogen Inc,imgn,1
+1855,0000722830,Immunomedics Inc,immu,1
+1856,0001000298,Impac Mortgage Holdings Inc,imh,1
+1857,0001003642,Impax Laboratories Inc,ipxl,1
+1858,CIPC_1983/009088/06,Imperial Group Limited,,0
+1859,0001364962,Imperva Inc,impv,1
+1860,0001328015,Imprivata Inc,impr,1
+1861,0000879169,Incyte Corp,incy,1
+1862,0001537028,"Independence Contract Drilling, Inc.",icd,1
+1863,0000039311,Independent Bank Corp /MI/,ibcp,1
+1864,0000072170,Inergetics Inc,nrti,1
+1865,0001138639,Infinera Corp,infn,1
+1866,0001223862,Infoblox Inc,blox,1
+1867,0001556143,"Infor (US), Inc.",infus_pirv,0
+1868,0001371489,Information Services Group Inc.,iii,1
+1869,0001274032,Infosonics Corp,ifon,1
+1870,0000050493,Ingles Markets Inc,imkta,1
+1871,0001018003,Ingram Micro Inc,im,1
+1872,0000923284,Inland Real Estate Corp,irc,1
+1873,0001350381,Innerworkings Inc,inwk,1
+1874,0001098482,"Innovaro, Inc.",inni,1
+1875,0001432272,"Innovative Wireless Technologies, Inc.",,1
+1876,0000082473,Innsuites Hospitality Trust,iht,1
+1877,0001294133,Inogen Inc,ingn,1
+1878,0001055726,"Inovio Pharmaceuticals, Inc.",ino,1
+1879,0000875355,Insignia Systems Inc/MN,isig,1
+1880,0000802724,Insite Vision Inc,insv,1
+1881,0001104506,Insmed Inc,insm,1
+1882,0001609550,"Inspire Medical Systems, Inc.",insp,1
+1883,0000764401,Insteel Industries Inc,iiin,1
+1884,0001592365,Instride Inc,itdpe,1
+1885,0001355754,Instructure Inc,inst,1
+1886,0001145197,Insulet Corp,podd,1
+1887,0001516479,"Insys Therapeutics, Inc.",insy,1
+1888,0000917520,Integra Lifesciences Holdings Corp,iart,1
+1889,0001018281,Integral Technologies Inc,itkg,1
+1890,0000703361,Integrated Device Technology Inc,idti,1
+1891,0001048268,"Integrated Electrical Services, Inc.",iesc,1
+1892,0000050863,Intel Corp,intc,1
+1893,0001337905,"Intellect Neurosciences, Inc.",ilns,1
+1894,0001125280,"Intellicell Biosciences, Inc.",svfc,1
+1895,0001040896,"Intellicheck Mobilisa, Inc.",idn,1
+1896,0000320340,Intelligent Systems Corp,ins,1
+1897,0001525773,Intelsat S.A.,i,1
+1898,0000822663,Inter Parfums Inc,ipar,1
+1899,0001405495,"InterDigital, Inc.",idcc,1
+1900,0001160142,"InterMetro Communications, Inc.",imto,1
+1901,0001517650,"Interactive Intelligence Group, Inc.",inin,1
+1902,0001270073,Intercept Pharmaceuticals Inc,icpt,1
+1903,0001571949,"Intercontinental Exchange, Inc.",ice,1
+1904,0000715787,Interface Inc,tile,1
+1905,0001037649,Interleukin Genetics Inc,iliu,1
+1906,0001292900,"Interline Brands, Inc./DE",ibi,1
+1907,0001044590,"Intermec, Inc.",in,1
+1908,0001056386,Internap Corp,inap,1
+1909,0000315709,International Bancshares Corp,iboc,1
+1910,0000051143,International Business Machines Corp,ibm,1
+1911,0000051253,International Flavors & Fragrances Inc,iff,1
+1912,0000316793,International Rectifier Corp /DE/,irf,1
+1913,0000051548,International Speedway Corp,isca,1
+1914,0001001279,Internet America Inc,geek,1
+1915,0000051644,"Interpublic Group Of Companies, Inc.",ipg,1
+1916,0001271214,"Intersect ENT, Inc.",xent,1
+1917,0001095277,Intersections Inc,intx,1
+1918,0001096325,Intersil Corp/DE,isil,1
+1919,0001001902,Intevac Inc,ivac,1
+1920,0001587755,"Intrawest Resorts Holdings, Inc.",snow,1
+1921,0001421461,"Intrepid Potash, Inc.",ipi,1
+1922,0001356090,Intrexon Corp,xon,1
+1923,0000736012,Intrusion Inc,intz,1
+1924,0000896878,Intuit Inc,intu,1
+1925,0001035267,Intuitive Surgical Inc,isrg,1
+1926,0000829323,"Inuvo, Inc.",inuv,1
+1927,0000742112,Invacare Corp,ivc,1
+1928,0001294924,InvenSense Inc,invn,1
+1929,0000944508,"Inventure Foods, Inc.",snak,1
+1930,0000914208,Invesco Ltd.,ivz,1
+1931,0001437071,Invesco Mortgage Capital Inc.,ivr,1
+1932,0000720858,Investors Title Co,itic,1
+1933,0001501134,Invitae Corp,nvta,1
+1934,0001292519,Invivo Therapeutics Holdings Corp.,nviv,1
+1935,0001393020,"Invuity, Inc.",ivty,1
+1936,0000866609,Ion Geophysical Corp,io,1
+1937,0001053374,Ipass Inc,ipas,1
+1938,0001111928,Ipg Photonics Corp,ipgp,1
+1939,0001166338,Ireland Inc.,irld,1
+1940,0001159167,Irobot Corp,irbt,1
+1941,0001020569,Iron Mountain Inc,irm,1
+1942,0000842517,Isabella Bank Corp,isba,1
+1943,0000863015,Isle Of Capri Casinos Inc,isle,1
+1944,0000843006,Issuer Direct Corp,isdr,1
+1945,0001613170,Itamar Medical Ltd.,,0
+1946,0001132597,Itau Unibanco Holding S.A.,itub,0
+1947,0000350868,"Iteris, Inc.",iti,1
+1948,0000860518,Itex Corp,itex,1
+1949,0000780571,Itron Inc /WA/,itri,1
+1950,0000216228,Itt Corp,itt,1
+1951,0000922475,Itt Educational Services Inc,esi,1
+1952,0001397183,"Iveda Solutions, Inc.",ivda,1
+1953,0001120295,Ixia,xxia,1
+1954,0001166126,J C Penney Co Inc,jcp,1
+1955,0000091419,J M SMUCKER Co,sjm,1
+1956,0000785956,J&J Snack Foods Corp,jjsf,1
+1957,0001617227,"J. Alexander's Holdings, Inc.",jax,1
+1958,0001084048,"J2 GLOBAL, INC.",jcom,1
+1959,0001173284,JACOBS ENTERTAINMENT INC,,1
+1960,0001133062,JANEL CORP,janl,1
+1961,0001006892,JDA SOFTWARE GROUP INC,jdas,1
+1962,0001302350,JMP GROUP LLC,jmp,1
+1963,0000054050,JOSTENS INC,,1
+1964,0000019617,JPMORGAN CHASE & CO,jpm,1
+1965,cr852218,"JPMorgan Chase Bank, N.A.",,0
+1966,0000821995,JUNIPER PHARMACEUTICALS INC,jnp,1
+1967,0000898293,Jabil Circuit Inc,jbl,1
+1968,0000807882,Jack In The Box Inc /New/,jack,1
+1969,0000052988,Jacobs Engineering Group Inc /DE/,jec,1
+1970,0001121793,"Jagged Peak, Inc.",jgpk,1
+1971,0001009829,Jakks Pacific Inc,jakk,1
+1972,0001065865,Janus Capital Group Inc,jns,1
+1973,0000895655,Jarden Corp,jah,1
+1974,0001232524,Jazz Pharmaceuticals plc,jazz,1
+1975,0001158463,Jetblue Airways Corp,jblu,1
+1976,0001462633,"Jive Software, Inc.",jive,1
+1977,0001433660,John Bean Technologies CORP,jbt,1
+1978,0000200406,Johnson & Johnson,jnj,1
+1979,0000053669,Johnson Controls Inc,jci,1
+1980,0000788329,Johnson Outdoors Inc,jout,1
+1981,0001037976,Jones Lang Lasalle Inc,jll,1
+1982,0001083522,Jones Soda Co,jsda,1
+1983,0001232241,Journal Communications Inc,jrn,1
+1984,0001622893,"Journal Media Group, Inc.",jmg,1
+1985,0001043604,Juniper Networks Inc,jnpr,1
+1986,0001538789,Just Energy Group Inc.,je,0
+1987,0001157408,K12 Inc,lrn,1
+1988,0001312928,KAYAK Software Corp,kyak,1
+1989,0000740694,KAYDON CORP,kdn,1
+1990,0001569391,"KCG Holdings, Inc.",kcg,1
+1991,0000860748,KEMPER Corp,kmpr,1
+1992,0001434647,"KEMPHARM, INC",kmph,1
+1993,0001114714,KENEXA CORP,knxa,1
+1994,0001002811,KENSEY NASH CORP,knsy,1
+1995,0000909954,"KEURIG GREEN MOUNTAIN, INC.",gmcr,1
+1996,0001032761,KEYNOTE SYSTEMS INC,keyn,1
+1997,0000055604,KEYSTONE CONSOLIDATED INDUSTRIES INC,kycn,1
+1998,0000831967,KINETIC CONCEPTS INC,kci,1
+1999,0001047699,KING PHARMACEUTICALS INC,kg,1
+2000,0001617898,KLX Inc.,klxi,1
+2001,0001060749,"KNIGHT CAPITAL GROUP, INC.",nite,1
+2002,0001096788,KNOLOGY INC,knol,1
+2003,0000885639,KOHLS Corp,kss,1
+2004,0000056594,KOMATSU LTD,,0
+2005,0001191141,KONAMI CORP,knm,0
+2006,0000313216,KONINKLIJKE PHILIPS NV,phg,0
+2007,0001176236,KRONOS INTERNATIONAL INC,,1
+2008,0000109821,KUBOTA CORP,,0
+2009,0001662684,"KULR Technology Group, Inc.",,1
+2010,0001419177,KUNEKT CORP,knkt,1
+2011,0000886346,Kadant Inc,kai,1
+2012,0000054381,Kaman Corp,kamn,1
+2013,0000054473,Kansas City Life Insurance Co,kcli,1
+2014,0001325281,Kapstone Paper & Packaging Corp,ks,1
+2015,0000352363,Kate Spade & Co,kate,1
+2016,0000795266,Kb Home,kbh,1
+2017,0000055135,Kelly Services Inc,kelya,1
+2018,1742491,"Kenloc, Inc.",,1
+2019,0000055242,Kennametal Inc,kmt,1
+2020,0001408100,"Kennedy-Wilson Holdings, Inc.",kw,1
+2021,0000055529,Kewaunee Scientific Corp /DE/,kequ,1
+2022,0000318996,Key Energy Services Inc,keg,1
+2023,0000906193,Key Technology Inc,ktec,1
+2024,0000719733,Key Tronic Corp,ktcc,1
+2025,cr280110,KeyBank National Association,,0
+2026,0001601046,"Keysight Technologies, Inc.",keys,1
+2027,0000930420,Kforce Inc,kfrc,1
+2028,0001025996,Kilroy Realty Corp,krc,1
+2029,0001606757,"Kimball Electronics, Inc.",ke,1
+2030,0000055772,Kimball International Inc,kbal,1
+2031,0000055785,Kimberly Clark Corp,kmb,1
+2032,0001506307,"Kinder Morgan, Inc.",kmi,1
+2033,0001060009,"Kindred Healthcare, Inc",knd,1
+2034,0001072627,Kingsway Financial Services Inc,kfs,1
+2035,0001056285,"Kirkland's, Inc",kirk,1
+2036,0001608092,"Kisses From Italy, Inc.",,1
+2037,0001510580,"Kite Pharma, Inc.",kite,1
+2038,0000866439,Klever Marketing Inc,klmk,1
+2039,0000929452,Knight Transportation Inc,knx,1
+2040,0001011570,Knoll Inc,knl,1
+2041,0001468748,Kodiak Sciences Inc.,kod,1
+2042,0000771266,Kopin Corp,kopn,1
+2043,0000056701,Koss Corp,koss,1
+2044,0001545158,"Kraft Foods Group, Inc.",krft,1
+2045,0001069258,"Kratos Defense & Security Solutions, Inc.",ktos,1
+2046,0001100270,Krispy Kreme Doughnuts Inc,kkd,1
+2047,0001007587,Kvh Industries Inc \De\,kvhi,1
+2048,0000057083,Kyocera Corp,kyo,0
+2049,0001436304,Kythera Biopharmaceuticals Inc,kyth,1
+2050,1039101,L 3 Communications Holdings Inc,lll,1
+2051,0001018332,"L-1 IDENTITY SOLUTIONS, INC.",id,1
+2052,0000919443,LACROSSE FOOTWEAR INC,boot,1
+2053,0000799288,"LANDS' END, INC.",le,1
+2054,0001047716,LATAM AIRLINES GROUP S.A.,lfl,0
+2055,0000912766,"LAUREATE EDUCATION, INC.",laur,1
+2056,0001348324,LDR HOLDING CORP,ldrh,1
+2057,0001002037,"LEARNING TREE INTERNATIONAL, INC.",ltre,1
+2058,0000943580,LECROY CORP,lcry,1
+2059,0000704051,"LEGG MASON, INC.",lm,1
+2060,0000094845,LEVI STRAUSS & CO,levit_priv,1
+2061,0001062822,"LEXICON PHARMACEUTICALS, INC.",lxrx,1
+2062,0001290109,"LG Display Co., Ltd.",lpl,0
+2063,0001303313,"LHC Group, Inc",lhcg,1
+2064,0001076195,"LIFE TIME FITNESS, INC.",ltm,1
+2065,0001301611,"LIFEPOINT HEALTH, INC.",lpnt,1
+2066,0000814586,LIFEWAY FOODS INC,lway,1
+2067,0001084554,LIGHTBRIDGE Corp,ltbr,1
+2068,1563756,LIGHTSTONE VALUE PLUS REAL ESTATE INVESTMENT TRUST II INC,lvpr,1
+2069,0000931058,LIN TELEVISION CORP,,1
+2070,0000910739,LINCOLN BENEFIT LIFE CO,lcob_priv,1
+2071,0000726865,LINCOLN NATIONAL LIFE INSURANCE CO /IN/,,1
+2072,0001512499,"LINDBLAD EXPEDITIONS HOLDINGS, INC.",lind,1
+2073,0001611820,LINE Corp,ln,0
+2074,0001168197,LIPOSCIENCE INC,lpdx,1
+2075,0001141240,LIQUIDMETAL TECHNOLOGIES INC,lqmt,1
+2076,0000804154,LITHIUM TECHNOLOGY CORP,lthuq,1
+2077,0001065696,LKQ CORP,lkq,1
+2078,0001259550,LOCAL Corp,locm,1
+2079,0000911002,LODGENET INTERACTIVE CORP,lnteq,1
+2080,0001397911,LPL Financial Holdings Inc.,lpla,1
+2081,0000924383,LRAD Corp,lrad,1
+2082,0000703360,LSI CORP,log,1
+2083,0000060751,LUBRIZOL Corp,lz,1
+2084,0000752902,LUCID INC,lcdxw,1
+2085,0000060849,LUFKIN INDUSTRIES INC,lufk,1
+2086,0001004945,LUMENIS LTD,lmns,1
+2087,0000920465,La Jolla Pharmaceutical Co,ljpc,1
+2088,0000057131,La-Z-Boy Inc,lzb,1
+2089,0000920148,Laboratory Corp Of America Holdings,lh,1
+2090,0001341318,"Lake Shore Bancorp, Inc.",lsbk,1
+2091,0000798081,Lakeland Industries Inc,lake,1
+2092,0000707549,Lam Research Corp,lrcx,1
+2093,899045,Lamar Advertising Co/New,lamr,1
+2094,0001679273,"Lamb Weston Holdings, Inc.",lww,1
+2095,0000057515,Lancaster Colony Corp,lanc,1
+2096,0000825410,Landauer Inc,ldr,1
+2097,0001005286,Landec Corp \Ca\,lndc,1
+2098,0000853816,Landstar System Inc,lstr,1
+2099,0001114925,Lantronix Inc,ltrx,1
+2100,0000875296,Lapolla Industries Inc,lpad,1
+2101,0001300514,Las Vegas Sands Corp,lvs,1
+2102,0000350644,Lattice INC,lttc,1
+2103,0000855658,Lattice Semiconductor Corp,lscc,1
+2104,0000703604,Lawson Products Inc/New/DE/,laws,1
+2105,0001344632,"Lawson Software, Inc.",,1
+2106,0000888504,Layne Christensen Co,layn,1
+2107,0001138951,Leapfrog Enterprises Inc,lf,1
+2108,0000842162,Lear Corp,lea,1
+2109,0000058361,"Lee Enterprises, Inc",lee,1
+2110,0000058492,Leggett & Platt Inc,leg,1
+2111,0001158895,Lemaitre Vascular Inc,lmat,1
+2112,0001409970,LendingClub Corp,lc,1
+2113,0001434621,"LendingTree, Inc.",tree,1
+2114,0000794323,Level 3 Communications Inc,lvlt,1
+2115,0001412707,Level One Bancorp Inc,levl,1
+2116,0001001288,Lexmark International Inc /Ky/,lxk,1
+2117,0001316631,"Liberty Global, Inc.",lbtyk,1
+2118,0001073431,Life Technologies Corp,ivgn,1
+2119,0001383871,"Lifelock, Inc.",lock,1
+2120,0000874396,"Lifetime Brands, Inc",lcut,1
+2121,0000849146,Lifevantage Corp,lfvn,1
+2122,0000886163,Ligand Pharmaceuticals Inc,lgnd,1
+2123,0000866970,Lighting Science Group Corp,lscg,1
+2124,0000889971,Lightpath Technologies Inc,lpth,1
+2125,0001065860,Lime Energy Co.,lime,1
+2126,0001391127,"Limelight Networks, Inc.",llnw,1
+2127,0001342423,Limoneira CO,lmnr,1
+2128,0000059527,Lincoln Electric Holdings Inc,leco,1
+2129,0000059558,Lincoln National Corp,lnc,1
+2130,0000836157,Lindsay Corp,lnn,1
+2131,0000791907,Linear Technology Corp /CA/,lltc,1
+2132,0001271024,Linkedin Corp,lnkd,1
+2133,0001058299,Lionbridge Technologies Inc /DE/,liox,1
+2134,0000929351,Lions Gate Entertainment Corp /Cn/,lgf,1
+2135,0001330436,Liquidia Technologies Inc,lqda,1
+2136,0001235468,Liquidity Services Inc,lqdt,1
+2137,0001023128,Lithia Motors Inc,lad,1
+2138,0001415332,Lithium Corp,ltum,1
+2139,0000889331,Littelfuse Inc /DE,lfus,1
+2140,0001335258,"Live Nation Entertainment, Inc.",lyv,1
+2141,0001462120,"Live Oak Bancshares, Inc.",lob,1
+2142,0001742924,Livent Corp.,lthm,1
+2143,0001102993,Liveperson Inc,lpsn,1
+2144,1167831,Lloyds Bank plc,,0
+2145,0001383196,"Location Based Technologies, Inc.",lbas,1
+2146,0000936468,Lockheed Martin Corp,lmt,1
+2147,0000060086,Loews Corp,l,1
+2148,0001420302,"LogMeIn, Inc.",logm,1
+2149,0001032975,Logitech International Sa,logi,1
+2150,0000355777,Lojack Corp,lojn,1
+2151,0001641129,"LookSmart Group, Inc.",lkst,1
+2152,0001077866,Looksmart Ltd,look,1
+2153,0001504678,"Loop Industries, Inc.",llpp,1
+2154,0001353209,"LoopNet, Inc.",,1
+2155,0000060519,Louisiana-Pacific Corp,lpx,1
+2156,0000060667,Lowes Companies Inc,low,1
+2157,0000060714,Lsb Industries Inc,lxu,1
+2158,0000763532,Lsi Industries Inc,lyts,1
+2159,0001396033,"Lumber Liquidators Holdings, Inc.",ll,1
+2160,0001033905,Luminex Corp,lmnx,1
+2161,0001520744,Lumos Networks Corp.,lmos,1
+2162,0001239819,Luna Innovations Inc,luna,1
+2163,0001475348,Luther Burbank Corp,lbc,1
+2164,0000060977,Lydall Inc /DE/,ldl,1
+2165,0001759509,"Lyft, Inc.",lyft,1
+2166,0001166220,"Lyris, Inc.",lyri,1
+2167,0000036270,M&T Bank Corp,mtb,1
+2168,0001493594,"M/A-COM Technology Solutions Holdings, Inc.",mtsi,1
+2169,0001038280,MAC-GRAY CORP,tuc,1
+2170,0000912607,MACE SECURITY INTERNATIONAL INC,mace,1
+2171,2337,"MACRONIX INTERNATIONAL CO., LTD. (旺宏電子)",,0
+2172,0000019411,MAGELLAN HEALTH INC,mgln,1
+2173,0000920707,"MAKEMUSIC, INC.",mmus,1
+2174,0000202467,MAKITA CORP,,0
+2175,0001411861,MAKO Surgical Corp.,mako,1
+2176,0001401923,"MAP Pharmaceuticals, Inc.",,1
+2177,0001441693,MARRONE BIO INNOVATIONS INC,mbii,1
+2178,0001399315,MARSHALL & ILSLEY CORP,mhyrx,1
+2179,0000892025,MARTEK BIOSCIENCES CORP,,1
+2180,0000015615,MASTEC INC,mtz,1
+2181,0000755003,MATERIAL SCIENCES CORP,masc,1
+2182,0001091223,MATERIALISE NV,mtls,0
+2183,0001104657,MATERION Corp,mtrn,1
+2184,0001361470,MAVENIR SYSTEMS INC,mvnr,1
+2185,0001068796,MAXYGEN INC,,1
+2186,0001032067,MEADE INSTRUMENTS CORP,,1
+2187,0001159297,MEADWESTVACO Corp,mwv,1
+2188,0001000209,MEDALLION FINANCIAL CORP,mfin,1
+2189,0001139463,MEDCATH CORP,,1
+2190,0001170650,MEDCO HEALTH SOLUTIONS INC,mhs,1
+2191,0000748270,MEDICAL ACTION INDUSTRIES INC,mdci,1
+2192,0001582982,"MEDICAL TRANSCRIPTION BILLING, CORP",mtbc,1
+2193,0000859368,MEDICIS PHARMACEUTICAL CORP,mrx,1
+2194,0001133519,MEDICURE INC,,0
+2195,0000874733,MEDIWARE INFORMATION SYSTEMS INC,medw,1
+2196,0000753772,MEDIZONE INTERNATIONAL INC,mzei,1
+2197,0000884497,MEDQUIST INC,medq,1
+2198,0001267612,MELT INC,mltc,1
+2199,0000064978,MERCK SHARP & DOHME CORP.,mrk,1
+2200,0001049521,MERCURY SYSTEMS INC,mrcy,1
+2201,,MERIDIAN BANK,mwi_priv,1
+2202,0000724941,MERISEL INC /DE/,,1
+2203,0000065100,"MERRILL LYNCH & CO., INC.",mer$p,1
+2204,0000810332,MESA AIR GROUP INC,mesa,1
+2205,0000065201,MET PRO CORP,mpr,1
+2206,0000886977,METHANEX CORP,meoh,0
+2207,,METROPOLITAN COMMERCIAL BANK,mcb_priv,1
+2208,0000937834,METROPOLITAN LIFE INSURANCE CO,mlic,1
+2209,0001401106,MF Global Holdings Ltd.,mfglq,1
+2210,0000789570,MGM Resorts International,mgm,1
+2211,0001517224,"MICHAEL FOODS GROUP, INC.",,1
+2212,0000740670,MICHAELS STORES INC,,1
+2213,0001329136,MICROELECTRONICS TECHNOLOGY Co,mely,1
+2214,0000320345,MICROS SYSTEMS INC,mcrs,1
+2215,0000065770,"MICROVISION, INC.",mvis,1
+2216,0000928576,MIDAMERICAN ENERGY CO,mdpwk,1
+2217,0001046131,MIDAS INC,,1
+2218,0000912958,MILLICOM INTERNATIONAL CELLULAR SA,tigo,0
+2219,0001458962,"MINDBODY, Inc.",mb,1
+2220,0001224370,"MINDSPEED TECHNOLOGIES, INC",mspd,1
+2221,0000944130,"MINISTRY PARTNERS INVESTMENT COMPANY, LLC",minipa_priv,1
+2222,0001059786,MIPS TECHNOLOGIES INC,mips,1
+2223,0001586727,"MIRAMAR LABS, INC.",mrlb,1
+2224,0001010775,MIRANT CORP,mir,1
+2225,0001041609,MIRENCO INC,mreo,1
+2226,0000067099,MITSUI & CO LTD,,0
+2227,0001369444,MIZATI LUXURY ALLOY WHEELS INC,mztaq,1
+2228,0001335730,MIZUHO FINANCIAL GROUP INC,mfg,0
+2229,0001527698,"ML Capital Group, Inc.",mlcg,1
+2230,0001285701,"MMRGlobal, Inc.",mmrf,1
+2231,0001470099,"MOBILEIRON, INC.",mobl,1
+2232,0001447380,MOBIVITY HOLDINGS CORP.,mfon,1
+2233,1743971,MOGU Inc.,MOGU,0
+2234,0001005276,MOHEGAN TRIBAL GAMING AUTHORITY,mohe_priv,1
+2235,0000067472,MOLEX INC,molx,1
+2236,0001265107,MONITRONICS INTERNATIONAL INC,ascma_priv,1
+2237,0001020416,"MONSTER WORLDWIDE, INC.",mww,1
+2238,0000067887,MOOG INC.,mog.a,1
+2239,0001276477,MORRIS PUBLISHING GROUP LLC,,1
+2240,0001336691,MOTRICITY INC,vltcw,1
+2241,0001085770,MOVE INC,move,1
+2242,0001408198,MSCI Inc.,msci,1
+2243,cr212465,"MUFG Union Bank, N.A.",,0
+2244,0000732412,MULTIBAND CORP,mbnd,1
+2245,0001323974,"MWI Veterinary Supply, Inc.",mwiv,1
+2246,0000069499,MYLAN INC.,myl_priv,1
+2247,0001369290,MYOMO INC,myo,1
+2248,0001402479,MYOS Corp,myos,1
+2249,0001053584,Macatawa Bank Corp,mcbc,1
+2250,0001125345,Macrogenics Inc,mgnx,1
+2251,0000794367,"Macy's, Inc.",m,1
+2252,0001088162,Mad Catz Interactive Inc,mcz,1
+2253,0001636519,Madison Square Garden Co,msg,1
+2254,0001575975,Madison Ventures Inc.,mavt,1
+2255,0001126975,Magellan Midstream Partners Lp,mmp,1
+2256,0000876779,Magic Software Enterprises Ltd,mgic,0
+2257,0000749098,Magna International Inc,mga,0
+2258,0001353487,Magnegas Corp,mnga,1
+2259,0000751085,"Magnetek, Inc.",mag,1
+2260,0001412100,"Maiden Holdings, Ltd.",mhld,1
+2261,0001574097,"Maiden Lane Jewelry, Ltd.",mdnl,1
+2262,0001626853,Majesco,mjco,1
+2263,0001076682,Majesco Entertainment Co,cool,1
+2264,0001590976,"Malibu Boats, Inc.",mbuu,1
+2265,0001594034,Mallinckrodt International Finance SA,,0
+2266,0001567892,Mallinckrodt plc,mnk,1
+2267,0001549107,Manchester United plc,manu,0
+2268,0001056696,Manhattan Associates Inc,manh,1
+2269,0001387632,Manhattan Bancorp,mnhn,1
+2270,0000061986,Manitowoc Co Inc,mtw,1
+2271,0001650962,"Manitowoc Foodservice, Inc.",mfs,1
+2272,0001056358,Mannatech Inc,mtex,1
+2273,0000899460,Mannkind Corp,mnkd,1
+2274,0000871763,ManpowerGroup Inc.,man,1
+2275,0000892537,Mantech International Corp,mant,1
+2276,cr501105,Manufacturers and Traders Trust Company,,0
+2277,0000101778,Marathon Oil Corp,mro,1
+2278,0001507605,"Marathon Patent Group, Inc.",mara,1
+2279,0001224133,Marchex Inc,mchx,1
+2280,0000062234,Marcus Corp,mcs,1
+2281,0001389002,Marin Software Inc,mrin,1
+2282,0001517008,"Marina District Development Company, LLC",,1
+2283,0001057060,Marinemax Inc,hzo,1
+2284,0001096343,Markel Corp,mkl,1
+2285,0001298978,"Market Leader, Inc.",,1
+2286,0001278021,Marketaxess Holdings Inc,mktx,1
+2287,0001490660,"Marketo, Inc.",mkto,1
+2288,0001534463,Marlborough Software Development Holdings Inc.,,1
+2289,0001048286,Marriott International Inc /MD/,mar,1
+2290,0001524358,Marriott Vacations Worldwide Corp,vac,1
+2291,0000062709,"Marsh & Mclennan Companies, Inc.",mmc,1
+2292,0001091801,Martha Stewart Living Omnimedia Inc,mso,1
+2293,0000916076,Martin Marietta Materials Inc,mlm,1
+2294,0001058057,Marvell Technology Group Ltd,mrvl,1
+2295,0000062996,Masco Corp /DE/,mas,1
+2296,0000937556,Masimo Corp,masi,1
+2297,0000893691,Masonite International Corp,door,1
+2298,0000866273,Matrix Service Co,mtrx,1
+2299,0000063276,Mattel Inc /DE/,mat,1
+2300,0001094348,Mattersight Corp,matr,1
+2301,0000063296,Matthews International Corp,matw,1
+2302,0000063330,Maui Land & Pineapple Co Inc,mlp,1
+2303,0001611231,"MaxPoint Interactive, Inc.",mxpt,1
+2304,0001121142,Maxar Technologies Inc.,maxr,1
+2305,0000743316,Maxim Integrated Products Inc,mxim,1
+2306,0001032220,Maximus Inc,mms,1
+2307,0000319815,Maxwell Technologies Inc,mxwl,1
+2308,0001766368,"Mayville Engineering Company, Inc.",mec,1
+2309,0001139812,Mb Financial Inc /MD,mbfi,1
+2310,0000890801,"McAfee, Inc.",mfe,1
+2311,0001288741,McCormick & Schmicks Seafood Restaurants Inc.,,1
+2312,0001585002,"McGraw-Hill Global Education Intermediate Holdings, LLC",mhed,1
+2313,0000063754,Mccormick & Co Inc,mkc,1
+2314,0000708819,Mcdermott International Inc,mdr,1
+2315,0000063908,Mcdonalds Corp,mcd,1
+2316,0000752714,Mcgrath Rentcorp,mgrc,1
+2317,0000927653,Mckesson Corp,mck,1
+2318,0001535079,"McorpCX, Inc.",mccx,1
+2319,0000773141,Mdc Holdings Inc,mdc,1
+2320,0000876883,Mdc Partners Inc,mdca,1
+2321,0000067716,Mdu Resources Group Inc,mdu,1
+2322,0000778734,Measurement Specialties Inc,meas,1
+2323,0001083712,Mecklermedia Corp,meck,1
+2324,0000040528,"MedClean Technologies, Inc.",mcln,1
+2325,0001540184,"Medallia, Inc.",mdla,1
+2326,0001254419,Medassets Inc,mdas,1
+2327,0001593984,MediWound Ltd.,mdwd,0
+2328,0000216539,Media General Inc,meg,1
+2329,2454,MediaTek Inc. (聯發科技),mtk,0
+2330,0001226616,Medicinova Inc,mnov,1
+2331,0001658432,Medico International Inc.,mddt,1
+2332,0001453814,"Medidata Solutions, Inc.",mdso,1
+2333,0001603961,Medifocus Inc.,mfs,0
+2334,0001591165,Medovex Corp.,mdvx,1
+2335,0001078099,"MeetMe, Inc.",meet,1
+2336,0001356104,"Mellanox Technologies, Ltd.",mlnx,1
+2337,0000919134,Mendocino Brewing Co Inc,menb,1
+2338,0000701811,Mentor Graphics Corp,ment,1
+2339,0001042729,Mercantile Bank Corp,mbwm,1
+2340,0000726517,Merchants Bancshares Inc,mbvt,1
+2341,0000310158,"Merck & Co., Inc.",mrk,1
+2342,0000065011,Meredith Corp,mdp,1
+2343,0000944765,Merge Healthcare Inc,mrge,1
+2344,0000794172,Meridian Bioscience Inc,vivo,1
+2345,0001750735,Meridian Corp,,1
+2346,0000856982,Merit Medical Systems Inc,mmsi,1
+2347,0000833079,Meritage Homes CORP,mth,1
+2348,0001274792,Merrimack Pharmaceuticals Inc,mack,1
+2349,0001167294,Meru Networks Inc,meru,1
+2350,0000724004,Mesa Laboratories Inc /Co,mlab,1
+2351,0000907471,Meta Financial Group Inc,cash,1
+2352,0001121702,"Metabolix, Inc.",mblx,1
+2353,1722606,Metalla Royalty & Streaming Ltd.,,0
+2354,0000065270,Methode Electronics Inc,mei,1
+2355,0001085706,"Metro Bancorp, Inc.",metr,1
+2356,0000876437,Mgic Investment Corp,mtg,1
+2357,0000835011,Mgp Ingredients Inc,mgpi,1
+2358,0000827054,Microchip Technology Inc,mchp,1
+2359,0000723125,Micron Technology Inc,mu,1
+2360,0001574969,Microphase Corp,micph_priv,1
+2361,0000310568,Microsemi Corp,mscc,1
+2362,0000789019,Microsoft Corp,msft,1
+2363,0001050446,Microstrategy Inc,mstr,1
+2364,0001412665,"MidWestOne Financial Group, Inc.",mofg,1
+2365,0001466026,"Midland States Bancorp, Inc.",msbi,1
+2366,0000855683,Milestone Scientific Inc.,mlss,1
+2367,0001372375,Millennial Media Inc.,mm,1
+2368,0001376339,"Mimedx Group, Inc.",mdxg,1
+2369,0000891014,Minerals Technologies Inc,mtx,1
+2370,0001527599,"Mirna Therapeutics, Inc.",mirn,1
+2371,0000880432,Misonix Inc,mson,1
+2372,0001436126,"Mistras Group, Inc.",mg,1
+2373,0000807863,Mitek Systems Inc,mitk,1
+2374,0001170534,Mitel Networks Corp,mitl,1
+2375,0000067088,Mitsubishi Ufj Financial Group Inc,mtu,0
+2376,0001049502,Mks Instruments Inc,mksi,1
+2377,0000890394,"MoSys, Inc.",mosy,1
+2378,0000911109,Mobile Mini Inc,mini,1
+2379,0001113513,"MobileSmith, Inc.",most,1
+2380,0001084267,"Mobiquity Technologies, Inc.",mobq,1
+2381,0000067279,Mocon Inc,moco,1
+2382,0001118417,"Model N, Inc.",modn,1
+2383,0000067347,Modine Manufacturing Co,mod,1
+2384,0000914712,ModusLink Global Solutions Inc,mlnk,1
+2385,0000851968,Mohawk Industries Inc,mhk,1
+2386,0001179929,Molina Healthcare Inc,moh,1
+2387,0000871344,Moller International Inc,mler,1
+2388,0001235010,Momenta Pharmaceuticals Inc,mnta,1
+2389,1624826,Momentive Performance Materials Inc.,mpmq,1
+2390,0001405041,Momentive Performance Materials Inc.,mpmq,1
+2391,0001372183,"Monaker Group, Inc.",mkgi,1
+2392,0001273931,Moneygram International Inc,mgi,1
+2393,0001441816,"MongoDB, Inc.",mdb,1
+2394,0001280452,Monolithic Power Systems Inc,mpwr,1
+2395,0001385292,Monotype Imaging Holdings Inc.,type,1
+2396,0000876427,Monro Muffler Brake Inc,mnro,1
+2397,0001165880,Montpelier Re Holdings Ltd,mrh,1
+2398,0000895421,Morgan Stanley,ms,1
+2399,0001342126,Morgans Hotel Group Co.,mhgc,1
+2400,0001289419,"Morningstar, Inc.",morn,1
+2401,0001340243,MorphoSys AG,,0
+2402,0001285785,Mosaic Co,mos,1
+2403,0000918251,Motorcar Parts America Inc,mpaa,1
+2404,0000068505,"Motorola Solutions, Inc.",msi,1
+2405,0000040730,Motors Liquidation Co,mtlqu,1
+2406,0000072573,Movado Group Inc,mov,1
+2407,0001439095,Mrc Global Inc.,mrc,1
+2408,0000887969,Mrv Communications Inc,mrvc,1
+2409,0000834162,Mtr Gaming Group Inc,mntg,1
+2410,0000068709,Mts Systems Corp,mtsc,1
+2411,0000089439,Mueller Industries Inc,mli,1
+2412,0001350593,"Mueller Water Products, Inc.",mwa,1
+2413,0000717423,Murphy Oil Corp /DE,mur,1
+2414,0001415684,MusclePharm Corp,mslp,1
+2415,0001434601,Music Of Your Life Inc,myli,1
+2416,0000069488,Myers Industries Inc,mye,1
+2417,0000899923,Myriad Genetics Inc,mygn,1
+2418,0000904896,N-Viro International Corp,nvic,1
+2419,0000883107,NANOPHASE TECHNOLOGIES CORPORATION,nanx,1
+2420,2408,NANYA TECHNOLOGY CORPORATION (南亞科技),ntc,0
+2421,0001120193,"NASDAQ, INC.",ndaq,1
+2422,0000069671,NASH FINCH CO,nafc,1
+2423,0000912382,NATIONAL BANK OF INDIANAPOLIS CORP,,1
+2424,0001183186,NATIONAL FINANCIAL PARTNERS CORP,nfp,1
+2425,0001004315,NATIONAL GRID PLC,ngg,0
+2426,0001338690,"NATIONAL MENTOR HOLDINGS, INC.",,1
+2427,0000318508,NATIONAL PROPERTY INVESTORS 4,,1
+2428,0000070502,NATIONAL RURAL UTILITIES COOPERATIVE FINANCE CORP /DC/,,1
+2429,0000070530,NATIONAL SEMICONDUCTOR CORP,nsm,1
+2430,0001049659,NATIONAL STEEL CO,sid,0
+2431,0000110536,NATIONAL TECHNICAL SYSTEMS INC /CA/,ntsc,1
+2432,0000702162,NATIONAL WESTMINSTER BANK PLC /ENG/,nwpc.cl,0
+2433,0000205695,NATIONWIDE LIFE INSURANCE CO,,1
+2434,0000070793,NBTY INC,nty,1
+2435,0001334478,"NCI, Inc.",ncit,1
+2436,0001318742,NCL CORP Ltd.,nclh_priv1,1
+2437,0001399708,NEOVASC INC,nvcn,0
+2438,0001089638,NESS TECHNOLOGIES INC,,1
+2439,0001135711,NETLOGIC MICROSYSTEMS INC,,1
+2440,0000752431,NETWORK EQUIPMENT TECHNOLOGIES INC,nwk,1
+2441,0001444380,NEVRO CORP,nvro,1
+2442,0000847383,NEW FRONTIER MEDIA INC,noof,1
+2443,0001756574,"NEW WORLD TECHNOLOGIES, INC.",,1
+2444,0001564708,NEWS CORP,nwsa,1
+2445,0001094019,"NEWTEK BUSINESS SERVICES, INC.",newt,1
+2446,0000753308,NEXTERA ENERGY INC,nee,1
+2447,0001504461,NGL Energy Partners LP,ngl,1
+2448,1140471,NIPPON STEEL CORP,,0
+2449,0000888981,NOCOPI TECHNOLOGIES INC/MD/,nnup,1
+2450,0000924613,NOKIA CORP,nok,0
+2451,0001275158,NOODLES & Co,ndls,1
+2452,0001288248,NORCRAFT COMPANIES LP,,1
+2453,0001216596,NORTEK INC,ntk,1
+2454,0000072911,NORTEL NETWORKS CORP,nrtlq,1
+2455,1123852,NORTHERN STATES POWER CO,,1
+2456,72909,NORTHERN STATES POWER CO /WI/,,1
+2457,0000893467,NORTHWEST BANCORPORATION INC,nbct,1
+2458,0001072379,NORTHWEST BIOTHERAPEUTICS INC,nwbo,1
+2459,0001114448,NOVARTIS AG,nvs,0
+2460,0001022652,NOVATEL WIRELESS INC,mifi,1
+2461,0000758004,NOVELL INC,novl,1
+2462,0000836106,NOVELLUS SYSTEMS INC,nvls,1
+2463,0000353278,NOVO NORDISK A S,nvo,0
+2464,0001126216,"NTS, INC.",nts,1
+2465,0001563463,NUTRAFUELS INC,ntfu,1
+2466,0000741508,"NV ENERGY, INC.",nve,1
+2467,0001018735,NYMOX PHARMACEUTICAL CORP,nymx,0
+2468,0001163739,Nabors Industries Ltd,nbr,1
+2469,0001383097,Naked Brand Group Inc.,nakd,1
+2470,0001599661,Nancy's Specialty Foods,,0
+2471,0001401708,NanoString Technologies Inc,nstg,1
+2472,0000704532,Nanometrics Inc,nano,1
+2473,0001566469,"NantHealth, Inc.",nh,1
+2474,0001326110,"NantKwest, Inc.",nk,1
+2475,0000069633,"Napco Security Technologies, Inc",nssc,1
+2476,0001604821,"Natera, Inc.",ntra,1
+2477,0000069733,Nathans Famous Inc,nath,1
+2478,0001475841,National Bank Holdings Corp,nbhc,1
+2479,0000069891,National Beverage Corp,fizz,1
+2480,0001527190,"National CineMedia, LLC",ncmi_priv1,1
+2481,0000070145,National Fuel Gas Co,nfg,1
+2482,0001578735,National General Holdings Corp.,nghc,1
+2483,0000877860,National Health Investors Inc,nhi,1
+2484,0001306109,National Health Partners Inc,nhpr,1
+2485,0001047335,National Healthcare Corp,nhc,1
+2486,0000935494,National Instruments Corp /DE/,nati,1
+2487,0001301106,National Interstate CORP,natl,1
+2488,0001021860,National Oilwell Varco Inc,nov,1
+2489,0000080172,National Presto Industries Inc,npk,1
+2490,0000070487,National Research Corp,nrcib,1
+2491,0000751364,"National Retail Properties, Inc.",nnn,1
+2492,0000070684,National Western Life Insurance Co,nwli,1
+2493,0001507951,Nationstar Mortgage LLC,nsmllc,1
+2494,0000787253,Natural Alternatives International Inc,naii,1
+2495,0000275053,Natures Sunshine Products Inc,natr,1
+2496,0000878526,Natus Medical Inc,baby,1
+2497,0001078207,"Nautilus, Inc.",nls,1
+2498,0000810509,"Navidea Biopharmaceuticals, Inc.",navb,1
+2499,0001019737,Navigant Consulting Inc,nci,1
+2500,0000793547,Navigators Group Inc,navg,1
+2501,0000808450,Navistar International Corp,nav,1
+2502,0000790359,Nbt Bancorp Inc,nbtb,1
+2503,0000883902,Nci Building Systems Inc,ncs,1
+2504,0000070866,Ncr Corp,ncr,1
+2505,0001296435,Neenah Paper Inc,np,1
+2506,0000906709,Nektar Therapeutics,nktr,1
+2507,0001258602,Nelnet Inc,nni,1
+2508,0000711377,Neogen Corp,neog,1
+2509,0001694187,"Neon Therapeutics, Inc.",ntgn,1
+2510,0000087050,"Neonode, Inc",neon,1
+2511,0001227025,Neophotonics Corp,nptn,1
+2512,0001467652,"Neos Therapeutics, Inc.",neos,1
+2513,0001338095,"NephroGenex, Inc.",nrx,1
+2514,0001002047,"NetApp, Inc.",ntap,1
+2515,0001496623,"NetSpend Holdings, Inc.",,1
+2516,0001110646,"Netease.Com, Inc.",ntes,0
+2517,0001065280,Netflix Inc,nflx,1
+2518,0001122904,"Netgear, Inc",ntgr,1
+2519,0001282631,Netlist Inc,nlst,1
+2520,0001078075,Netscout Systems Inc,ntct,1
+2521,0001039280,Netsol Technologies Inc,ntwk,1
+2522,0001117106,Netsuite Inc,n,1
+2523,0001289850,"NeuroMetrix, Inc.",nuro,1
+2524,0000914475,Neurocrine Biosciences Inc,nbix,1
+2525,0001385830,NeurogesX Inc,ngsx,1
+2526,0001227636,"Neuronetics, Inc.",stim,1
+2527,0001265888,Neustar Inc,nsr,1
+2528,0001485589,Nevada Property 1 LLC,nvp1_priv,1
+2529,0001527032,"New Enterprise Stone & Lime Co., Inc.",nesl,1
+2530,0000800166,New Gold Inc. /FI,ngd,0
+2531,0000356309,New Jersey Resources Corp,njr,1
+2532,0000806175,"New Leaf Brands, Inc.",nlef,1
+2533,0000910073,New York Community Bancorp Inc,nycb,1
+2534,cr694904,New York Community Bank,,0
+2535,1595527,"New York REIT, Inc.",nyrt,1
+2536,0000714530,Newbridge Bancorp,nbbc,1
+2537,0001126234,Newlink Genetics Corp,nlnk,1
+2538,0001282637,Newmarket Corp,neu,1
+2539,0000225263,Newport Corp,newp,1
+2540,0001289223,"Newport Gold, Inc.",nwpg,1
+2541,0001142417,Nexstar Broadcasting Group Inc,nxst,1
+2542,0001065332,Nic Inc,egov,1
+2543,0001003935,Nice Systems Ltd,nice,0
+2544,0001158967,Nidec Corp,nj,0
+2545,0000320187,Nike Inc,nke,1
+2546,0001111711,Nisource Inc/DE,ni,1
+2547,0000072207,Noble Energy Inc,nbl,1
+2548,0001433593,"Noble Medical Technologies, Inc.",,1
+2549,0000709005,Noble Romans Inc,nrom,1
+2550,0001163653,Nomura Holdings Inc,nmr,0
+2551,0000720762,Non Invasive Monitoring Systems Inc /FL/,nimu,1
+2552,0000877365,Norbord Inc.,osb,0
+2553,0001582616,"Norcraft Companies, Inc.",ncft,1
+2554,0000072331,Nordson Corp,ndsn,1
+2555,0000072333,Nordstrom Inc,jwn,1
+2556,0000702165,Norfolk Southern Corp,nsc,1
+2557,0001605997,Northern Power Systems Corp.,nps,1
+2558,0000875582,Northern Technologies International Corp,ntic,1
+2559,0001536047,Northern Tier Energy LLC,,1
+2560,cr210434,Northern Trust Company,,0
+2561,0000073124,Northern Trust Corp,ntrs,1
+2562,0001493225,"Northfield Bancorp, Inc.",nfbk,1
+2563,0001401700,"Northfield Bancorp, Inc.",,1
+2564,0001163370,Northrim Bancorp Inc,nrim,1
+2565,0001133421,Northrop Grumman Corp /DE/,noc,1
+2566,0000073020,Northwest Natural Gas Co,nwn,1
+2567,0001001385,Northwest Pipe Co,nwpx,1
+2568,0000073088,Northwestern Corp,nwe,1
+2569,0001389545,"NovaBay Pharmaceuticals, Inc.",nby,1
+2570,0001000694,Novavax Inc,nvax,1
+2571,0001304280,Novelis Inc.,nvl,1
+2572,0000890465,Nps Pharmaceuticals Inc,npsp,1
+2573,0001013871,"Nrg Energy, Inc.",nrg,1
+2574,0000748592,Ntn Buzztime Inc,ntn,1
+2575,0001166141,Ntt Docomo Inc,dcm,0
+2576,0001110805,NuStar Energy L.P.,ns,1
+2577,0001527613,"NuZee, Inc.",nuze,1
+2578,0001002517,"Nuance Communications, Inc.",nuan,1
+2579,0000073309,Nucor Corp,nue,1
+2580,0000870753,Numerex Corp /PA/,nmrx,1
+2581,0001091596,"Nuo Therapeutics, Inc.",nuot,1
+2582,0001618732,"Nutanix, Inc.",ntnx,1
+2583,0001119643,Nutra Pharma Corp,nphc,1
+2584,0001725964,Nutrien Ltd.,ntr,0
+2585,0001142596,Nuvasive Inc,nuva,1
+2586,0001648893,Nuvectra Corp,nvtr,1
+2587,4919,Nuvoton Technology Corporation (新唐科技),,0
+2588,0000724910,Nve Corp /New/,nvec,1
+2589,0001045810,Nvidia Corp,nvda,1
+2590,0000906163,Nvr Inc,nvr,1
+2591,0001333170,"NxStage Medical, Inc.",nxtm,1
+2592,0000898173,O Reilly Automotive Inc,orly,1
+2593,0001427570,OBALON THERAPEUTICS INC,obln,1
+2594,0001578932,OCI Partners LP,ocip,1
+2595,0001355128,OCZ TECHNOLOGY GROUP INC,ocztq,1
+2596,0001137048,ODYSSEY RE HOLDINGS CORP,orh,1
+2597,0000012978,OFFICEMAX INC,omx,1
+2598,0001045150,"OFFICIAL PAYMENTS HOLDINGS, INC.",opay,1
+2599,0000074145,OKLAHOMA GAS & ELECTRIC CO,ogeem,1
+2600,0000885568,OLD DOMINION ELECTRIC COOPERATIVE,odec_priv,1
+2601,0000926326,"OMNICELL, Inc",omcl,1
+2602,0001129928,ONCOLYTICS BIOTECH INC,oncy,0
+2603,0000888953,ONLINE RESOURCES CORP,orcc,1
+2604,0001012140,ONYX PHARMACEUTICALS INC,onxx,1
+2605,0001327688,OOMA INC,ooma,1
+2606,0001125914,OPENTABLE INC,open,1
+2607,0001108924,OPNET TECHNOLOGIES INC,,1
+2608,0001142576,OPTIMER PHARMACEUTICALS INC,optr,1
+2609,0001038143,ORANGE,oran,0
+2610,0000866121,"ORBITAL ATK, INC.",oa,1
+2611,0000896842,ORCHARD SUPPLY HARDWARE STORES CORP,oshwq,1
+2612,0001107216,ORCHID CELLMARK INC,,1
+2613,0001425450,ORTHOPEDIATRICS CORP,kids,1
+2614,0000760326,OUTDOOR CHANNEL HOLDINGS INC,outd,1
+2615,0000941604,OUTERWALL INC,outr,1
+2616,0001101020,OVERHILL FARMS INC,ofi,1
+2617,0000889930,OVERLAND STORAGE INC,ovrl,1
+2618,0000812233,OWENS-ILLINOIS GROUP INC,oi_priv1,1
+2619,0001486159,Oasis Petroleum Inc.,oas,1
+2620,0001375247,"Obagi Medical Products, Inc.",ompi,1
+2621,0001140098,"Ocata Therapeutics, Inc.",ocat,1
+2622,0000797468,Occidental Petroleum Corp /DE/,oxy,1
+2623,0000073756,Oceaneering International Inc,oii,1
+2624,0001403256,Och-Ziff Capital Management Group LLC,ozm,1
+2625,0001110647,"Oclaro, Inc.",oclr,1
+2626,0001367083,"Oculus Innovative Sciences, Inc.",ocls,1
+2627,0000873860,Ocwen Financial Corp,ocn,1
+2628,0001292026,Odimo INC,odmo,1
+2629,0000800240,Office Depot Inc,odp,1
+2630,0001021635,Oge Energy Corp.,oge,1
+2631,0001121484,"Oil States International, Inc",ois,1
+2632,0001660134,"Okta, Inc.",okta,1
+2633,0000878927,Old Dominion Freight Line Inc/VA,odfl,1
+2634,0000707179,Old National Bancorp /IN/,onb,1
+2635,cr208244,Old National Bank,,0
+2636,0000074260,Old Republic International Corp,ori,1
+2637,0000074303,Olin Corp,oln,1
+2638,0001639300,"Ollie's Bargain Outlet Holdings, Inc.",olli,1
+2639,0000820600,"Omagine, Inc.",omag,1
+2640,0001317945,"Omega Flex, Inc.",oflx,1
+2641,0001053650,Omega Protein Corp,ome,1
+2642,0001285819,Omeros Corp,omer,1
+2643,0001470795,"OmniAmerican Bancorp, Inc.",oabc,1
+2644,0000353230,Omnicare Inc,ocr,1
+2645,0000029989,Omnicom Group Inc.,omc,1
+2646,0001034592,Omnicomm Systems Inc,omcm,1
+2647,0001404804,Omnitek Engineering Corp,omtk,1
+2648,0001106851,Omnivision Technologies Inc,ovti,1
+2649,0001090061,Omnova Solutions Inc,omn,1
+2650,0000890564,On Assignment Inc,asgn,1
+2651,0001420811,"On Deck Capital, Inc.",ondk,1
+2652,0001302573,OncoMed Pharmaceuticals Inc,omed,1
+2653,0001130598,"Onconova Therapeutics, Inc.",ontx,1
+2654,0001039684,Oneok Inc /New/,oke,1
+2655,0001100917,Onvia Inc,onvi,1
+2656,0001002638,Open Text Corp,otex,1
+2657,0000944809,"Opko Health, Inc.",opk,1
+2658,0001022225,Oplink Communications Inc,oplk,1
+2659,0001000230,Optical Cable Corp,occ,1
+2660,0001448431,OptimizeRx Corp,oprx,1
+2661,0001303433,Optionable Inc,opbl,1
+2662,0001341439,Oracle Corp,orcl,1
+2663,0001116463,Orasure Technologies Inc,osur,1
+2664,0001621430,Orbis Corp,,1
+2665,0000820736,Orbital Sciences Corp /DE/,orb,1
+2666,0001324189,Orchids Paper Products CO /DE,tis,1
+2667,0001382911,"Orexigen Therapeutics, Inc.",orex,1
+2668,0001354030,Organic Sales & Marketing Inc,ogsm,1
+2669,0001516912,"Origin Bancorp, Inc.",obnk,1
+2670,0001409375,"Orion Energy Systems, Inc.",oesx,1
+2671,0001609804,Orion Engineered Carbons S.A.,oec,1
+2672,0001296445,"Ormat Technologies, Inc.",ora,1
+2673,0001436164,"Oryon Technologies, Inc.",oryn,1
+2674,0000775158,Oshkosh Corp,osk,1
+2675,0001039065,Osi Systems Inc,osis,1
+2676,0001360886,"Osiris Therapeutics, Inc.",osir,1
+2677,0001288359,Otelco Inc.,otel,1
+2678,0001466593,Otter Tail Corp,ottr,1
+2679,0001130713,"Overstock.Com, Inc",ostk,1
+2680,0001636651,Ovid Therapeutics Inc.,ovid,1
+2681,0000075252,Owens & Minor Inc/VA/,omi,1
+2682,0000812074,Owens Illinois Inc /DE/,oi,1
+2683,0000075288,Oxford Industries Inc,oxm,1
+2684,0000908259,Oxigene Inc,oxgn,1
+2685,0001039889,P F CHANGS CHINA BISTRO INC,pfcb,1
+2686,0000075340,P&F Industries Inc,pfin,1
+2687,0000027803,P&H Mining Equipment Inc.,,0
+2688,0000731288,PACCAR FINANCIAL CORP,pcar_priv1,1
+2689,0001091735,PACER INTERNATIONAL INC,pacr,1
+2690,0001299130,"PACIFIC BIOSCIENCES OF CALIFORNIA, INC.",pacb,1
+2691,0001000278,PACIFICHEALTH LABORATORIES INC,phli,1
+2692,0001089976,PACTIV CORP,ptv,1
+2693,0000881695,PALOMAR MEDICAL TECHNOLOGIES INC,pmti,1
+2694,0000063271,PANASONIC Corp,,0
+2695,0000878088,"PAR PHARMACEUTICAL COMPANIES, INC.",prx,1
+2696,0000708821,PAR TECHNOLOGY CORP,par,1
+2697,0001594590,PARAGON OFFSHORE PLC,pgn,1
+2698,0000802356,PARLUX FRAGRANCES INC,,1
+2699,0000275880,PARSONS CORP,psn,1
+2700,0001400431,PATHEON INC,pti,1
+2701,0000937941,"PCM, INC.",pcmi,1
+2702,0000938323,PEARSON PLC,pso,0
+2703,0000897893,PEERLESS SYSTEMS CORP,prlsu,1
+2704,0001546066,PEMBINA PIPELINE CORP,pba,0
+2705,0001235662,PENINSULA GAMING CORP.,,1
+2706,0001123541,PENSON WORLDWIDE INC,pnsnq,1
+2707,0000729156,PEOPLES EDUCATIONAL HOLDINGS,pedh,1
+2708,0001135971,PEPCO HOLDINGS INC,pom,1
+2709,0000880177,PEREGRINE SEMICONDUCTOR CORP,psmi,1
+2710,0001003950,PERFORMANCE TECHNOLOGIES INC \DE\,ptix,1
+2711,0000900349,"PERRY ELLIS INTERNATIONAL, INC",pery,1
+2712,0001042821,PERVASIVE SOFTWARE INC,pvsw,1
+2713,0001119639,PETROBRAS - PETROLEO BRASILEIRO SA,pbr,0
+2714,0001059324,PETROHAWK ENERGY CORP,,1
+2715,0001004980,PG&E Corp,pcg,1
+2716,0000081157,PGI INC,pgai,1
+2717,0001429386,"PHASERX, INC.",pzrx,1
+2718,0000704172,PHI GROUP INC,phil,1
+2719,0001069899,PHIBRO ANIMAL HEALTH CORP,pahc,1
+2720,0001269871,"PHYSICIANS FORMULA HOLDINGS, INC.",face,1
+2721,0000320575,PIONEER ENERGY SERVICES CORP,pes,1
+2722,0000822083,PLAINSCAPITAL CORP,,1
+2723,0000713676,"PNC FINANCIAL SERVICES GROUP, INC.",pnc,1
+2724,0001341843,"POLYMEDIX, INC",pymxq,1
+2725,0000755806,"PONIARD PHARMACEUTICALS, INC.",pard,1
+2726,0001041379,"POPEYES LOUISIANA KITCHEN, INC.",plki,1
+2727,0000889132,POSCO,pkx,0
+2728,0000855931,POTASH CORP OF SASKATCHEWAN INC,pot,1
+2729,0001505892,"POW! ENTERTAINMENT, INC.",pown,1
+2730,0001137091,"POWER SOLUTIONS INTERNATIONAL, INC.",psix,1
+2731,0001023362,POWERWAVE TECHNOLOGIES INC,pwavq,1
+2732,0001185348,PRA GROUP INC,praa,1
+2733,0001013605,PRECISION DRILLING Corp,pds,0
+2734,0000846876,PRESSTEK INC /DE/,prst,1
+2735,0001113668,PRINCETON REVIEW INC,revuq,1
+2736,0001165231,"PROCERA NETWORKS, INC.",pkt,1
+2737,0001392972,"PROS Holdings, Inc.",pro,1
+2738,0000310826,PROTECTIVE LIFE INSURANCE CO,,1
+2739,0001445283,"PROTEOSTASIS THERAPEUTICS, INC.",pti,1
+2740,0000920527,PSS WORLD MEDICAL INC,pssi,1
+2741,0000829608,PSYCHIATRIC SOLUTIONS INC,psys,1
+2742,0000857005,PTC INC.,ptc,1
+2743,81018,PUBLIC SERVICE CO OF COLORADO,,1
+2744,0000788784,PUBLIC SERVICE ENTERPRISE GROUP INC,peg,1
+2745,0000081061,PUBLIX SUPER MARKETS INC,push,1
+2746,0001415306,"PURESPECTRUM, INC.",psru,1
+2747,0000078239,PVH CORP. /DE/,pvh,1
+2748,0000075362,Paccar Inc,pcar,1
+2749,0001084717,Pacific Continental Corp,pcbk,1
+2750,0001028918,Pacific Premier Bancorp Inc,ppbi,1
+2751,0000874841,Pacific Sunwear Of California Inc,psun,1
+2752,0001396814,"Pacira Pharmaceuticals, Inc.",pcrx,1
+2753,0000075677,Packaging Corp Of America,pkg,1
+2754,0001102112,Pacwest Bancorp,pacw,1
+2755,0001069530,Pain Therapeutics Inc,ptie,1
+2756,0000075829,Pall Corp,pll,1
+2757,0001327567,Palo Alto Networks Inc,panw,1
+2758,0001230276,"Pandora Media, Inc.",p,1
+2759,0000915862,Pantry Inc,ptry,1
+2760,0000901491,Papa Johns International Inc,pzza,1
+2761,0001605607,"Paramount Group, Inc.",pgre,1
+2762,0001178711,"Paratek Pharmaceuticals, Inc.",prtk,1
+2763,0000799729,Parexel International Corp,prxl,1
+2764,0000050471,Park City Group Inc,pcyg,1
+2765,0000076267,Park Electrochemical Corp,pke,1
+2766,0001617406,Park Hotels & Resorts Inc.,pk,1
+2767,0000805676,Park National Corp /OH/,prk,1
+2768,0000076334,Parker Hannifin Corp,ph,1
+2769,0000914139,Parkervision Inc,prkr,1
+2770,0001677761,"Parkway, Inc.",pky,1
+2771,0001340554,Party City Holdings Inc.,prty_priv1,1
+2772,0001324503,Patni Computer Systems LTD,,0
+2773,0001098146,Patriot National Bancorp Inc,pnbk,1
+2774,0001619917,"Patriot National, Inc.",pn,1
+2775,0001561660,Pattern Energy Group Inc.,pegi,1
+2776,0000891024,"Patterson Companies, Inc.",pdco,1
+2777,0000723531,Paychex Inc,payx,1
+2778,0001591698,Paylocity Holding Corp,pcty,1
+2779,0001050377,Pc Connection Inc,pccc,1
+2780,0001122020,Pcs Edventures Com Inc,pcsv,1
+2781,0001120914,Pdf Solutions Inc,pdfs,1
+2782,0000882104,"Pdl Biopharma, Inc.",pdli,1
+2783,0001013857,Pegasystems Inc,pega,1
+2784,0000739608,Penford Corp,penx,1
+2785,0000921738,Penn National Gaming Inc,penn,1
+2786,0000077281,Pennsylvania Real Estate Investment Trust,pei,1
+2787,0001019849,"Penske Automotive Group, Inc.",pag,1
+2788,0001321732,Penumbra Inc,pen,1
+2789,cr613307,"People's United Bank, N.A.",,0
+2790,0001378946,"People's United Financial, Inc.",pbct,1
+2791,0000318300,Peoples Bancorp Inc,pebo,1
+2792,0000077449,Pep Boys Manny Moe & Jack,pby,1
+2793,0000077476,Pepsico Inc,pep,1
+2794,0000887226,Perceptron Inc/MI,prcp,1
+2795,0000704562,Peregrine Pharmaceuticals Inc,pphm,1
+2796,0001085869,Perficient Inc,prft,1
+2797,0001618673,Performance Food Group Co,pfgc,1
+2798,0001550695,Performant Financial Corp,pfmt,1
+2799,0000880460,"Perfumania Holdings, Inc.",perf,1
+2800,0001338940,Perion Network Ltd.,peri,0
+2801,0000031791,Perkinelmer Inc,pki,1
+2802,0000891532,Perma Fix Environmental Services Inc,pesi,1
+2803,0001024126,"Pernix Therapeutics Holdings, Inc.",ptx,1
+2804,0000320174,Perseon Corp,prsn,1
+2805,0001724670,Perspecta Inc.,prsp,1
+2806,0001040130,Petmed Express Inc,pets,1
+2807,0000863157,Petsmart Inc,petm,1
+2808,0000078003,Pfizer Inc,pfe,1
+2809,0001388195,PharMerica CORP,pmc,1
+2810,0000949699,Pharmacyclics Inc,pcyc,1
+2811,0001326190,"Pharmathene, Inc",pip,1
+2812,0001050180,Phase Forward Inc,,1
+2813,0000077776,Phh Corp,phh,1
+2814,0000350403,Phi Inc,phii,1
+2815,0000711665,Photomedex Inc,phmd,1
+2816,0000810136,Photronics Inc,plab,1
+2817,0000078460,Piedmont Natural Gas Co Inc,pny,1
+2818,0000278130,Pier 1 Imports Inc/DE,pir,1
+2819,0000802481,Pilgrims Pride Corp,ppc,1
+2820,0000356213,Pinnacle Entertainment Inc.,pnk,1
+2821,0001564822,Pinnacle Foods Inc.,pf,1
+2822,1716338,Pintec Technology Holdings Ltd,PT,0
+2823,0001506293,"Pinterest, Inc.",pins,1
+2824,0001216752,Pioneer Financial Services Inc,pfsi_priv,1
+2825,0001449792,"Pioneer Power Solutions, Inc.",ppsi,1
+2826,0000078814,Pitney Bowes Inc /DE/,pbi,1
+2827,0001522214,Pivotal Group Inc.,,1
+2828,0001574135,"Pivotal Software, Inc.",pvtl,1
+2829,0001040161,"Pixelworks, Inc",pxlw,1
+2830,0001070423,Plains All American Pipeline Lp,paa,1
+2831,0000722392,Planar Systems Inc,plnr,1
+2832,0001362925,Planet Payment Inc,plpm,1
+2833,0001458704,Plantation Corp.,,1
+2834,0000914025,Plantronics Inc /CA/,plt,1
+2835,0001410132,"Platinum Studios, Inc.",pdos,1
+2836,0000785786,Plexus Corp,plxs,1
+2837,0001093691,Plug Power Inc,plug,1
+2838,0000849213,Plum Creek Timber Co Inc,pcl,1
+2839,0001725579,"Pluralsight, Inc.",ps,1
+2840,0001351573,Pocket Shot Co,pckk,1
+2841,0001514183,"Point Capital, Inc.",ptci,1
+2842,0001398797,Point.360,ptsx,1
+2843,0000931015,Polaris Industries Inc/MN,pii,1
+2844,0001010552,Polycom Inc,plcm,1
+2845,0001122976,Polyone Corp,pol,1
+2846,0000763901,Popular Inc,bpop,1
+2847,0000844985,Positron Corp,posc,1
+2848,0001480529,"Post Foods, LLC",,0
+2849,0000903127,Post Properties Inc,pps,1
+2850,0001338749,Potlatch Corp,pch,1
+2851,0000833640,Power Integrations Inc,powi,1
+2852,0001059790,Pozen Inc /Nc,pozn,1
+2853,0000079879,Ppg Industries Inc,ppg,1
+2854,0000079958,Precision Castparts Corp,pcp,1
+2855,0000080035,Preformed Line Products Co,plpc,1
+2856,0001502777,"Premier Brands, Inc.",,1
+2857,0001577916,"Premier, Inc.",pinc,1
+2858,0000880804,"Premiere Global Services, Inc.",pgi,1
+2859,0001631825,"Presidio, Inc.",psdo,1
+2860,0001041803,Pricesmart Inc,psmt,1
+2861,0001475922,"Primerica, Inc.",pri,1
+2862,0001365101,Primo Water Corp,prmw,1
+2863,0001126328,Principal Financial Group Inc,pfg,1
+2864,0000889936,"Privatebancorp, Inc",pvtb,1
+2865,0001290149,ProNAi Therapeutics Inc,dnai,1
+2866,0000868278,"ProPhase Labs, Inc.",prph,1
+2867,0001326048,"ProValue, LLC",,0
+2868,0001127703,Proassurance Corp,pra,1
+2869,0000080424,Procter & Gamble Co,pg,1
+2870,0001546296,"Professional Diversity Network, Inc.",ipdn,1
+2871,0000835887,Progenics Pharmaceuticals Inc,pgnx,1
+2872,0000876167,Progress Software Corp /MA,prgs,1
+2873,0000080661,Progressive Corp/OH/,pgr,1
+2874,0001045609,"Prologis, Inc.",pld,1
+2875,0001212458,Proofpoint Inc,pfpt,1
+2876,0001335103,"Protea Biosciences Group, Inc.",prgb,1
+2877,0000355429,Protective Life Corp,pl,1
+2878,0001443669,Proto Labs Inc,prlb,1
+2879,0001220754,Providence Service Corp,prsc,1
+2880,0001635840,"Provident Bancorp, Inc.",pvbc,1
+2881,0000866368,Ps Business Parks Inc/CA,psb,1
+2882,0001362180,Psm Holdings Inc,psmh,1
+2883,0001070081,"Ptc Therapeutics, Inc.",ptct,1
+2884,0001393311,Public Storage,psa,1
+2885,0001574235,"Pulmatrix, Inc.",rtgn,1
+2886,0001420569,Pulse Beverage Corp,plsb,1
+2887,0001625101,"Pulse Biosciences, Inc.",plse,1
+2888,0000096763,Pulse Electronics Corp,puls,1
+2889,0001521013,"Pulse Network, Inc.",tpni,1
+2890,0001006028,"Pure Bioscience, Inc.",pure,1
+2891,0001474432,"Pure Storage, Inc.",pstg,1
+2892,0001575858,PureBase Corp,pubc,1
+2893,0001289505,"QC Holdings, Inc.",qcco,1
+2894,0001576044,"QEP Midstream Partners, LP",qepm,1
+2895,0001691430,QUANTA INC,,1
+2896,0001088033,QUEST SOFTWARE INC,qsft,1
+2897,0000891288,QUESTCOR PHARMACEUTICALS INC,qcor,1
+2898,0001088206,QUICK-MED TECHNOLOGIES INC,qmdt,1
+2899,0001254699,QVC INC,qvcn,1
+2900,0001037949,QWEST COMMUNICATIONS INTERNATIONAL INC,q,1
+2901,0001036188,Qad Inc,qada,1
+2902,0001108827,"Qep Resources, Inc.",qep,1
+2903,0000918386,Qlogic Corp,qlgc,1
+2904,0000827809,Qlt Inc/Bc,qlti,1
+2905,0001481792,"Quad/Graphics, Inc.",quad,1
+2906,0000081362,Quaker Chemical Corp,kwr,1
+2907,0000804328,Qualcomm Inc/DE,qcom,1
+2908,0000922863,Quality Distribution Inc,qlty,1
+2909,0000708818,"Quality Systems, Inc",qsii,1
+2910,0000758938,Qualstar Corp,qbak,1
+2911,0001107843,"Qualys, Inc.",qlys,1
+2912,0001423221,Quanex Building Products CORP,nx,1
+2913,0001050915,Quanta Services Inc,pwr,1
+2914,0000820608,Quantrx Biomedical Corp,qtxb,1
+2915,0000709283,Quantum Corp /DE/,qtm,1
+2916,0001022079,Quest Diagnostics Inc,dgx,1
+2917,0000882508,Quicklogic Corporation,quik,1
+2918,0000353569,Quidel Corp /DE/,qdel,1
+2919,0000805305,Quiksilver Inc,zqk,1
+2920,0001117297,"Quinstreet, Inc",qnst,1
+2921,0001478242,Quintiles Transnational Holdings Inc.,q,1
+2922,0000892482,Qumu Corp,qumu,1
+2923,0001115128,Quotient Technology Inc.,coup,1
+2924,0001472595,R1 RCM INC.,ah,1
+2925,0000845818,RADIANT SYSTEMS INC,,1
+2926,0001114999,RADVIEW SOFTWARE LTD,rdvwf,1
+2927,0001522538,"RAINBOW INTERNATIONAL, CORP.",rnbi,1
+2928,0001094007,RAINMAKER SYSTEMS INC,vctl,1
+2929,0001029506,RALCORP HOLDINGS INC /MO,,1
+2930,0000849502,RAMTRON INTERNATIONAL CORP,rmtr,1
+2931,0000935419,"RCI HOSPITALITY HOLDINGS, INC.",rick,1
+2932,0001071236,RED RIVER BANCSHARES INC,rrbi,1
+2933,0001065023,REDDY ICE CORP,,1
+2934,0001140215,"REED'S, INC.",reed,1
+2935,0001553643,"RELMADA THERAPEUTICS, INC.",rlmdd,1
+2936,0001046859,"REMY INTERNATIONAL, INC.",remy,1
+2937,0001030484,RENAISSANCE LEARNING INC,,1
+2938,0000868725,"RENTECH, INC.",rtk,1
+2939,0001084817,RESPONSYS INC,mktg,1
+2940,0001222840,"RETAIL PROPERTIES OF AMERICA, INC.",rpai,1
+2941,0001687221,"REV Group, Inc.",revg,1
+2942,0000890547,REVLON CONSUMER PRODUCTS CORP,rev_priv1,1
+2943,0000922204,RF MONOLITHICS INC /DE/,rfmi,1
+2944,0001111247,RIGHTNOW TECHNOLOGIES INC,rnow,1
+2945,0000863064,RIO TINTO PLC,rtppf,0
+2946,0001460702,RITTER PHARMACEUTICALS INC,rttr,1
+2947,0001512074,RMG Networks Holding Corp,rmgn,1
+2948,0000084290,"ROBBINS & MYERS, INC.",rbn,1
+2949,0000868368,ROCHESTER MEDICAL CORPORATION,rocm,1
+2950,0000776008,"ROCK CREEK PHARMACEUTICALS, INC.",rcpi,1
+2951,0001041024,"ROCKWELL MEDICAL, INC.",rmti,1
+2952,0001261302,ROCKWOOD SPECIALTIES GROUP INC,,1
+2953,0000733099,ROGERS COMMUNICATIONS INC,rci,0
+2954,0001428439,"ROKU, INC",roku,1
+2955,0001175108,ROTECH HEALTHCARE INC,rohiq,1
+2956,0001000275,ROYAL BANK OF CANADA,ry,0
+2957,0000844150,ROYAL BANK OF SCOTLAND GROUP PLC,rbs,0
+2958,0001509432,RPX Corp,rpxc,1
+2959,0000029669,RR Donnelley & Sons Co,rrd,1
+2960,0001100441,"RTI SURGICAL, INC.",rtix,1
+2961,0001595974,"RUBICON PROJECT, INC.",rubi,1
+2962,0001533040,RXi Pharmaceuticals Corp,rxii,1
+2963,0001476638,"Rackwise, Inc.",rack,1
+2964,0000790526,"RadNet, Inc.",rdnt,1
+2965,0000890926,Radian Group Inc,rdn,1
+2966,0001171155,"Radiant Logistics, Inc",rlgt,1
+2967,0001041657,"Radio One, Inc.",roiak,1
+2968,0000873044,Radisys Corp,rsys,1
+2969,0001428522,"Radius Health, Inc.",rdus,1
+2970,0001094366,Radware Ltd,rdwr,0
+2971,0001313911,Rally Software Development Corp,raly,1
+2972,0000917273,Rambus Inc,rmbs,1
+2973,0000315852,Range Resources Corp,rrc,1
+2974,0000082166,Raven Industries Inc,ravn,1
+2975,0000720005,Raymond James Financial Inc,rjf,1
+2976,0000052827,Rayonier Inc,ryn,1
+2977,0001047122,Raytheon Co/,rtn,1
+2978,0000830052,"Rbc Life Sciences, Inc.",rbcl,1
+2979,0000700841,Rcm Technologies Inc,rcmt,1
+2980,0001297336,ReachLocal Inc,rloc,1
+2981,0000038984,"Real Industry, Inc.",rely,1
+2982,0001289480,"Real Mex Restaurants, Inc.",,1
+2983,0001327471,RealD Inc.,rld,1
+2984,0001718903,Realm Therapeutics plc,,0
+2985,0001046327,Realnetworks Inc,rnwk,1
+2986,0001286225,Realpage Inc,rp,1
+2987,2379,Realtek Semiconductor Corp (瑞昱半導體),rt,0
+2988,0000726728,Realty Income Corp,o,1
+2989,0001588972,"Recro Pharma, Inc.",reph,1
+2990,0001087423,Red Hat Inc,rht,1
+2991,0001052595,Red Lion Hotels CORP,rlh,1
+2992,0001720116,"Red Violet, Inc.",,1
+2993,0001382821,Redfin Corp,rdfn,1
+2994,0001328003,Redpoint Bio CORP,rpbc,1
+2995,0000082811,Regal Beloit Corp,rbc,1
+2996,0001168696,Regal Entertainment Group,rgc,1
+2997,0000910606,Regency Centers Corp,reg,1
+2998,0000872589,Regeneron Pharmaceuticals Inc,regn,1
+2999,0001519401,Regional Management Corp.,rm,1
+3000,cr233031,Regions Bank,,0
+3001,0001281761,Regions Financial Corp,rf,1
+3002,0000716643,Regis Corp,rgs,1
+3003,0001505512,Regulus Therapeutics Inc.,rgls,1
+3004,0001642159,Reign Sapphire Corp,rgnp,1
+3005,0000898174,Reinsurance Group Of America Inc,rga,1
+3006,0000034285,Reliability Inc,real,1
+3007,0001406243,Reliabrand Inc.,rlia,1
+3008,0000768710,Reliv International Inc,relv,1
+3009,0001417892,ReneSola Ltd,sol,0
+3010,0001463258,"Renewable Energy Group, Inc.",regi,1
+3011,0000800458,Rentrak Corp,rent,1
+3012,0000730272,Repligen Corp,rgen,1
+3013,0000704440,Repro Med Systems Inc,repr,1
+3014,0000897075,Repros Therapeutics Inc.,rprx,1
+3015,0001159154,Republic Airways Holdings Inc,rjet,1
+3016,0001060391,"Republic Services, Inc.",rsg,1
+3017,0000943819,Resmed Inc,rmd,1
+3018,0001469510,Resolute Energy Corp,ren,1
+3019,0001579910,Resonant Inc,resn,1
+3020,1414964,"Resource America, Inc.",rexi,1
+3021,1559484,"Resource America, Inc.",rexi,1
+3022,0000083402,"Resource America, Inc.",rexi,1
+3023,0001084765,Resources Connection Inc,recn,1
+3024,0000806888,Response Biomedical Corp,rpbif,1
+3025,0001124608,Response Genetics Inc,rgdx,1
+3026,0001528849,Restoration Hardware Holdings Inc,rh,1
+3027,0001409269,"Restoration Robotics, Inc.",hair,1
+3028,0001475274,"RetailMeNot, Inc.",sale,1
+3029,0000946563,Retractable Technologies Inc,rvp,1
+3030,0001479290,"Revance Therapeutics, Inc.",rvnc,1
+3031,0001718500,Reviv3 Procare Co,,1
+3032,0000887921,Revlon Inc /DE/,rev,1
+3033,0001571283,"Rexford Industrial Realty, Inc.",rexr,1
+3034,0001439288,Rexnord Corp,rxn,1
+3035,0000911160,Rf Micro Devices Inc,rfmd,1
+3036,0000355948,Richardson Electronics Ltd/DE,rell,1
+3037,0001162112,"RigNet, Inc.",rnet,1
+3038,0001034842,Rigel Pharmaceuticals Inc,rigl,1
+3039,0001384905,RingCentral Inc,rng,1
+3040,0000084129,Rite Aid Corp,rad,1
+3041,0001357326,"Riverbed Technology, Inc.",rvbd,1
+3042,0001440024,"Roadrunner Transportation Systems, Inc.",rrts,1
+3043,0000230498,Rock-Tenn CO,rkt,1
+3044,0001477200,Rocket Fuel Inc.,fuel,1
+3045,0001024478,Rockwell Automation Inc,rok,1
+3046,0001137411,Rockwell Collins Inc,col,1
+3047,0000895456,"Rocky Brands, Inc.",rcky,1
+3048,0001616262,"Rocky Mountain Chocolate Factory, Inc.",rmcf,1
+3049,0000084748,Rogers Corp,rog,1
+3050,0000084839,Rollins Inc,rol,1
+3051,0001448064,"RoomStore, Inc.",roomq,1
+3052,0001362959,Rosetta Genomics Ltd.,rosg,0
+3053,0001351285,Rosetta Stone Inc,rst,1
+3054,0000745732,Ross Stores Inc,rost,1
+3055,0001536035,"Roundy's, Inc.",rndy,1
+3056,0001424454,Rovi Corp,rovi,1
+3057,0001500904,"Rowl, Inc.",over,1
+3058,0000922487,Royal Bancshares Of Pennsylvania Inc,rbpaa,1
+3059,0000884887,Royal Caribbean Cruises Ltd,rcl,1
+3060,0000742278,Rpc Inc,res,1
+3061,0001068717,Rti International Metals Inc,rti,1
+3062,0000068270,Ruby Tuesday Inc,rt,1
+3063,0001294016,Ruckus Wireless Inc,rkus,1
+3064,0001094392,Rudolph Technologies Inc,rtec,1
+3065,1753268,Ruhnn Holding Ltd,RUHN,0
+3066,0001012019,Rush Enterprises Inc \Tx\,rushb,1
+3067,0001324272,"Ruths Hospitality Group, Inc.",ruth,1
+3068,0000085961,Ryder System Inc,r,1
+3069,0000085974,Ryland Group Inc,ryl,1
+3070,0001040829,"Ryman Hospitality Properties, Inc.",rhp,1
+3071,0000064040,S&P Global Inc.,spgi,1
+3072,0000719220,S&T Bancorp Inc,stba,1
+3073,0001070380,SABA SOFTWARE INC,saba,1
+3074,0000313151,SADDLEBROOK RESORTS INC,saddp,1
+3075,0001514732,"SAExploration Holdings, Inc.",saex,1
+3076,0000812900,SAKS INC,sks,1
+3077,0001608104,SAND INTERNATIONAL INC,sand_priv,1
+3078,0000897723,SANMINA CORP,sanm,1
+3079,0001172480,SANTARUS INC,snts,1
+3080,0001000184,SAP SE,sap,0
+3081,0000885740,SAPIENS INTERNATIONAL CORP N V,spns,0
+3082,0001008817,SAPIENT CORP,sape,1
+3083,0000889423,SATCON TECHNOLOGY CORP,satcq,1
+3084,0001063131,SATELITES MEXICANOS SA DE CV,,0
+3085,0000722104,SAVIENT PHARMACEUTICALS INC,svntq,1
+3086,0000087047,SB PARTNERS,sbp_priv,1
+3087,0000719164,SCHAWK INC,sgk,1
+3088,0001022368,"SCHIFF NUTRITION INTERNATIONAL, INC.",shf,1
+3089,0001042173,SCIENTIFIC LEARNING CORP,scil,1
+3090,0000934936,"SCOLR Pharma, Inc.",,1
+3091,2351,SDI CORPORATION (順德工業),sdi,0
+3092,0000748015,SEALY CORP,zz,1
+3093,0001132887,SEAWRIGHT HOLDINGS INC,swri,1
+3094,0001266806,SECOND SIGHT MEDICAL PRODUCTS INC,eyes,1
+3095,0000725537,SECURITY CAPITAL CORP/MS,,1
+3096,0000750813,SEITEL INC,sela,1
+3097,0001383395,SEQUANS COMMUNICATIONS,sqns,0
+3098,0001156295,SERACARE LIFE SCIENCES INC,,1
+3099,0001073967,SERENA SOFTWARE INC,,1
+3100,0001056757,SEYCHELLE ENVIRONMENTAL TECHNOLOGIES INC /CA,syev,1
+3101,0001553588,"SFX Entertainment, INC",sfxe,1
+3102,0001278308,SHANDA INTERACTIVE ENTERTAINMENT LTD,,0
+3103,0000718789,SHFL entertainment Inc.,shfl,1
+3104,0001263043,SHINHAN FINANCIAL GROUP CO LTD,shg,0
+3105,0001459839,"SI-BONE, Inc.",sibn,1
+3106,0000090144,SIERRA PACIFIC POWER CO,,1
+3107,0001015650,SK TELECOM CO LTD,skm,0
+3108,0000004127,"SKYWORKS SOLUTIONS, INC.",swks,1
+3109,0001366561,SMARTSHEET INC,smar,1
+3110,0000845982,SMITH & NEPHEW PLC,snn,0
+3111,0000721083,SMITH INTERNATIONAL INC,,1
+3112,0001370544,SMOKY MARKET FOODS INC,smky,1
+3113,0000094610,SMURFIT-STONE CONTAINER Corp,ssccq,1
+3114,0000091440,SNAP-ON Inc,sna,1
+3115,0001538217,"SOCIAL REALITY, Inc.",srax,1
+3116,0001171298,SOLTA MEDICAL INC,sltm,1
+3117,0001043382,SOLUTIA INC,soi,1
+3118,0000091741,SONESTA INTERNATIONAL HOTELS CORP,,1
+3119,0001055355,SONOSITE INC,,1
+3120,0001163698,SOUNDBITE COMMUNICATIONS INC,sdbt,1
+3121,0001168195,SOURCEFIRE INC,fire,1
+3122,0001163609,SOUTH DAKOTA SOYBEAN PROCESSORS LLC,sdsp,1
+3123,0000764038,SOUTH STATE Corp,ssb,1
+3124,0001159427,SOUTHERN COMMUNITY FINANCIAL CORP,scmf,1
+3125,0000203248,SOUTHERN UNION CO,sug,1
+3126,0000813619,SOUTHWALL TECHNOLOGIES INC /DE/,,1
+3127,92521,SOUTHWESTERN PUBLIC SERVICE CO,,1
+3128,0001059262,SP Plus Corp,sp,1
+3129,0001103577,"SPARE BACKUP, INC.",spbu,1
+3130,0000077597,SPARTECH CORP,seh,1
+3131,0001062273,"SPENDSMART NETWORKS, INC.",sspc,1
+3132,0001367722,SPICY PICKLE FRANCHISING INC,hlix,1
+3133,0001126956,SPIRE INC,sr,1
+3134,0000892907,SPORT CHALET INC,spcha,1
+3135,0001132105,"SPORTSMAN'S WAREHOUSE HOLDINGS, INC.",spwh,1
+3136,0000025598,SPRINGLEAF FINANCE CORP,leaf,1
+3137,0000101830,SPRINT Corp,s,1
+3138,0000088205,SPX CORP,spw,1
+3139,0001641991,"SPX FLOW, Inc.",flow,1
+3140,0001329799,SQUARE 1 FINANCIAL INC,sqbk,1
+3141,0000906192,"SRA INTERNATIONAL, INC.",srx,1
+3142,0001016470,SRS LABS INC,srsl,1
+3143,0001011661,SS&C TECHNOLOGIES INC,,1
+3144,0001479094,"STAG Industrial, Inc.",stag,1
+3145,0001053439,STANADYNE CORP,,1
+3146,0001079577,STANCORP FINANCIAL GROUP INC,sfg,1
+3147,0000093384,STANDARD MICROSYSTEMS CORP,smsc,1
+3148,0000093456,STANDARD REGISTER CO,srctq,1
+3149,0001043156,STAR BUFFET INC,strz,1
+3150,0000316206,"STARWOOD HOTEL & RESORTS WORLDWIDE, INC",hot,1
+3151,0000093751,STATE STREET Corp,stt,1
+3152,0001140625,STATOIL ASA,sto,0
+3153,0001102741,"STEC, INC.",stec,1
+3154,0000878522,STEWART ENTERPRISES INC,stei,1
+3155,0000720672,STIFEL FINANCIAL CORP,sf,1
+3156,0001051514,"STRATA Skin Sciences, Inc.",mela,1
+3157,0000311337,SUNCOR ENERGY INC,su,0
+3158,0000945436,"SUNEDISON, INC.",sune,1
+3159,0000095304,SUNOCO INC,sun,1
+3160,0000867773,SUNPOWER CORP,spwr,1
+3161,0001011064,SUNRISE SENIOR LIVING INC,srz,1
+3162,0000943117,SUREWEST COMMUNICATIONS,surw,1
+3163,0001393356,"SURFACE COATINGS, INC.",sctz,1
+3164,0001382101,"SUTRO BIOPHARMA, INC.",stro,1
+3165,0001492691,SWIFT TRANSPORTATION Co,swft,1
+3166,0001091312,SYMBION INC/TN,smbi,1
+3167,0000082628,SYMMETRICOM INC,symm,1
+3168,780127,SYNOVIS LIFE TECHNOLOGIES  INC,,1
+3169,0001029023,SYNTROLEUM CORP,synm,1
+3170,0001597033,Sabre Corp,sabr,1
+3171,0000086115,Safeguard Scientifics Inc,sfe,1
+3172,0000086144,Safeway Inc,swy,1
+3173,0001597553,"Sage Therapeutics, Inc.",sage,1
+3174,0001369786,"Sagent Pharmaceuticals, Inc.",sgnt,1
+3175,0001177702,Saia Inc,saia,1
+3176,0001627857,"Sailpoint Technologies Holdings, Inc.",SAIL,1
+3177,0001418372,"Salamander Innisbrook, LLC",sala_priv,1
+3178,0001009356,Salix Pharmaceuticals Ltd,slxp,1
+3179,cr3394278,Sallie Mae Bank,,0
+3180,0001368458,"Sally Beauty Holdings, Inc.",sbh,1
+3181,0001084332,Salon Media Group Inc,slnm,1
+3182,0000812128,Sanderson Farms Inc,safm,1
+3183,0001000180,Sandisk Corp,sndk,1
+3184,0001349436,Sandridge Energy Inc,sd,1
+3185,0000824410,Sandy Spring Bancorp Inc,sasr,1
+3186,0001121404,Sanofi,sny,0
+3187,cr722777,"Santander Bank, N.A.",,0
+3188,0001580608,Santander Consumer USA Holdings Inc.,sc,1
+3189,0000873303,"Sarepta Therapeutics, Inc.",srpt,1
+3190,0001096637,SaviCorp,svmi,1
+3191,0000754737,Scana Corp,scg,1
+3192,0000918965,Scansource Inc,scsc,1
+3193,0001692063,"Schneider National, Inc.",sndr,1
+3194,0000912603,Schnitzer Steel Industries Inc,schn,1
+3195,0000866729,Scholastic Corp,schl,1
+3196,0001055454,School Specialty Inc,scoo,1
+3197,0000087565,Schulman A Inc,shlm,1
+3198,0001000623,Schweitzer Mauduit International Inc,swm,1
+3199,0001571123,Science Applications International Corp,saic,1
+3200,3583,Scientech Corporation (辛耘企業),,0
+3201,0000750004,Scientific Games Corp,sgms,1
+3202,0000087802,Scientific Industries Inc,scnd,1
+3203,0001082526,Sciquest Inc,sqi,1
+3204,0000088000,Scotts Liquid Gold Inc,slgd,1
+3205,0001267201,"SeaBright Holdings, Inc.",sbx,1
+3206,0000088121,Seaboard Corp /DE/,seb,1
+3207,0001019671,Seachange International Inc,seac,1
+3208,0000730708,Seacoast Banking Corp Of Florida,sbcf,1
+3209,0000859598,Seacor Holdings Inc /New/,ckh,1
+3210,0001137789,Seagate Technology plc,stx,1
+3211,0001012100,Sealed Air Corp/DE,see,1
+3212,0001060736,Seattle Genetics Inc /WA,sgen,1
+3213,0001468666,SecureWorks Corp,scwx,1
+3214,0000827187,Select Comfort Corp,scss,1
+3215,0000230557,Selective Insurance Group Inc,sigi,1
+3216,0001489136,SemGroup Corp,semg,1
+3217,0001032208,Sempra Energy,sre,1
+3218,0000088941,Semtech Corp,smtc,1
+3219,0001477425,"SendGrid, Inc.",send,1
+3220,0000088948,Seneca Foods Corp,senea,1
+3221,0001123979,Senomyx Inc,snmx,1
+3222,0000310142,Sensient Technologies Corp,sxt,1
+3223,0001076481,Sequenom Inc,sqnm,1
+3224,0001648428,"Sequential Brands Group, Inc.",sqbg,1
+3225,0001609809,"Seres Therapeutics, Inc.",mcrb,1
+3226,0000089089,Service Corporation International,sci,1
+3227,0001373715,"ServiceNow, Inc.",now,1
+3228,0001310114,"Servicesource International, Inc.",srev,1
+3229,0000089140,Servotronics Inc /DE/,svt,1
+3230,0001534814,Seven Seas Cruises S. DE R.L.,,1
+3231,0001532930,Seventy Seven Energy Inc.,sse,1
+3232,0000898770,Sharps Compliance Corp,smed,1
+3233,0001531744,Shea Homes Limited Partnership,,1
+3234,0000354963,Shenandoah Telecommunications Co/VA/,shen,1
+3235,0000904979,Shiloh Industries Inc,shlo,1
+3236,0001642545,"ShockWave Medical, Inc.",swav,1
+3237,0000895447,Shoe Carnival Inc,scvl,1
+3238,0001594805,Shopify Inc,shop,0
+3239,0001388133,ShoreTel Inc,shor,1
+3240,0001125920,Shutterfly Inc,sfly,1
+3241,0001549346,"Shutterstock, Inc.",sstk,1
+3242,0001656328,"Sienna Biopharmaceuticals, Inc.",snna,1
+3243,0001551693,"Sientra, Inc.",sien,1
+3244,0001111863,Sierra Wireless Inc,swir,0
+3245,0000090168,Sifco Industries Inc,sif,1
+3246,0001010086,Siga Technologies Inc,siga,1
+3247,0000090185,Sigma Aldrich Corp,sial,1
+3248,0000790715,Sigma Designs Inc,sigm,1
+3249,0000788611,"Sigma Labs, Inc.",sglb,1
+3250,0000915358,Sigmatron International Inc,sgma,1
+3251,0001545061,Signal Advance Inc,sigl,1
+3252,6415,Silergy Corp. (矽力杰),,0
+3253,0000849869,Silgan Holdings Inc,slgn,1
+3254,0001316625,Silicon Graphics International Corp,sgi,1
+3255,0001003214,Silicon Image Inc,simg,1
+3256,2363,Silicon Integrated Systems Corp. (矽統科技),sis,0
+3257,0001038074,Silicon Laboratories Inc,slab,1
+3258,cr802866,Silicon Valley Bank,,0
+3259,0001397702,Silk Road Medical Inc,silk,1
+3260,0001557255,Silver Bay Realty Trust Corp.,sby,1
+3261,0001180079,Silver Spring Networks Inc,ssni,1
+3262,0001549966,Silvercrest Asset Management Group Inc.,samg,1
+3263,0000090498,Simmons First National Corp,sfnc,1
+3264,0001063761,Simon Property Group Inc /DE/,spg,1
+3265,0000920371,Simpson Manufacturing Co Inc /CA/,ssd,1
+3266,0000912752,Sinclair Broadcast Group Inc,sbgi,1
+3267,0000923601,Singing Machine Co Inc,smdm,1
+3268,0001014507,"Sirona Dental Systems, Inc.",siro,1
+3269,0001650729,"SiteOne Landscape Supply, Inc.",site,1
+3270,0001065837,Skechers Usa Inc,skx,1
+3271,0001176325,Skinny Nutritional Corp.,sknyq,1
+3272,0001423542,"Skullcandy, Inc.",skul,1
+3273,0001354027,"SkyShop Logistics, Inc.",skpn,1
+3274,0000090896,Skyline Corp,sky,1
+3275,0001446159,Skyline Medical Inc.,skln,1
+3276,0000793733,Skywest Inc,skyw,1
+3277,0001040971,Sl Green Realty Corp,slg,1
+3278,0000089270,Sl Industries Inc,sli,1
+3279,0001032033,Slm Corp,slm,1
+3280,0001563407,"Smart & Final Stores, Inc.",sfs,1
+3281,0001289863,SmartPros Ltd.,spro,1
+3282,0001092796,Smith & Wesson Holding Corp,aobc,1
+3283,0000948708,Smith Micro Software Inc,smsi,1
+3284,0001564408,Snap Inc,snap,1
+3285,0001355839,"Snap Interactive, Inc",stvi,1
+3286,0000057528,"Snyder's-Lance, Inc.",lnce,1
+3287,0000354260,Softech Inc,soft,1
+3288,0001172631,"Solar3d, Inc.",sltd,1
+3289,0001428669,"SolarWinds, Inc.",swi,1
+3290,0001408356,Solarcity Corp,scty,1
+3291,0001311230,Solazyme Inc,szym,1
+3292,0001324245,"Solera Holdings, Inc",slh,1
+3293,0000812796,"Soligenix, Inc.",sngx,1
+3294,0001398137,"Solis Tek, Inc./NV",sltk,1
+3295,0001548187,"Soliton, Inc.",soly,1
+3296,0000091668,Solitron Devices Inc,sodi,1
+3297,0001294608,Solo Cup CO,,1
+3298,0001501845,"Solo International, Inc",slio,1
+3299,0001029744,Sonic Foundry Inc,sofo,1
+3300,0000091767,Sonoco Products Co,son,1
+3301,0001314727,Sonos Inc,sono,1
+3302,0001105472,Sonus Networks Inc,sons,1
+3303,0000313838,Sony Corp,sne,0
+3304,0000823094,Sothebys,bid,1
+3305,0001301236,Sotherly Hotels Inc.,soho,1
+3306,0000091928,South Jersey Industries Inc,sji,1
+3307,0000092380,Southwest Airlines Co,luv,1
+3308,0000914374,Southwest Bancorp Inc,oksb,1
+3309,0000007332,Southwestern Energy Co,swn,1
+3310,0000718924,Span America Medical Systems Inc,span,1
+3311,0000927720,Spanish Broadcasting System Inc,sbsa,1
+3312,0001004989,Spar Group Inc,sgrp,1
+3313,0001314475,Spark Networks Inc,lov,1
+3314,0001609351,"Spark Therapeutics, Inc.",once,1
+3315,0000743238,Spartan Motors Inc,spar,1
+3316,0000092679,Sparton Corp,spa,1
+3317,0001373835,Spectra Energy Corp.,se,1
+3318,0000789132,Spectranetics Corp,spnc,1
+3319,0001028985,"Spectrum Brands, Inc.",,1
+3320,0000831547,Spectrum Pharmaceuticals Inc,sppi,1
+3321,0000934648,Speedway Motorsports Inc,trk,1
+3322,0000012239,Spherix Inc,spex,1
+3323,0001403802,"Spindle, Inc.",spdl,1
+3324,0001364885,"Spirit AeroSystems Holdings, Inc.",spr,1
+3325,0001498710,"Spirit Airlines, Inc.",save,1
+3326,0001499453,"Spirit of Texas Bancshares, Inc.",stxb,1
+3327,0001353283,Splunk Inc,splk,1
+3328,0001289945,"Spok Holdings, Inc",spok,1
+3329,0001092699,Sps Commerce Inc,spsc,1
+3330,0001512673,"Square, Inc.",sq,1
+3331,0000203077,St Jude Medical Inc,stj,1
+3332,0000718937,Staar Surgical Co,staa,1
+3333,0001082923,Stamps.Com Inc,stmp,1
+3334,0000093389,Standard Motor Products Inc,smp,1
+3335,0000310354,Standex International Corp/DE/,sxi,1
+3336,0000093556,"Stanley Black & Decker, Inc.",swk,1
+3337,0000797465,Stanley Furniture Co Inc.,stly,1
+3338,0000791519,Staples Inc,spls,1
+3339,0001031029,"StarTek, Inc.",srt,1
+3340,0000829224,Starbucks Corp,sbux,1
+3341,cr35301,State Street Bank and Trust Company,,0
+3342,0001503579,Station Casinos LLC,stn,1
+3343,0001619087,SteadyMed Ltd.,stdy,1
+3344,0001022671,Steel Dynamics Inc,stld,1
+3345,0001050825,Steelcase Inc,scs,1
+3346,0000884940,Stein Mart Inc,smrt,1
+3347,0001264587,Stemline Therapeutics Inc,stml,1
+3348,0001289340,"Stereotaxis, Inc.",stxs,1
+3349,0000861878,Stericycle Inc,srcl,1
+3350,0000815065,Steris Corp,ste,1
+3351,0000913241,"Steven Madden, Ltd.",shoo,1
+3352,0001381455,Stewart & Stevenson LLC,,1
+3353,0001576942,"Stitch Fix, Inc.",sfix,1
+3354,0000932787,Stmicroelectronics Nv,stm,0
+3355,0001454389,Stonegate Mortgage Corp,sgm,1
+3356,0001043337,Stoneridge Inc,sri,1
+3357,0001057436,"Strategic Hotels & Resorts, Inc",bee,1
+3358,0000933034,Strattec Security Corp,strt,1
+3359,0001507842,Stratus Technologies Bermuda Holdings Ltd.,,0
+3360,0001013934,Strayer Education Inc,stra,1
+3361,0000310764,Stryker Corp,syk,1
+3362,0000095029,Sturm Ruger & Co Inc,rgr,1
+3363,0001402305,"SuccessFactors, Inc.",sfsf,1
+3364,0000919175,"Sugarmade, Inc.",sgmd,1
+3365,0001314772,"Summer Infant, Inc.",sumr,1
+3366,0000811808,Summit Financial Group Inc,smmf,1
+3367,0001682149,"Summit Wireless Technologies, Inc.",wisa,1
+3368,0001017793,Sun Bancorp Inc /Nj/,snbc,1
+3369,0001024795,Sun Hydraulics Corp,snhy,1
+3370,0000745544,Sun Life Assurance Co of Canada (U.S.),,1
+3371,0000351834,SunOpta Inc.,stkl,1
+3372,0001061027,Sunesis Pharmaceuticals Inc,snss,1
+3373,0001161154,Sunoco Logistics Partners L.P.,sxl,1
+3374,0001469367,Sunrun Inc.,run,1
+3375,0001506492,"Sunshine Heart, Inc.",ssh,1
+3376,0001295810,"Sunstone Hotel Investors, Inc.",sho,1
+3377,0000750556,Suntrust Banks Inc,sti,1
+3378,0001621672,"Super League Gaming, Inc.",slgg,1
+3379,0001375365,"Super Micro Computer, Inc.",smci,1
+3380,0001338624,SuperDirectories Inc.,sdir,1
+3381,0000895665,Superconductor Technologies Inc,scon,1
+3382,0001600422,"Superior Drilling Products, Inc.",sdpi,1
+3383,0000095552,Superior Industries International Inc,sup,1
+3384,0000095574,Superior Uniform Group Inc,sgc,1
+3385,0001356576,Supernus Pharmaceuticals Inc,supn,1
+3386,0000095521,Supervalu Inc,svu,1
+3387,0001104855,"Support.com, Inc.",sprt,1
+3388,0001411574,"Surgical Care Affiliates, Inc.",scai,1
+3389,0000924717,Surmodics Inc,srdx,1
+3390,0000700863,Susquehanna Bancshares Inc,susq,1
+3391,0001028954,Sussex Bancorp,sbbx,1
+3392,0000719739,Svb Financial Group,sivb,1
+3393,0000095779,"Swank, Inc.",snki,1
+3394,0001710583,"Switch, Inc.",SWCH,1
+3395,0001092367,Sycamore Networks Inc,scmr,1
+3396,0001010612,Sykes Enterprises Inc,syke,1
+3397,0000849399,Symantec Corp,symc,1
+3398,0001559495,Symetra Life Insurance Co,,0
+3399,0001292055,Symmetry Medical Inc.,sma,1
+3400,0001408278,"Synacor, Inc.",sync,1
+3401,0000911326,Synageva Biopharma Corp,geva,1
+3402,0000095953,Synalloy Corp,synl,1
+3403,0000817720,Synaptics Inc,syna,1
+3404,0001131554,Synchronoss Technologies Inc,sncr,1
+3405,cr1216022,Synchrony Bank,,0
+3406,0001601712,Synchrony Financial,syf,1
+3407,0001395937,Syndax Pharmaceuticals Inc,sndx,1
+3408,0000836429,Synergetics Usa Inc,surg,1
+3409,0001562733,Synergy CHC Corp.,snyr,1
+3410,0001291361,Syneron Medical Ltd.,elos,0
+3411,0001177394,Synnex Corp,snx,1
+3412,0000883241,Synopsys Inc,snps,1
+3413,cr395238,Synovus Bank,,0
+3414,0000018349,Synovus Financial Corp,snv,1
+3415,0001040426,Syntel Inc,synt,1
+3416,0001375063,Synthesis Energy Systems Inc,symx,1
+3417,0000864240,Sypris Solutions Inc,sypr,1
+3418,0000096021,Sysco Corp,syy,1
+3419,0000945114,Systemax Inc,syx,1
+3420,0001272754,"T Bancshares, Inc.",tbnc,1
+3421,0001283699,"T-Mobile US, Inc.",tmus,1
+3422,0001492674,"T2 Biosystems, Inc.",ttoo,1
+3423,0001434589,"T3 Motion, Inc.",tttm,1
+3424,0001027838,TACTILE SYSTEMS TECHNOLOGY INC,tcmd,1
+3425,0001046179,TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD,tsm,0
+3426,1395064,TAKEDA PHARMACEUTICAL CO LTD,,0
+3427,0000912263,TALBOTS INC,tlb.ws,1
+3428,0001134203,TALEO CORP,,1
+3429,0001547063,TAMINCO Corp,tam,1
+3430,0000096271,TAMPA ELECTRIC CO,,1
+3431,0001438133,TANDEM DIABETES CARE INC,tndm,1
+3432,0000869487,TANDY BRANDS ACCESSORIES INC,tbacq,1
+3433,0000906338,TARO PHARMACEUTICAL INDUSTRIES LTD,taro,0
+3434,0001116134,TATA COMMUNICATIONS LTD,tgli,0
+3435,cr266271,TCF National Bank,,0
+3436,y91249196,TD Bank US Holding Company,,0
+3437,0001385157,TE Connectivity Ltd.,tel,1
+3438,0001537435,TECOGEN INC.,tgen,1
+3439,0000039899,TEGNA INC,tgna,1
+3440,0000790705,TEKELEC,,1
+3441,0000814052,TELEFONICA S A,tef,0
+3442,0000928659,TELETOUCH COMMUNICATIONS INC,tlleq,1
+3443,0000317771,TELLABS INC,tlab,1
+3444,0000320121,TELOS CORP,tlsrp,1
+3445,0000915324,TELULAR CORP,,1
+3446,0000868675,TELUS CORP,tu,0
+3447,0000839443,TELVUE CORP,teve,1
+3448,0001296391,TENGION INC,tngnq,1
+3449,0000097142,"TENNESSEE GAS PIPELINE COMPANY, L.L.C.",,1
+3450,0001491576,"TESARO, Inc.",tsro,1
+3451,0000097472,TEXAS INDUSTRIES INC,txi,1
+3452,0000795551,THERAGENICS CORP,tgx,1
+3453,0000884504,THERMOENERGY CORP,tmen,1
+3454,0000097854,THOMAS & BETTS CORP,tnb,1
+3455,0000865570,THQ INC,thqiq,1
+3456,0000277928,"TII NETWORK TECHNOLOGIES, INC.",tiii,1
+3457,0001011657,TITANIUM METALS CORP,tie,1
+3458,0001491501,TMS International Corp.,tms,1
+3459,0001511967,TMX Finance LLC,,1
+3460,0000314227,"TOMI Environmental Solutions, Inc.",tomz,1
+3461,0000879764,TOTAL S.A.,tot,0
+3462,0001072847,TOWER FINANCIAL CORP,tofc,1
+3463,0001005414,TOYS R US INC,toys,1
+3464,0001455684,"TPI COMPOSITES, INC",tpic,1
+3465,0001039184,TRAILER BRIDGE INC,trbrq,1
+3466,0001144800,TRANSALTA CORP,tac,0
+3467,0000862510,TRANSATLANTIC HOLDINGS INC,trh,1
+3468,0000099070,TRANSCANADA PIPELINES LTD,trp_priv1,0
+3469,0000944739,TRANSWITCH CORP /DE,txccq,1
+3470,0000859475,TRIDENT MICROSYSTEMS INC,tridq,1
+3471,0001109153,"TRISTAR WELLNESS SOLUTIONS, INC.",twsi,1
+3472,0001678536,TRITON ACQUISITION CO,,1
+3473,0000943320,"TRUMP ENTERTAINMENT RESORTS, INC.",trmyq,1
+3474,0001371285,TRUPANION INC.,trup,1
+3475,0001103025,TRX INC/GA,trxi,1
+3476,0000895329,TUFCO TECHNOLOGIES INC,tfco,1
+3477,0001308161,"TWENTY-FIRST CENTURY FOX, INC.",foxa,1
+3478,0001090396,Table Trac Inc,tbtc,1
+3479,0001303652,Tableau Software Inc,data,1
+3480,0001651561,"Tabula Rasa HealthCare, Inc.",trhc,1
+3481,0000946581,Take Two Interactive Software Inc,ttwo,1
+3482,0001405197,Talecris Biotherapeutics Holdings Corp.,tlcr,1
+3483,0001622536,Talen Energy Corp,tln,1
+3484,0001047881,"Talon International, Inc.",taln,1
+3485,0000909724,Tandy Leather Factory Inc,tlf,1
+3486,0001182325,Tangoe Inc,tngo,1
+3487,0001389170,Targa Resources Corp.,trgp,1
+3488,0000027419,Target Corp,tgt,1
+3489,0001420030,"Targeted Medical Pharma, Inc.",trgm,1
+3490,0001069183,Taser International Inc,tasr,1
+3491,0000096536,Taylor Devices Inc,tayd,1
+3492,0001562476,Taylor Morrison Home Corp,tmhc,1
+3493,0000814184,Tcf Financial Corp,tcb,1
+3494,0001173431,Td Ameritrade Holding Corp,amtd,1
+3495,0000318833,Team Inc,tisi,1
+3496,0000790703,Tech Data Corp,tecd,1
+3497,0001293282,TechTarget Inc,ttgt,1
+3498,0000096699,Technical Communications Corp,tcco,1
+3499,0001681459,TechnipFMC plc,FTI,1
+3500,0001534675,Tecnoglass Inc.,tgls,1
+3501,0000096831,Tecumseh Products Co,tecu,1
+3502,0000096869,Tejon Ranch Co,trc,1
+3503,0001477449,"Teladoc, Inc.",tdoc,1
+3504,0001441905,"TeleCheck Services, Inc.",,0
+3505,0001628104,"TeleHealthCare, Inc.",tllt,1
+3506,0001474439,"TeleNav, Inc.",tnav,1
+3507,0001111665,Telecommunication Systems Inc /FA/,tsys,1
+3508,0001094285,Teledyne Technologies Inc,tdy,1
+3509,0000096943,Teleflex Inc,tfx,1
+3510,0001465191,Telesat Canada,,0
+3511,0001013880,Teletech Holdings Inc,ttec,1
+3512,0001612624,"Teletronics International, Inc.",,1
+3513,0000352998,"Teligent, Inc.",ig,1
+3514,0001094084,Telkonet Inc,tkoi,1
+3515,1739208,"Tenaya Group, Inc.",,1
+3516,0000070318,Tenet Healthcare Corp,thc,1
+3517,0001024725,Tenneco Inc,ten,1
+3518,0001376986,Tennessee Valley Authority,tvc,1
+3519,0000097210,"Teradyne, Inc",ter,1
+3520,0000097216,Terex Corp,tex,1
+3521,0001451512,Terra Tech Corp.,trtc,1
+3522,0001022705,Tesco Corp,teso,1
+3523,0001318605,Tesla Motors Inc,tsla,1
+3524,0000050104,Tesoro Corp /New/,tso,1
+3525,0000831641,Tetra Tech Inc,ttek,1
+3526,0000844965,Tetra Technologies Inc,tti,1
+3527,0000818686,Teva Pharmaceutical Industries Ltd,teva,1
+3528,0001077428,Texas Capital Bancshares Inc/TX,tcbi,1
+3529,0000097476,Texas Instruments Inc,txn,1
+3530,0000217346,Textron Inc,txt,1
+3531,0001565337,Textura Corp,txtr,1
+3532,0000025743,"TherapeuticsMD, Inc",txmd,1
+3533,0000097745,Thermo Fisher Scientific Inc.,tmo,1
+3534,0001080056,"Thestreet, Inc.",tst,1
+3535,0000350907,Thoratec Corp,thor,1
+3536,0001451598,"Thwapr, Inc.",thwi,1
+3537,0001085280,Tibco Software Inc,tibx,1
+3538,0000098222,Tidewater Inc,tdw,1
+3539,0000098246,Tiffany & Co,tif,1
+3540,0000820738,TigerLogic CORP,tigr,1
+3541,0001591517,Time Inc.,time,1
+3542,0001377013,Time Warner Cable Inc.,twc,1
+3543,0001105705,Time Warner Inc.,twx,1
+3544,0001554875,"Tintri, Inc.",tntr,1
+3545,1726079,"Tipmefast, Inc.",,1
+3546,0000899751,Titan International Inc,twi,1
+3547,0000910267,Titan Pharmaceuticals Inc,ttnp,1
+3548,0001088825,Tivo Inc,tivo,1
+3549,0000109198,Tjx Companies Inc /DE/,tjx,1
+3550,0001311596,"Tobira Therapeutics, Inc.",rgdo,1
+3551,0000730349,Tofutti Brands Inc,tof,1
+3552,0001005817,Tompkins Financial Corp,tmp,1
+3553,0001430306,Tonix Pharmaceuticals Holding Corp.,tnxp,1
+3554,0000098677,Tootsie Roll Industries Inc,tr,1
+3555,0000842295,Tor Minerals International Inc,torm,1
+3556,0000320335,Torchmark Corp,tmk,1
+3557,0001063197,Torvec Inc,tovc,1
+3558,0000721683,Total System Services Inc,tss,1
+3559,0001668370,"Toughbuilt Industries, Inc",,1
+3560,0001289592,"Tower Group International, Ltd.",twgp,1
+3561,0001485469,"Tower International, Inc.",towr,1
+3562,0001281774,Town Sports International Holdings Inc,club,1
+3563,0001499832,"Townsquare Media, Inc.",tsq,1
+3564,0001094517,Toyota Motor Corp/,tm,0
+3565,0001045942,"Track Group, Inc.",trck,1
+3566,0000916365,Tractor Supply Co /DE/,tsco,1
+3567,0001671933,"Trade Desk, Inc.",ttd,1
+3568,0001758730,Tradeweb Markets Inc.,tw,1
+3569,0000914577,Trans World Corp,twoc,1
+3570,0001017303,Transact Technologies Inc,tact,1
+3571,2451,"Transcend Information, Inc. (創見資訊)",transcend,0
+3572,0001043961,Transgenomic Inc,tbio,1
+3573,0001451505,Transocean Ltd.,rig,1
+3574,0000086312,"Travelers Companies, Inc.",trv,1
+3575,0000103096,Trc Companies Inc /DE/,trr,1
+3576,0000850429,Tredegar Corp,tg,1
+3577,0001320695,"TreeHouse Foods, Inc.",ths,1
+3578,0001380846,"TriState Capital Holdings, Inc.",tsc,1
+3579,0000864749,Trimble Navigation Ltd /CA/,trmb,1
+3580,0000357001,Trimedyne Inc,tmed,1
+3581,0001382158,Trina Solar LTD,tsl,0
+3582,0000099780,Trinity Industries Inc,trn,1
+3583,0001526520,"TripAdvisor, Inc.",trip,1
+3584,0001171662,Triple-S Management Corp,gts,1
+3585,0000913885,Triquint Semiconductor Inc,tqnt,1
+3586,0001021162,Triumph Group Inc,tgi,1
+3587,0001476246,Tropicana Entertainment Inc.,tpca,1
+3588,0001213037,"Trovagene, Inc.",trov,1
+3589,0000768899,"TrueBlue, Inc.",tbi,1
+3590,0001327318,"TrueCar, Inc.",true,1
+3591,0001349454,"Trulia, Inc.",trla,1
+3592,0000357301,Trustco Bank Corp N Y,trst,1
+3593,0000098338,Tsr Inc,tsri,1
+3594,0001116942,Ttm Technologies Inc,ttmi,1
+3595,0001430869,"Tupper, Inc.",tppr,1
+3596,0001493761,Turtle Beach Corp,hear,1
+3597,0000100378,Twin Disc Inc,twin,1
+3598,0001418091,"Twitter, Inc.",twtr,1
+3599,0001608109,Tyco International plc,,0
+3600,0000860731,Tyler Technologies Inc,tyl,1
+3601,0000100493,Tyson Foods Inc,tsn,1
+3602,0001289237,"U. S. Premium Beef, LLC",uspb,1
+3603,0001378950,"U.S. Auto Parts Network, Inc.",prts,1
+3604,cr504713,U.S. Bank National Association,,0
+3605,0001098881,"U.S. Rare Earths, Inc",uree,1
+3606,0001543450,"U.S. Well Services, LLC",,1
+3607,0001550935,"UBIC, INC.",ubic,0
+3608,0001114446,UBS AG,oubs,0
+3609,0001610520,UBS Group AG,ubs,0
+3610,0000074208,"UDR, Inc.",udr,1
+3611,0001369233,"UFood Restaurant Group, Inc.",uffcq,1
+3612,0000320431,"UNIFIED GROCERS, INC.",ufdg_priv,1
+3613,0000352747,UNIGENE LABORATORIES INC,ugneq,1
+3614,0000110390,UNILEVER N V,un,0
+3615,0000217410,UNILEVER PLC,ul,0
+3616,0000100790,UNION CARBIDE CORP /NEW/,dow_priv1,1
+3617,0000823533,UNION SECURITY INSURANCE CO,unsc_priv,1
+3618,0001172706,"UNIROYAL GLOBAL ENGINEERED PRODUCTS, INC.",unir,1
+3619,0000867963,UNITED AMERICAN HEALTHCARE CORP,uahc,1
+3620,0000889570,UNITED ARTISTS THEATRE CIRCUIT INC /MD/,rgc_priv1,1
+3621,0001033767,UNITED MICROELECTRONICS CORP,umc,0
+3622,0000101462,UNITED REFINING CO,urc_priv,1
+3623,0001082554,UNITED THERAPEUTICS Corp,uthr,1
+3624,0000886171,UNIVERSAL HOSPITAL SERVICES INC,,1
+3625,0000941138,UNS Energy Corp,uns,1
+3626,0000102379,URS CORP /NEW/,urs,1
+3627,0000701345,US AIRWAYS GROUP INC,lcc,1
+3628,0001561951,"US FOODS, INC.",usfo_priv,1
+3629,0001381871,"US Highland, Inc.",uhln,1
+3630,0000923571,US XPRESS ENTERPRISES INC,usx,1
+3631,0001124827,UTi WORLDWIDE INC,utiw,1
+3632,0001543151,"Uber Technologies, Inc",uber,1
+3633,0001511737,"Ubiquiti Networks, Inc.",ubnt,1
+3634,0000914156,Ufp Technologies Inc,ufpt,1
+3635,0000884614,Ugi Corp /PA/,ugi,1
+3636,0001438095,Ultimate Products CORP,ulpc,1
+3637,0001016125,Ultimate Software Group Inc,ulti,1
+3638,0001515673,Ultragenyx Pharmaceutical Inc.,rare,1
+3639,0000875657,Ultralife Corp,ulbi,1
+3640,0000909791,Ultratech Inc,utek,1
+3641,0000101382,Umb Financial Corp,umbf,1
+3642,0001336917,"Under Armour, Inc.",ua,1
+3643,0000826773,"UniTek Global Services, Inc.",untkq,1
+3644,0000100716,Unico American Corp,unam,1
+3645,0000100726,Unifi Inc,ufi,1
+3646,0000717954,Unifirst Corp,unf,1
+3647,0000100885,Union Pacific Corp,unp,1
+3648,0000746838,Unisys Corp,uis,1
+3649,cr365325,United Bank,,0
+3650,0001436161,United Cannabis Corp,cnab,1
+3651,0000857855,United Community Banks Inc,ucbi,1
+3652,0001501364,"United Financial Bancorp, Inc.",ubnk,1
+3653,0001405049,"United Financial Bancorp, Inc.",uf4,1
+3654,0000101199,United Fire Group Inc,ufcs,1
+3655,0001096938,"United Health Products, Inc.",ueec,1
+3656,0001020859,United Natural Foods Inc,unfi,1
+3657,0001142701,United Online Inc,untd,1
+3658,0001067701,United Rentals Inc /DE,uri,1
+3659,0000821130,United States Cellular Corp,usm,1
+3660,0001529505,United States Commodity Funds Trust I,,1
+3661,0001163302,United States Steel Corp,x,1
+3662,0000101829,United Technologies Corp /DE/,utx,1
+3663,1763543,United World Holding Group Ltd.,,0
+3664,0000731766,Unitedhealth Group Inc,unh,1
+3665,0001463361,"Unity Biotechnology, Inc.",ubx,1
+3666,0001494319,Univar Inc.,unvr,1
+3667,0001514128,Universal American Corp.,uam,1
+3668,0001005284,Universal Display Corp \Pa\,oled,1
+3669,0000101984,Universal Electronics Inc,ueic,1
+3670,0000912767,Universal Forest Products Inc,ufpi,1
+3671,0000352915,Universal Health Services Inc,uhs,1
+3672,0000102109,Universal Security Instruments Inc,uuu,1
+3673,0001261654,Universal Technical Institute Inc,uti,1
+3674,0001308208,"Universal Truckload Services, Inc.",uacl,1
+3675,0000102212,Univest Corp Of Pennsylvania,uvsp,1
+3676,0000005513,Unum Group,unm,1
+3677,0001505155,"Upland Software, Inc.",upld,1
+3678,0000315449,Uqm Technologies Inc,uqm,1
+3679,0000912615,Urban Outfitters Inc,urbn,1
+3680,0000882873,Urologix Inc,ulgx,1
+3681,0000890846,Uroplasty Inc,upi,1
+3682,0001073429,Us Concrete Inc,uscr,1
+3683,0000742126,"Us Ecology, Inc.",ecol,1
+3684,0000896429,Usa Technologies Inc,usat,1
+3685,0000883945,Usa Truck Inc,usak,1
+3686,0000896264,Usana Health Sciences Inc,usna,1
+3687,0000757011,Usg Corp,usg,1
+3688,0000706698,Utah Medical Products Inc,utmd,1
+3689,0000898171,Uwharrie Capital Corp,uwhr,1
+3690,0000103379,V F Corp,vfc,1
+3691,0000883293,VALASSIS COMMUNICATIONS INC,vci,1
+3692,0001013453,"VALCOM, INC",vlco,1
+3693,0000885551,VALENCE TECHNOLOGY INC,vlncq,1
+3694,0001045829,VANGUARD HEALTH SYSTEMS INC,vhs,1
+3695,0001253176,VAPOTHERM INC,vapo,1
+3696,0001361113,VARONIS SYSTEMS INC,vrns,1
+3697,0000839087,"VASOMEDICAL, INC",vaso,1
+3698,0001049210,VERENIUM CORP,vrnm,1
+3699,0001293135,VERMILION ENERGY INC.,vet,0
+3700,0000865917,VERSANT CORP,vsnt,1
+3701,2388,"VIA TECHNOLOGIES, INC. (威盛電子)",via,0
+3702,0001270200,VIASPACE Inc.,vspc,1
+3703,0000912093,VIAVI SOLUTIONS INC.,jdsu,1
+3704,0000103446,VICTOR EQUIPMENT CO,,0
+3705,0000946840,VIROPHARMA INC,vphm,1
+3706,0001437283,"VIRTUAL PIGGY, INC.",vpig,1
+3707,0001405424,VISION INDUSTRIES CORP,viicq,1
+3708,0001513520,"VISIONARY SYSTEMS, INC.",,0
+3709,0000946823,VITRAN CORP INC,,1
+3710,0000807707,VOXX International Corp,voxx,1
+3711,0001028394,VOYAGER ENTERTAINMENT INTERNATIONAL INC,veii,1
+3712,0001300446,"VWR International, LLC",,1
+3713,0000885590,"Valeant Pharmaceuticals International, Inc.",vrx,1
+3714,0001035002,Valero Energy Corp/TX,vlo,1
+3715,0001348259,Validus Holdings Ltd,vr,1
+3716,0000714310,Valley National Bancorp,vly,1
+3717,0000102729,Valmont Industries Inc,vmi,1
+3718,0000102741,Valspar Corp,val,1
+3719,0000717720,Value Line Inc,valu,1
+3720,0001347178,Vanda Pharmaceuticals Inc.,vnda,1
+3721,0001402478,"Vangent, Inc.",,1
+3722,0001533932,"Vantiv, Inc.",vntv,1
+3723,0001455819,"Vape Holdings, Inc.",wape,1
+3724,0001681622,Varex Imaging Corp,vrex,1
+3725,0000203527,Varian Medical Systems Inc,var,1
+3726,0001044777,Vasco Data Security International Inc,vdsi,1
+3727,0001603207,Vascular Biogenics Ltd.,vblt,0
+3728,0001030206,Vascular Solutions Inc,vasc,1
+3729,0001096385,Vectren Corp,vvc,1
+3730,0000103145,Veeco Instruments Inc,veco,1
+3731,0001393052,Veeva Systems Inc,veev,1
+3732,0001490412,Velti plc,veltf,0
+3733,0000740260,Ventas Inc,vtr,1
+3734,0000887359,Vericel Corp,vcel,1
+3735,0001166388,Verint Systems Inc,vrnt,1
+3736,0001014473,Verisign Inc/CA,vrsn,1
+3737,0000773318,Veritec Inc,vrtc,1
+3738,0001418115,Verity Corp.,vrty,1
+3739,0000732712,Verizon Communications Inc,vz,1
+3740,0000926617,"Vermillion, Inc.",vrml,1
+3741,0000803647,Versar Inc,vsr,1
+3742,0001421182,Verso Corp.,vrs,1
+3743,0000875320,Vertex Pharmaceuticals Inc / Ma,vrtx,1
+3744,0001094808,"Vertro, Inc.",,1
+3745,0001339947,Viacom Inc.,viab,1
+3746,0000884219,Viad Corp,vvi,1
+3747,0000797721,Viasat Inc,vsat,1
+3748,0001101169,Viasystems Group Inc,vias,1
+3749,0001479320,Vibe Ventures Inc.,vbbv,1
+3750,0000819050,Vical Inc,vicl,1
+3751,0000310056,Vicon Industries Inc /NY/,vii,1
+3752,0000751978,Vicor Corp,vicr,1
+3753,0001335104,"Vicor Technologies, Inc.",,1
+3754,1084475,"Video River Networks, Inc.",,1
+3755,0001597313,"ViewRay, Inc.",vray,1
+3756,0000751365,Virco Mfg Corporation,virc,1
+3757,0001572334,Virginia National Bankshares Corp,vabk,1
+3758,0001518336,"Virtual Learning Company, Inc.",vlci,1
+3759,0001207074,Virtusa Corp,vrtu,1
+3760,0001403161,Visa Inc.,v,1
+3761,0000103730,Vishay Intertechnology Inc,vsh,1
+3762,0001111335,Visteon Corp,vc,1
+3763,0001401688,"Vitacost.com, Inc.",,1
+3764,0001157602,"Vitae Pharmaceuticals, Inc",vtae,1
+3765,0000880446,Vitesse Semiconductor Corp,vtss,1
+3766,0000881524,Vivus Inc,vvus,1
+3767,0001124610,"Vmware, Inc.",vmw,1
+3768,0001129260,"Vocera Communications, Inc.",vcra,1
+3769,0001329919,"Vocus, Inc.",,1
+3770,0001620053,Vodka Brands Corp,vbco,1
+3771,0001354217,Volcano Corp,volc,1
+3772,0000103872,"Volt Information Sciences, Inc.",visi,1
+3773,0001272830,Vonage Holdings Corp,vg,1
+3774,0001396009,Vulcan Materials CO,vmc,1
+3775,0001308027,Vystar Corp,vyst,1
+3776,0001045309,W R Grace & Co,gra,1
+3777,0001288403,W&T Offshore Inc,wti,1
+3778,0001574532,"WCI Communities, Inc.",wcic,1
+3779,0001603565,"WCI Communities, LLC",,0
+3780,0001098277,WEBSENSE INC,wbsn,1
+3781,0000783325,"WEC ENERGY GROUP, INC.",wec,1
+3782,0000072971,WELLS FARGO & COMPANY/MN,wfc,1
+3783,0000766704,WELLTOWER INC.,hcn,1
+3784,0001024657,WEST CORP,wstc,1
+3785,0000805080,WEST SUBURBAN BANCORP INC,wnrp,1
+3786,0000719245,WESTPAC BANKING CORP,wbk,0
+3787,0000863456,WET SEAL INC,wtsl,1
+3788,0001309108,WEX Inc.,wex,1
+3789,0001555365,WHITEWAVE FOODS Co,wwav,1
+3790,0001095996,WILLIAM LYON HOMES,wlh,1
+3791,0000872821,WILMINGTON TRUST CORP,wl,1
+3792,2344,WINBOND ELECTRONICS CORP.(華邦電子),wec,0
+3793,0000107681,WINN DIXIE STORES INC,,1
+3794,0000107833,WISCONSIN PUBLIC SERVICE CORP,wipsm,1
+3795,0001264136,WOORI FINANCE HOLDINGS CO LTD,wf,0
+3796,0001445305,WORKIVA INC,wk,1
+3797,0001095266,WORKSTREAM INC,wstm,1
+3798,0001024520,WORLD HEART CORP,whrt,1
+3799,0001594686,WP Glimcher Inc.,wpg,1
+3800,0001702924,"WRAP TECHNOLOGIES, INC.",WRTC,1
+3801,0000879526,Wabash National Corp /DE,wnc,1
+3802,0001052100,Waddell & Reed Financial Inc,wdr,1
+3803,0001158863,"Wageworks, Inc.",wage,1
+3804,1716770,Wah Fu Education Group Ltd,WAFU,0
+3805,0000104207,Walgreen Co,wag,1
+3806,0001618921,"Walgreens Boots Alliance, Inc.",wba,1
+3807,0001323854,Warner Chilcott plc,,1
+3808,0001319161,Warner Music Group Corp.,wmg,1
+3809,0000737468,Washington Trust Bancorp Inc,wash,1
+3810,0001057058,"Waste Connections, Inc.",wcn,1
+3811,0000823768,Waste Management Inc,wm,1
+3812,0001000697,Waters Corp /DE/,wat,1
+3813,0000105016,Watsco Inc,wso,1
+3814,0000105076,Wausau Paper Corp.,wpp,1
+3815,0000919013,Wave Systems Corp,wavx,1
+3816,0000945983,"Wayside Technology Group, Inc.",wstg,1
+3817,0001095291,"Web.Com Group, Inc.",wwww,1
+3818,cr761806,Webster Bank N.A.,,0
+3819,0000801337,Webster Financial Corp,wbs,1
+3820,0000105319,Weight Watchers International Inc,wtw,1
+3821,0000828916,Weingarten Realty Investors /TX/,wri,1
+3822,0000105418,Weis Markets Inc,wmk,1
+3823,0001592707,Weiser Lock Corp,,0
+3824,cr451965,"Wells Fargo Bank, N.A.",,0
+3825,0000793074,Werner Enterprises Inc,wern,1
+3826,0000203596,Wesbanco Inc,wsbc,1
+3827,0001166928,West Bancorporation Inc,wtba,1
+3828,0000105770,West Pharmaceutical Services Inc,wst,1
+3829,0000054507,Westar Energy Inc /Ks,wr,1
+3830,0001002135,Westell Technologies Inc,wstl,1
+3831,0001212545,Western Alliance Bancorporation,wal,1
+3832,0000106040,Western Digital Corp,wdc,1
+3833,0001414475,Western Gas Partners LP,wes,1
+3834,0001365135,Western Union CO,wu,1
+3835,0000943452,Westinghouse Air Brake Technologies Corp,wab,1
+3836,0001262823,Westlake Chemical Corp,wlk,1
+3837,0001165002,Westwood Holdings Group Inc,whg,1
+3838,0000106532,Weyco Group Inc,weys,1
+3839,0000106535,Weyerhaeuser Co,wy,1
+3840,104819,Wgl Holdings Inc,wgl,1
+3841,0001323404,Wheaton Precious Metals Corp.,slw,0
+3842,0001360565,"Where Food Comes From, Inc.",wfcf,1
+3843,0000106640,Whirlpool Corp /DE/,whr,1
+3844,0001175535,Whitestone REIT,wsr,1
+3845,0000865436,Whole Foods Market Inc,wfm,1
+3846,0001571833,"WideOpenWest Finance, LLC",wdow_priv,1
+3847,0000838875,Willamette Valley Vineyards Inc,wvvi,1
+3848,0001449732,"Willbros Group, Inc.",wg,1
+3849,0001370450,"Willdan Group, Inc.",wldn,1
+3850,0000107263,Williams Companies Inc,wmb,1
+3851,0000719955,Williams Sonoma Inc,wsm,1
+3852,0001018164,Willis Lease Finance Corp,wlfc,1
+3853,0001439133,"Windstream Technologies, Inc.",wsti,1
+3854,0000749935,Winland Electronics Inc,welx,1
+3855,0000908315,Winmark Corp,wina,1
+3856,0000107687,Winnebago Industries Inc,wgo,1
+3857,0001015328,Wintrust Financial Corp,wtfc,1
+3858,0001522182,WireCo WorldGroup Inc.,wcwg_priv,1
+3859,1379527,WisdomTree Continuous Commodity Index Fund,gcc,1
+3860,0000880631,"WisdomTree Investments, Inc.",wetf,1
+3861,0001519300,Wix Filtration Corp LLC,,0
+3862,0001576789,Wix.com Ltd.,wix,0
+3863,0001162896,"Wizard World, Inc.",wizd,1
+3864,0001424404,Wolverine Technologies Corp.,wolv,1
+3865,0000110471,Wolverine World Wide Inc /DE/,www,1
+3866,0000108312,"Woodward, Inc.",wwd,1
+3867,0001527648,Work Area Protection Corp.,,0
+3868,0001327811,"Workday, Inc.",wday,1
+3869,0001371781,"World Energy Solutions, Inc.",xwes,1
+3870,0000789460,World Fuel Services Corp,int,1
+3871,0001389879,"World Series of Golf, Inc.",wsgf,1
+3872,0001091907,World Wrestling Entertainmentinc,wwe,1
+3873,0000108516,Worthington Industries Inc,wor,1
+3874,0000828944,Wsfs Financial Corp,wsfs,1
+3875,0001361658,Wyndham Worldwide Corp,wyn,1
+3876,0001174922,Wynn Resorts Ltd,wynn,1
+3877,0001435375,XG SCIENCES INC,xgsc_priv,1
+3878,0000791908,XOMA Corp,xoma,1
+3879,0001315657,XOOM Corp,xoom,1
+3880,0001166003,"XPO Logistics, Inc.",xpo,1
+3881,0000854398,XRS Corp,xrsc,1
+3882,0000868809,XTO ENERGY INC,xto,1
+3883,0001084597,XZERES Corp.,xpwr,1
+3884,0001322554,Xactly Corp,xtly,1
+3885,0000072903,Xcel Energy Inc,xel,1
+3886,0000357020,Xcerra Corp,xcra,1
+3887,0001326732,Xencor Inc,xncr,1
+3888,0001130591,Xenoport Inc,xnpt,1
+3889,0001287151,Xerium Technologies Inc,xrm,1
+3890,0000108772,Xerox Corp,xrx,1
+3891,0000743988,Xilinx Inc,xlnx,1
+3892,0001062292,Xo Group Inc.,xoxo,1
+3893,0001177845,Xplore Technologies Corp,xplr,1
+3894,0001161315,YODLEE INC,ydle,1
+3895,0000716006,YRC Worldwide Inc.,yrcw,1
+3896,0001011006,Yahoo Inc,yhoo,1
+3897,0001345016,Yelp Inc,yelp,1
+3898,0001614178,"Yext, Inc.",yext,1
+3899,0001569329,"Youngevity International, Inc.",ygyi,1
+3900,0000933590,"Your Community Bankshares, Inc.",cbin,1
+3901,0001415624,YuMe Inc,yume,1
+3902,0001041061,Yum Brands Inc,yum,1
+3903,0001374690,"ZAFGEN, INC.",zfgn,1
+3904,0001296205,ZAGG Inc,zagg,1
+3905,0000109156,ZALE CORP,zlc,1
+3906,0001024628,ZAP,zaap,1
+3907,0001131457,ZIPCAR INC,zip,1
+3908,0001142512,ZIPREALTY INC,zipr,1
+3909,0000887568,ZOLL MEDICAL CORP,zoll,1
+3910,0001003022,ZORAN CORP \DE\,,1
+3911,0001423774,ZUORA INC,zuo,1
+3912,0000730716,ZYGO CORP,zigo,1
+3913,0001528393,ZaZa Energy Corp,zaza,1
+3914,1502756,"Zayo Group Holdings, Inc.",zayo,1
+3915,0000877212,Zebra Technologies Corp,zbra,1
+3916,0001667313,"Zedge, Inc.",zdge,1
+3917,0001415336,Zeltiq Aesthetics Inc,zltq,1
+3918,0001463172,"Zendesk, Inc.",zen,1
+3919,0001101680,Zhone Technologies Inc,zhne,1
+3920,0001334814,Zillow Inc,z,1
+3921,0001131312,Zion Oil & Gas Inc,zn,1
+3922,0000109380,Zions Bancorporation /UT/,zion,1
+3923,cr276579,"Zions Bancorporation, National Association",,0
+3924,0000855612,Zix Corp,zixi,1
+3925,0001467761,"Zoom Telephonics, Inc.",zmtp,1
+3926,0001587221,Zosano Pharma Corp,zsan,1
+3927,0001318008,Zumiez Inc,zumz,1
+3928,0001403752,Zymeworks Inc.,ZYME,1
+3929,0001439404,Zynga Inc,znga,1
+3930,0001059272,"bebe stores, inc.",bebe,1
+3931,0001337885,"dELiAs, Inc.",,1
+3932,0001333493,"eHealth, Inc.",ehth,1
+3933,0001560258,"electroCore, Inc.",ecor,1
+3934,3413,foxsemicon integrated technology Inc. (京鼎精密科技),,0
+3935,0001021435,hopTo Inc.,hpto,1
+3936,0001075656,"iGo, Inc.",igoi,1
+3937,0001634291,"iHealthcare, Inc.",iheal_priv,1
+3938,0001140184,"iPayment, Inc.",,1
+3939,0001388658,"iRhythm Technologies, Inc.",irtc,1
+3940,0000741114,"iSatori, Inc.",ifit,1
+3941,0000727634,iSign Solutions Inc.,isgnd,1
+3942,0001498372,iWallet Corp,iwal,1
+3943,0001087934,"inContact, Inc.",saas,1
+3944,0001397187,lululemon athletica inc.,lulu,1
+3945,0001525852,"mCig, Inc.",mcig,1
+3946,0001120792,nFinanSe Inc.,nfse,1
+3947,0001299688,"optionsXpress Holdings, Inc.",,1
+3948,0001471458,"rue21, inc.",rue,1
+3949,0001604950,scPharmaceuticals Inc.,scph,1
+3950,0001641489,vTv Therapeutics Inc.,vtvt,1
+3951,0001565228,"xG TECHNOLOGY, INC.",xgti,1
+3952,0001478484,"zulily, inc.",zu,1
